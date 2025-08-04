@@ -1,0 +1,6050 @@
+[
+  {
+    "kennzeichen": "A",
+    "stadt": "Stadt Augsburg, Landkreis Augsburg",
+    "bundesland": "Bayern",
+    "ursprung": "Augsburg",
+    "landkreis_id": 1,
+    "id": 1
+  },
+  {
+    "kennzeichen": "AA",
+    "stadt": "Ostalbkreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "AAlen",
+    "landkreis_id": 2,
+    "id": 2
+  },
+  {
+    "kennzeichen": "AB",
+    "stadt": "Stadt Aschaffenburg, Landkreis Aschaffenburg",
+    "bundesland": "Bayern",
+    "ursprung": "AschaffenBurg",
+    "landkreis_id": 3,
+    "id": 3
+  },
+  {
+    "kennzeichen": "ABG",
+    "stadt": "Landkreis Altenburger Land",
+    "bundesland": "Thüringen",
+    "ursprung": "AltenBurG",
+    "landkreis_id": 4,
+    "id": 4
+  },
+  {
+    "kennzeichen": "ABI",
+    "stadt": "Landkreis Anhalt-Bitterfeld",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "Anhalt, BItterfeld",
+    "landkreis_id": 5,
+    "id": 5
+  },
+  {
+    "kennzeichen": "AC",
+    "stadt": "Städteregion Aachen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "AaChen",
+    "landkreis_id": 6,
+    "id": 6
+  },
+  {
+    "kennzeichen": "AE",
+    "stadt": "Vogtlandkreis",
+    "bundesland": "Sachsen",
+    "ursprung": "AuErbach",
+    "landkreis_id": 648,
+    "id": 7
+  },
+  {
+    "kennzeichen": "AH",
+    "stadt": "Kreis Borken",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "AHaus",
+    "landkreis_id": 68,
+    "id": 8
+  },
+  {
+    "kennzeichen": "AIB",
+    "stadt": "Landkreis München",
+    "bundesland": "Bayern",
+    "ursprung": "AIBling",
+    "landkreis_id": 371,
+    "id": 9
+  },
+  {
+    "kennzeichen": "AIB",
+    "stadt": "Landkreis Rosenheim",
+    "bundesland": "Bayern",
+    "ursprung": "AIBling",
+    "landkreis_id": 530,
+    "id": 1009
+  },
+  {
+    "kennzeichen": "AIC",
+    "stadt": "Landkreis Aichach-Friedberg",
+    "bundesland": "Bayern",
+    "ursprung": "AIChach",
+    "landkreis_id": 10,
+    "id": 10
+  },
+  {
+    "kennzeichen": "AK",
+    "stadt": "Landkreis Altenkirchen (Westerwald)",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "AltenKirchen",
+    "landkreis_id": 11,
+    "id": 11
+  },
+  {
+    "kennzeichen": "ALF",
+    "stadt": "Landkreis Hildesheim",
+    "bundesland": "Niedersachsen",
+    "ursprung": "ALFeld",
+    "landkreis_id": 262,
+    "id": 12
+  },
+  {
+    "kennzeichen": "ALZ",
+    "stadt": "Landkreis Aschaffenburg",
+    "bundesland": "Bayern",
+    "ursprung": "ALZenau",
+    "landkreis_id": 3,
+    "id": 13
+  },
+  {
+    "kennzeichen": "AM",
+    "stadt": "Stadt Amberg",
+    "bundesland": "Bayern",
+    "ursprung": "AMberg",
+    "landkreis_id": 14,
+    "id": 14
+  },
+  {
+    "kennzeichen": "AN",
+    "stadt": "Stadt Ansbach, Landkreis Ansbach",
+    "bundesland": "Bayern",
+    "ursprung": "ANsbach",
+    "landkreis_id": 15,
+    "id": 15
+  },
+  {
+    "kennzeichen": "ANA",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "ANnAberg",
+    "landkreis_id": 159,
+    "id": 16
+  },
+  {
+    "kennzeichen": "ANG",
+    "stadt": "Landkreis Uckermark",
+    "bundesland": "Brandenburg",
+    "ursprung": "ANGermünde",
+    "landkreis_id": 644,
+    "id": 17
+  },
+  {
+    "kennzeichen": "ANK",
+    "stadt": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "ANKlam",
+    "landkreis_id": 259,
+    "id": 18
+  },
+  {
+    "kennzeichen": "AÖ",
+    "stadt": "Landkreis Altötting",
+    "bundesland": "Bayern",
+    "ursprung": "AltÖtting",
+    "landkreis_id": 19,
+    "id": 19
+  },
+  {
+    "kennzeichen": "AP",
+    "stadt": "Landkreis Weimarer Land",
+    "bundesland": "Thüringen",
+    "ursprung": "APolda",
+    "landkreis_id": 20,
+    "id": 20
+  },
+  {
+    "kennzeichen": "APD",
+    "stadt": "Landkreis Weimarer Land",
+    "bundesland": "Thüringen",
+    "ursprung": "APolDa",
+    "landkreis_id": 20,
+    "id": 21
+  },
+  {
+    "kennzeichen": "ARN",
+    "stadt": "Ilm-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "ARNstadt",
+    "landkreis_id": 292,
+    "id": 22
+  },
+  {
+    "kennzeichen": "ART",
+    "stadt": "Kyffhäuserkreis",
+    "bundesland": "Thüringen",
+    "ursprung": "ARTern",
+    "landkreis_id": 333,
+    "id": 23
+  },
+  {
+    "kennzeichen": "AS",
+    "stadt": "Landkreis Amberg-Sulzbach",
+    "bundesland": "Bayern",
+    "ursprung": "Amberg, Sulzbach",
+    "landkreis_id": 24,
+    "id": 24
+  },
+  {
+    "kennzeichen": "ASL",
+    "stadt": "Salzlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "ASchersLeben",
+    "landkreis_id": 587,
+    "id": 25
+  },
+  {
+    "kennzeichen": "ASZ",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "Aue, SchwarZenberg",
+    "landkreis_id": 159,
+    "id": 26
+  },
+  {
+    "kennzeichen": "AT",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "AltenTreptow",
+    "landkreis_id": 429,
+    "id": 27
+  },
+  {
+    "kennzeichen": "AU",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "AUe",
+    "landkreis_id": 159,
+    "id": 28
+  },
+  {
+    "kennzeichen": "AUR",
+    "stadt": "Landkreis Aurich",
+    "bundesland": "Niedersachsen",
+    "ursprung": "AURich",
+    "landkreis_id": 29,
+    "id": 29
+  },
+  {
+    "kennzeichen": "AW",
+    "stadt": "Landkreis Ahrweiler",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "AhrWeiler",
+    "landkreis_id": 30,
+    "id": 30
+  },
+  {
+    "kennzeichen": "AZ",
+    "stadt": "Landkreis Alzey-Worms",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "AlZey",
+    "landkreis_id": 31,
+    "id": 31
+  },
+  {
+    "kennzeichen": "AZE",
+    "stadt": "Landkreis Anhalt-Bitterfeld",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "Anhalt-ZErbst",
+    "landkreis_id": 5,
+    "id": 32
+  },
+  {
+    "kennzeichen": "B",
+    "stadt": "Berlin",
+    "bundesland": "Berlin",
+    "ursprung": "Berlin",
+    "landkreis_id": 33,
+    "id": 33
+  },
+  {
+    "kennzeichen": "BA",
+    "stadt": "Stadt Bamberg, Landkreis Bamberg",
+    "bundesland": "Bayern",
+    "ursprung": "BAmberg",
+    "landkreis_id": 34,
+    "id": 34
+  },
+  {
+    "kennzeichen": "BAD",
+    "stadt": "Stadt Baden-Baden",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BADen-Baden",
+    "landkreis_id": 35,
+    "id": 35
+  },
+  {
+    "kennzeichen": "BAR",
+    "stadt": "Landkreis Barnim",
+    "bundesland": "Brandenburg",
+    "ursprung": "BARnim",
+    "landkreis_id": 36,
+    "id": 36
+  },
+  {
+    "kennzeichen": "BB",
+    "stadt": "Landkreis Böblingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BöBlingen",
+    "landkreis_id": 37,
+    "id": 37
+  },
+  {
+    "kennzeichen": "BBG",
+    "stadt": "Salzlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "BernBurG",
+    "landkreis_id": 587,
+    "id": 38
+  },
+  {
+    "kennzeichen": "BBL",
+    "stadt": "Brandenburg, Landesregierung, Landtag und Polizei",
+    "bundesland": "Brandenburg",
+    "ursprung": "BrandenBurgische Landesregierung",
+    "landkreis_id": 0,
+    "id": 39
+  },
+  {
+    "kennzeichen": "BC",
+    "stadt": "Landkreis Biberach",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BiberaCh",
+    "landkreis_id": 40,
+    "id": 40
+  },
+  {
+    "kennzeichen": "BCH",
+    "stadt": "Neckar-Odenwald-Kreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BuCHen",
+    "landkreis_id": 404,
+    "id": 41
+  },
+  {
+    "kennzeichen": "BD",
+    "stadt": "Deutscher Bundestag, Bundesrat, Bundespräsidialamt, Bundesregierung, Bundesministerien, Bundesfinanzverwaltung und Bundesverfassungsgericht",
+    "bundesland": "bundesweit",
+    "ursprung": "BundesDienst",
+    "landkreis_id": 0,
+    "id": 42
+  },
+  {
+    "kennzeichen": "BE",
+    "stadt": "Kreis Warendorf",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BEckum",
+    "landkreis_id": 663,
+    "id": 43
+  },
+  {
+    "kennzeichen": "BED",
+    "stadt": "Landkreis Mittelsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "Brand-ErbisDorf",
+    "landkreis_id": 173,
+    "id": 44
+  },
+  {
+    "kennzeichen": "BER",
+    "stadt": "Landkreis Barnim",
+    "bundesland": "Brandenburg",
+    "ursprung": "BERnau",
+    "landkreis_id": 36,
+    "id": 45
+  },
+  {
+    "kennzeichen": "BF",
+    "stadt": "Kreis Steinfurt",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BurgsteinFurt",
+    "landkreis_id": 607,
+    "id": 46
+  },
+  {
+    "kennzeichen": "BGD",
+    "stadt": "Landkreis Berchtesgadener Land",
+    "bundesland": "Bayern",
+    "ursprung": "BerchtesGaDen",
+    "landkreis_id": 48,
+    "id": 47
+  },
+  {
+    "kennzeichen": "BGL",
+    "stadt": "Landkreis Berchtesgadener Land",
+    "bundesland": "Bayern",
+    "ursprung": "BerchtesGadener Land",
+    "landkreis_id": 48,
+    "id": 48
+  },
+  {
+    "kennzeichen": "BH",
+    "stadt": "Ortenaukreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BüHl",
+    "landkreis_id": 473,
+    "id": 49
+  },
+  {
+    "kennzeichen": "BH",
+    "stadt": "Landkreis Rastatt",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BüHl",
+    "landkreis_id": 514,
+    "id": 1049
+  },
+  {
+    "kennzeichen": "BI",
+    "stadt": "Stadt Bielefeld",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BIelefeld",
+    "landkreis_id": 50,
+    "id": 50
+  },
+  {
+    "kennzeichen": "BID",
+    "stadt": "Landkreis Marburg-Biedenkopf",
+    "bundesland": "Hessen",
+    "ursprung": "BIeDenkopf",
+    "landkreis_id": 406,
+    "id": 51
+  },
+  {
+    "kennzeichen": "BIN",
+    "stadt": "Landkreis Mainz-Bingen",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "BINgen",
+    "landkreis_id": 423,
+    "id": 52
+  },
+  {
+    "kennzeichen": "BIR",
+    "stadt": "Landkreis Birkenfeld",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "BIRkenfeld",
+    "landkreis_id": 53,
+    "id": 53
+  },
+  {
+    "kennzeichen": "BIT",
+    "stadt": "Eifelkreis Bitburg-Prüm",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "BITburg",
+    "landkreis_id": 54,
+    "id": 54
+  },
+  {
+    "kennzeichen": "BIW",
+    "stadt": "Landkreis Bautzen",
+    "bundesland": "Sachsen",
+    "ursprung": "BIschofsWerda",
+    "landkreis_id": 90,
+    "id": 55
+  },
+  {
+    "kennzeichen": "BK",
+    "stadt": "Landkreis Backnang",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BacKnang",
+    "landkreis_id": 691,
+    "id": 56
+  },
+  {
+    "kennzeichen": "BKS",
+    "stadt": "Landkreis Bernkastel-Wittlich",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "BernKaStel",
+    "landkreis_id": 680,
+    "id": 57
+  },
+  {
+    "kennzeichen": "BL",
+    "stadt": "Zollernalbkreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BaLingen",
+    "landkreis_id": 58,
+    "id": 58
+  },
+  {
+    "kennzeichen": "BLB",
+    "stadt": "Kreis Siegen-Wittgenstein",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BerLeBurg",
+    "landkreis_id": 578,
+    "id": 59
+  },
+  {
+    "kennzeichen": "BLK",
+    "stadt": "Burgenlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "BurgenLandKreis",
+    "landkreis_id": 60,
+    "id": 60
+  },
+  {
+    "kennzeichen": "BM",
+    "stadt": "Rhein-Erft-Kreis",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BergheiM",
+    "landkreis_id": 61,
+    "id": 61
+  },
+  {
+    "kennzeichen": "BN",
+    "stadt": "Stadt Bonn, Diplomaten",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BonN",
+    "landkreis_id": 62,
+    "id": 62
+  },
+  {
+    "kennzeichen": "BNA",
+    "stadt": "Landkreis Leipzig",
+    "bundesland": "Sachsen",
+    "ursprung": "BorNA",
+    "landkreis_id": 334,
+    "id": 63
+  },
+  {
+    "kennzeichen": "BO",
+    "stadt": "Stadt Bochum",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BOchum",
+    "landkreis_id": 64,
+    "id": 64
+  },
+  {
+    "kennzeichen": "BÖ",
+    "stadt": "Landkreis Börde",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "BÖrde",
+    "landkreis_id": 65,
+    "id": 65
+  },
+  {
+    "kennzeichen": "BOG",
+    "stadt": "Landkreis Straubing-Bogen",
+    "bundesland": "Bayern",
+    "ursprung": "BOGen",
+    "landkreis_id": 604,
+    "id": 66
+  },
+  {
+    "kennzeichen": "BOH",
+    "stadt": "Kreis Borken",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BOcHolt",
+    "landkreis_id": 68,
+    "id": 67
+  },
+  {
+    "kennzeichen": "BOR",
+    "stadt": "Kreis Borken",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BORken",
+    "landkreis_id": 68,
+    "id": 68
+  },
+  {
+    "kennzeichen": "BOT",
+    "stadt": "Stadt Bottrop",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BOTtrop",
+    "landkreis_id": 69,
+    "id": 69
+  },
+  {
+    "kennzeichen": "BP",
+    "stadt": "Bundespolizei",
+    "bundesland": "bundesweit",
+    "ursprung": "BundesPolizei",
+    "landkreis_id": 0,
+    "id": 70
+  },
+  {
+    "kennzeichen": "BRA",
+    "stadt": "Landkreis Wesermarsch",
+    "bundesland": "Niedersachsen",
+    "ursprung": "BRAke",
+    "landkreis_id": 71,
+    "id": 71
+  },
+  {
+    "kennzeichen": "BRB",
+    "stadt": "Stadt Brandenburg an der Havel",
+    "bundesland": "Brandenburg",
+    "ursprung": "BRandenBurg",
+    "landkreis_id": 72,
+    "id": 72
+  },
+  {
+    "kennzeichen": "BRG",
+    "stadt": "Landkreis Jerichower Land",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "BuRG",
+    "landkreis_id": 299,
+    "id": 73
+  },
+  {
+    "kennzeichen": "BRK",
+    "stadt": "Landkreis Bad Kissingen",
+    "bundesland": "Bayern",
+    "ursprung": "BRücKenau",
+    "landkreis_id": 310,
+    "id": 74
+  },
+  {
+    "kennzeichen": "BRL",
+    "stadt": "Landkreis Goslar",
+    "bundesland": "Niedersachsen",
+    "ursprung": "BRaunLage",
+    "landkreis_id": 225,
+    "id": 75
+  },
+  {
+    "kennzeichen": "BRV",
+    "stadt": "Landkreis Rotenburg (Wümme)",
+    "bundesland": "Niedersachsen",
+    "ursprung": "BRemerVörde",
+    "landkreis_id": 537,
+    "id": 76
+  },
+  {
+    "kennzeichen": "BS",
+    "stadt": "Stadt Braunschweig, Polizeidirektion Braunschweig (PD 100–9999)",
+    "bundesland": "Niedersachsen",
+    "ursprung": "BraunSchweig",
+    "landkreis_id": 77,
+    "id": 77
+  },
+  {
+    "kennzeichen": "BSB",
+    "stadt": "Landkreis Osnabrück",
+    "bundesland": "Niedersachsen",
+    "ursprung": "BerSenBrück",
+    "landkreis_id": 483,
+    "id": 78
+  },
+  {
+    "kennzeichen": "BSK",
+    "stadt": "Landkreis Oder-Spree",
+    "bundesland": "Brandenburg",
+    "ursprung": "BeeSKow",
+    "landkreis_id": 360,
+    "id": 79
+  },
+  {
+    "kennzeichen": "BT",
+    "stadt": "Stadt Bayreuth, Landkreis Bayreuth",
+    "bundesland": "Bayern",
+    "ursprung": "BayreuTh",
+    "landkreis_id": 80,
+    "id": 80
+  },
+  {
+    "kennzeichen": "BTF",
+    "stadt": "Landkreis Anhalt-Bitterfeld",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "BitTerFeld",
+    "landkreis_id": 5,
+    "id": 81
+  },
+  {
+    "kennzeichen": "BÜD",
+    "stadt": "Wetteraukreis",
+    "bundesland": "Hessen",
+    "ursprung": "BÜDingen",
+    "landkreis_id": 166,
+    "id": 82
+  },
+  {
+    "kennzeichen": "BUL",
+    "stadt": "Landkreis Amberg-Sulzbach (B, F und G 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "BUrgLengenfeld",
+    "landkreis_id": 24,
+    "id": 83
+  },
+  {
+    "kennzeichen": "BUL",
+    "stadt": "Landkreis Schwandorf",
+    "bundesland": "Bayern",
+    "ursprung": "BUrgLengenfeld",
+    "landkreis_id": 551,
+    "id": 1083
+  },
+  {
+    "kennzeichen": "BÜR",
+    "stadt": "Kreis Paderborn",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "BÜRen",
+    "landkreis_id": 495,
+    "id": 84
+  },
+  {
+    "kennzeichen": "BÜS",
+    "stadt": "Gemeinde Büsingen am Hochrhein (Gemeinde im Landkreis Konstanz, deutsche Exklave in der Schweiz) (A und Z 1–999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "BÜSingen",
+    "landkreis_id": 319,
+    "id": 85
+  },
+  {
+    "kennzeichen": "BÜZ",
+    "stadt": "Landkreis Rostock",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "BÜtZow",
+    "landkreis_id": 363,
+    "id": 86
+  },
+  {
+    "kennzeichen": "BW",
+    "stadt": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
+    "bundesland": "bundesweit",
+    "ursprung": "Bundes-Wasserstraßen- und Schifffahrtsverwaltung",
+    "landkreis_id": 0,
+    "id": 87
+  },
+  {
+    "kennzeichen": "BWL",
+    "stadt": "Baden-Württemberg, Landesregierung, Landtag und Polizei",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "Baden-Württembergischer Landtag",
+    "landkreis_id": 0,
+    "id": 88
+  },
+  {
+    "kennzeichen": "BYL",
+    "stadt": "Bayern, Landesregierung und Landtag",
+    "bundesland": "Bayern",
+    "ursprung": "BaYerischer Landtag",
+    "landkreis_id": 0,
+    "id": 89
+  },
+  {
+    "kennzeichen": "BZ",
+    "stadt": "Landkreis Bautzen",
+    "bundesland": "Sachsen",
+    "ursprung": "BautZen",
+    "landkreis_id": 90,
+    "id": 90
+  },
+  {
+    "kennzeichen": "C",
+    "stadt": "Stadt Chemnitz",
+    "bundesland": "Sachsen",
+    "ursprung": "Chemnitz",
+    "landkreis_id": 91,
+    "id": 91
+  },
+  {
+    "kennzeichen": "CA",
+    "stadt": "Landkreis Oberspreewald-Lausitz",
+    "bundesland": "Brandenburg",
+    "ursprung": "CAlau",
+    "landkreis_id": 484,
+    "id": 92
+  },
+  {
+    "kennzeichen": "CAS",
+    "stadt": "Kreis Recklinghausen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "CAStrop",
+    "landkreis_id": 518,
+    "id": 93
+  },
+  {
+    "kennzeichen": "CB",
+    "stadt": "Stadt Cottbus",
+    "bundesland": "Brandenburg",
+    "ursprung": "CottBus",
+    "landkreis_id": 94,
+    "id": 94
+  },
+  {
+    "kennzeichen": "CE",
+    "stadt": "Landkreis Celle",
+    "bundesland": "Niedersachsen",
+    "ursprung": "CElle",
+    "landkreis_id": 95,
+    "id": 95
+  },
+  {
+    "kennzeichen": "CHA",
+    "stadt": "Landkreis Cham",
+    "bundesland": "Bayern",
+    "ursprung": "CHAm",
+    "landkreis_id": 96,
+    "id": 96
+  },
+  {
+    "kennzeichen": "CLP",
+    "stadt": "Landkreis Cloppenburg",
+    "bundesland": "Niedersachsen",
+    "ursprung": "CLopPenburg",
+    "landkreis_id": 97,
+    "id": 97
+  },
+  {
+    "kennzeichen": "CLZ",
+    "stadt": "Landkreis Goslar",
+    "bundesland": "Niedersachsen",
+    "ursprung": "CLausthal-Zellerfeld",
+    "landkreis_id": 225,
+    "id": 98
+  },
+  {
+    "kennzeichen": "CO",
+    "stadt": "Stadt Coburg und Landkreis Coburg",
+    "bundesland": "Bayern",
+    "ursprung": "COburg",
+    "landkreis_id": 99,
+    "id": 99
+  },
+  {
+    "kennzeichen": "COC",
+    "stadt": "Landkreis Cochem-Zell",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "COChem",
+    "landkreis_id": 100,
+    "id": 100
+  },
+  {
+    "kennzeichen": "COE",
+    "stadt": "Kreis Coesfeld",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "COEsfeld",
+    "landkreis_id": 101,
+    "id": 101
+  },
+  {
+    "kennzeichen": "CR",
+    "stadt": "Landkreis Schwäbisch Hall",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "CRailsheim",
+    "landkreis_id": 574,
+    "id": 102
+  },
+  {
+    "kennzeichen": "CUX",
+    "stadt": "Landkreis Cuxhaven",
+    "bundesland": "Niedersachsen",
+    "ursprung": "CUXhaven",
+    "landkreis_id": 103,
+    "id": 103
+  },
+  {
+    "kennzeichen": "CW",
+    "stadt": "Landkreis Calw",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "CalW",
+    "landkreis_id": 104,
+    "id": 104
+  },
+  {
+    "kennzeichen": "D",
+    "stadt": "Stadt Düsseldorf",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "Düsseldorf",
+    "landkreis_id": 105,
+    "id": 105
+  },
+  {
+    "kennzeichen": "DA",
+    "stadt": "Landkreis Darmstadt-Dieburg und Stadt Darmstadt",
+    "bundesland": "Hessen",
+    "ursprung": "DArmstadt",
+    "landkreis_id": 106,
+    "id": 106
+  },
+  {
+    "kennzeichen": "DAH",
+    "stadt": "Landkreis Dachau",
+    "bundesland": "Bayern",
+    "ursprung": "DAcHau",
+    "landkreis_id": 107,
+    "id": 107
+  },
+  {
+    "kennzeichen": "DAN",
+    "stadt": "Landkreis Lüchow-Dannenberg",
+    "bundesland": "Niedersachsen",
+    "ursprung": "DANnenberg",
+    "landkreis_id": 108,
+    "id": 108
+  },
+  {
+    "kennzeichen": "DAU",
+    "stadt": "Landkreis Vulkaneifel",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "DAUn",
+    "landkreis_id": 109,
+    "id": 109
+  },
+  {
+    "kennzeichen": "DBR",
+    "stadt": "Landkreis Rostock",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "DoBeRan",
+    "landkreis_id": 363,
+    "id": 110
+  },
+  {
+    "kennzeichen": "DD",
+    "stadt": "Stadt Dresden, Polizei Sachsen (Q 1000–9999)",
+    "bundesland": "Sachsen",
+    "ursprung": "DresDen",
+    "landkreis_id": 111,
+    "id": 111
+  },
+  {
+    "kennzeichen": "DE",
+    "stadt": "Stadt Dessau-Roßlau",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "DEssau",
+    "landkreis_id": 112,
+    "id": 112
+  },
+  {
+    "kennzeichen": "DEG",
+    "stadt": "Landkreis Deggendorf",
+    "bundesland": "Bayern",
+    "ursprung": "DEGgendorf",
+    "landkreis_id": 113,
+    "id": 113
+  },
+  {
+    "kennzeichen": "DEL",
+    "stadt": "Stadt Delmenhorst",
+    "bundesland": "Niedersachsen",
+    "ursprung": "DELmenhorst",
+    "landkreis_id": 114,
+    "id": 114
+  },
+  {
+    "kennzeichen": "DGF",
+    "stadt": "Landkreis Dingolfing-Landau",
+    "bundesland": "Bayern",
+    "ursprung": "DinGolFing",
+    "landkreis_id": 115,
+    "id": 115
+  },
+  {
+    "kennzeichen": "DH",
+    "stadt": "Landkreis Diepholz",
+    "bundesland": "Niedersachsen",
+    "ursprung": "DiepHolz",
+    "landkreis_id": 116,
+    "id": 116
+  },
+  {
+    "kennzeichen": "DI",
+    "stadt": "Landkreis Darmstadt-Dieburg",
+    "bundesland": "Hessen",
+    "ursprung": "DIeburg",
+    "landkreis_id": 106,
+    "id": 117
+  },
+  {
+    "kennzeichen": "DIL",
+    "stadt": "Lahn-Dill-Kreis ohne die Stadt Wetzlar",
+    "bundesland": "Hessen",
+    "ursprung": "DILlenburg",
+    "landkreis_id": 343,
+    "id": 118
+  },
+  {
+    "kennzeichen": "DIN",
+    "stadt": "Kreis Wesel",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "DINslaken",
+    "landkreis_id": 675,
+    "id": 119
+  },
+  {
+    "kennzeichen": "DIZ",
+    "stadt": "Rhein-Lahn-Kreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "DIeZ",
+    "landkreis_id": 153,
+    "id": 120
+  },
+  {
+    "kennzeichen": "DKB",
+    "stadt": "Landkreis Ansbach",
+    "bundesland": "Bayern",
+    "ursprung": "DinKelsBühl",
+    "landkreis_id": 15,
+    "id": 121
+  },
+  {
+    "kennzeichen": "DL",
+    "stadt": "Landkreis Mittelsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "DöbeLn",
+    "landkreis_id": 173,
+    "id": 122
+  },
+  {
+    "kennzeichen": "DLG",
+    "stadt": "Landkreis Dillingen an der Donau",
+    "bundesland": "Bayern",
+    "ursprung": "DilLinGen",
+    "landkreis_id": 123,
+    "id": 123
+  },
+  {
+    "kennzeichen": "DM",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "DemMin",
+    "landkreis_id": 429,
+    "id": 124
+  },
+  {
+    "kennzeichen": "DN",
+    "stadt": "Kreis Düren",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "DüreN",
+    "landkreis_id": 125,
+    "id": 125
+  },
+  {
+    "kennzeichen": "DO",
+    "stadt": "Stadt Dortmund",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "DOrtmund",
+    "landkreis_id": 126,
+    "id": 126
+  },
+  {
+    "kennzeichen": "DON",
+    "stadt": "Landkreis Donau-Ries",
+    "bundesland": "Bayern",
+    "ursprung": "DONauwörth",
+    "landkreis_id": 127,
+    "id": 127
+  },
+  {
+    "kennzeichen": "DU",
+    "stadt": "Stadt Duisburg",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "DUisburg",
+    "landkreis_id": 128,
+    "id": 128
+  },
+  {
+    "kennzeichen": "DUD",
+    "stadt": "Landkreis Göttingen ohne die Stadt Göttingen",
+    "bundesland": "Niedersachsen",
+    "ursprung": "DUDerstadt",
+    "landkreis_id": 215,
+    "id": 129
+  },
+  {
+    "kennzeichen": "DÜW",
+    "stadt": "Landkreis Bad Dürkheim",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "DÜrkheim an der Weinstraße",
+    "landkreis_id": 130,
+    "id": 130
+  },
+  {
+    "kennzeichen": "DW",
+    "stadt": "Landkreis Sächsische Schweiz-Osterzgebirge",
+    "bundesland": "Sachsen",
+    "ursprung": "DippoldisWalde",
+    "landkreis_id": 501,
+    "id": 131
+  },
+  {
+    "kennzeichen": "DZ",
+    "stadt": "Landkreis Nordsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "DelitZsch",
+    "landkreis_id": 623,
+    "id": 132
+  },
+  {
+    "kennzeichen": "E",
+    "stadt": "Stadt Essen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "Essen",
+    "landkreis_id": 133,
+    "id": 133
+  },
+  {
+    "kennzeichen": "EA",
+    "stadt": "Stadt Eisenach",
+    "bundesland": "Thüringen",
+    "ursprung": "EisenAch",
+    "landkreis_id": 664,
+    "id": 134
+  },
+  {
+    "kennzeichen": "EB",
+    "stadt": "Landkreis Nordsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "EilenBurg",
+    "landkreis_id": 623,
+    "id": 135
+  },
+  {
+    "kennzeichen": "EBE",
+    "stadt": "Landkreis Ebersberg",
+    "bundesland": "Bayern",
+    "ursprung": "EBErsberg",
+    "landkreis_id": 136,
+    "id": 136
+  },
+  {
+    "kennzeichen": "EBN",
+    "stadt": "Landkreis Haßberge",
+    "bundesland": "Bayern",
+    "ursprung": "EBerN",
+    "landkreis_id": 240,
+    "id": 137
+  },
+  {
+    "kennzeichen": "EBS",
+    "stadt": "Landkreis Forchheim",
+    "bundesland": "Bayern",
+    "ursprung": "EBermannStadt",
+    "landkreis_id": 179,
+    "id": 138
+  },
+  {
+    "kennzeichen": "EBS",
+    "stadt": "Landkreis Bayreuth (N–Z 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "EBermannStadt",
+    "landkreis_id": 80,
+    "id": 1138
+  },
+  {
+    "kennzeichen": "EBS",
+    "stadt": "Landkreis Kulmbach (A–M 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "EBermannStadt",
+    "landkreis_id": 328,
+    "id": 2138
+  },
+  {
+    "kennzeichen": "ECK",
+    "stadt": "Kreis Rendsburg-Eckernförde",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "ECKernförde",
+    "landkreis_id": 516,
+    "id": 139
+  },
+  {
+    "kennzeichen": "ED",
+    "stadt": "Landkreis Erding",
+    "bundesland": "Bayern",
+    "ursprung": "ErDing",
+    "landkreis_id": 140,
+    "id": 140
+  },
+  {
+    "kennzeichen": "EE",
+    "stadt": "Landkreis Elbe-Elster",
+    "bundesland": "Brandenburg",
+    "ursprung": "Elbe, Elster",
+    "landkreis_id": 141,
+    "id": 141
+  },
+  {
+    "kennzeichen": "EF",
+    "stadt": "Stadt Erfurt",
+    "bundesland": "Thüringen",
+    "ursprung": "ErFurt",
+    "landkreis_id": 142,
+    "id": 142
+  },
+  {
+    "kennzeichen": "EG",
+    "stadt": "Landkreis Rottal-Inn",
+    "bundesland": "Bayern",
+    "ursprung": "EGgenfelden",
+    "landkreis_id": 493,
+    "id": 143
+  },
+  {
+    "kennzeichen": "EH",
+    "stadt": "Landkreis Oder-Spree",
+    "bundesland": "Brandenburg",
+    "ursprung": "EisenHüttenstadt",
+    "landkreis_id": 360,
+    "id": 144
+  },
+  {
+    "kennzeichen": "EI",
+    "stadt": "Landkreis Eichstätt",
+    "bundesland": "Bayern",
+    "ursprung": "EIchstätt",
+    "landkreis_id": 145,
+    "id": 145
+  },
+  {
+    "kennzeichen": "EIC",
+    "stadt": "Landkreis Eichsfeld",
+    "bundesland": "Thüringen",
+    "ursprung": "EIChsfeld",
+    "landkreis_id": 146,
+    "id": 146
+  },
+  {
+    "kennzeichen": "EIL",
+    "stadt": "Landkreis Mansfeld-Südharz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "EIsLeben",
+    "landkreis_id": 409,
+    "id": 147
+  },
+  {
+    "kennzeichen": "EIN",
+    "stadt": "Landkreis Northeim",
+    "bundesland": "Niedersachsen",
+    "ursprung": "EINbeck",
+    "landkreis_id": 451,
+    "id": 148
+  },
+  {
+    "kennzeichen": "EIS",
+    "stadt": "Saale-Holzland-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "EISenberg",
+    "landkreis_id": 576,
+    "id": 149
+  },
+  {
+    "kennzeichen": "EL",
+    "stadt": "Landkreis Emsland",
+    "bundesland": "Niedersachsen",
+    "ursprung": "EmsLand",
+    "landkreis_id": 150,
+    "id": 150
+  },
+  {
+    "kennzeichen": "EM",
+    "stadt": "Landkreis Emmendingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "EMmendingen",
+    "landkreis_id": 151,
+    "id": 151
+  },
+  {
+    "kennzeichen": "EMD",
+    "stadt": "Stadt Emden",
+    "bundesland": "Niedersachsen",
+    "ursprung": "EMDen",
+    "landkreis_id": 152,
+    "id": 152
+  },
+  {
+    "kennzeichen": "EMS",
+    "stadt": "Rhein-Lahn-Kreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "EMS",
+    "landkreis_id": 153,
+    "id": 153
+  },
+  {
+    "kennzeichen": "EN",
+    "stadt": "Ennepe-Ruhr-Kreis",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "ENnepe",
+    "landkreis_id": 154,
+    "id": 154
+  },
+  {
+    "kennzeichen": "ER",
+    "stadt": "Stadt Erlangen",
+    "bundesland": "Bayern",
+    "ursprung": "ERlangen",
+    "landkreis_id": 155,
+    "id": 155
+  },
+  {
+    "kennzeichen": "ERB",
+    "stadt": "Odenwaldkreis",
+    "bundesland": "Hessen",
+    "ursprung": "ERBach",
+    "landkreis_id": 156,
+    "id": 156
+  },
+  {
+    "kennzeichen": "ERH",
+    "stadt": "Landkreis Erlangen-Höchstadt",
+    "bundesland": "Bayern",
+    "ursprung": "ERlangen, Höchstadt",
+    "landkreis_id": 157,
+    "id": 157
+  },
+  {
+    "kennzeichen": "ERK",
+    "stadt": "Kreis Heinsberg",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "ERKelenz",
+    "landkreis_id": 281,
+    "id": 158
+  },
+  {
+    "kennzeichen": "ERZ",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "ERZgebirge",
+    "landkreis_id": 159,
+    "id": 159
+  },
+  {
+    "kennzeichen": "ES",
+    "stadt": "Landkreis Esslingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "ESslingen",
+    "landkreis_id": 160,
+    "id": 160
+  },
+  {
+    "kennzeichen": "ESB",
+    "stadt": "Landkreis Neustadt an der Waldnaab",
+    "bundesland": "Bayern",
+    "ursprung": "ESchenBach",
+    "landkreis_id": 439,
+    "id": 161
+  },
+  {
+    "kennzeichen": "ESB",
+    "stadt": "Landkreis Nürnberger Land (N 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "ESchenBach",
+    "landkreis_id": 337,
+    "id": 1161
+  },
+  {
+    "kennzeichen": "ESB",
+    "stadt": "Landkreis Bayreuth (AT, BT, CT, DT, ... YT und ZT 1–99)",
+    "bundesland": "Bayern",
+    "ursprung": "ESchenBach",
+    "landkreis_id": 80,
+    "id": 2161
+  },
+  {
+    "kennzeichen": "ESB",
+    "stadt": "Landkreis Amberg-Sulzbach (B, F, G, I, O und Q 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "ESchenBach",
+    "landkreis_id": 24,
+    "id": 3161
+  },
+  {
+    "kennzeichen": "ESW",
+    "stadt": "Werra-Meißner-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "ESchWege",
+    "landkreis_id": 162,
+    "id": 162
+  },
+  {
+    "kennzeichen": "EU",
+    "stadt": "Kreis Euskirchen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "EUskirchen",
+    "landkreis_id": 163,
+    "id": 163
+  },
+  {
+    "kennzeichen": "EW",
+    "stadt": "Landkreis Barnim",
+    "bundesland": "Brandenburg",
+    "ursprung": "EbersWalde",
+    "landkreis_id": 36,
+    "id": 164
+  },
+  {
+    "kennzeichen": "F",
+    "stadt": "Stadt Frankfurt am Main",
+    "bundesland": "Hessen",
+    "ursprung": "Frankfurt",
+    "landkreis_id": 165,
+    "id": 165
+  },
+  {
+    "kennzeichen": "FB",
+    "stadt": "Wetteraukreis",
+    "bundesland": "Hessen",
+    "ursprung": "FriedBerg",
+    "landkreis_id": 166,
+    "id": 166
+  },
+  {
+    "kennzeichen": "FD",
+    "stadt": "Landkreis Fulda",
+    "bundesland": "Hessen",
+    "ursprung": "FulDa",
+    "landkreis_id": 167,
+    "id": 167
+  },
+  {
+    "kennzeichen": "FDB",
+    "stadt": "Landkreis Aichach-Friedberg",
+    "bundesland": "Bayern",
+    "ursprung": "FrieDBerg",
+    "landkreis_id": 10,
+    "id": 168
+  },
+  {
+    "kennzeichen": "FDS",
+    "stadt": "Landkreis Freudenstadt",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "FreuDenStadt",
+    "landkreis_id": 169,
+    "id": 169
+  },
+  {
+    "kennzeichen": "FEU",
+    "stadt": "Landkreis Ansbach",
+    "bundesland": "Bayern",
+    "ursprung": "FEUchtwangen",
+    "landkreis_id": 15,
+    "id": 170
+  },
+  {
+    "kennzeichen": "FF",
+    "stadt": "Stadt Frankfurt (Oder)",
+    "bundesland": "Brandenburg",
+    "ursprung": "FrankFurt",
+    "landkreis_id": 171,
+    "id": 171
+  },
+  {
+    "kennzeichen": "FFB",
+    "stadt": "Landkreis Fürstenfeldbruck",
+    "bundesland": "Bayern",
+    "ursprung": "FürstenFeldBruck",
+    "landkreis_id": 172,
+    "id": 172
+  },
+  {
+    "kennzeichen": "FG",
+    "stadt": "Landkreis Mittelsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "FreiberG",
+    "landkreis_id": 173,
+    "id": 173
+  },
+  {
+    "kennzeichen": "FI",
+    "stadt": "Landkreis Elbe-Elster",
+    "bundesland": "Brandenburg",
+    "ursprung": "FInsterwalde",
+    "landkreis_id": 141,
+    "id": 174
+  },
+  {
+    "kennzeichen": "FKB",
+    "stadt": "Landkreis Waldeck-Frankenberg",
+    "bundesland": "Hessen",
+    "ursprung": "FranKenBerg",
+    "landkreis_id": 303,
+    "id": 175
+  },
+  {
+    "kennzeichen": "FL",
+    "stadt": "Stadt Flensburg",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "FLensburg",
+    "landkreis_id": 176,
+    "id": 176
+  },
+  {
+    "kennzeichen": "FLÖ",
+    "stadt": "Landkreis Mittelsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "FLÖha",
+    "landkreis_id": 173,
+    "id": 177
+  },
+  {
+    "kennzeichen": "FN",
+    "stadt": "Bodenseekreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "FriedrichshafeN",
+    "landkreis_id": 178,
+    "id": 178
+  },
+  {
+    "kennzeichen": "FO",
+    "stadt": "Landkreis Forchheim",
+    "bundesland": "Bayern",
+    "ursprung": "FOrchheim",
+    "landkreis_id": 179,
+    "id": 179
+  },
+  {
+    "kennzeichen": "FOR",
+    "stadt": "Landkreis Spree-Neiße",
+    "bundesland": "Brandenburg",
+    "ursprung": "FORst",
+    "landkreis_id": 603,
+    "id": 180
+  },
+  {
+    "kennzeichen": "FR",
+    "stadt": "Landkreis Breisgau-Hochschwarzwald, Stadt Freiburg im Breisgau (AA–MZ 100–999 und NA–ZZ 100–9999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "FReiburg",
+    "landkreis_id": 181,
+    "id": 181
+  },
+  {
+    "kennzeichen": "FRG",
+    "stadt": "Landkreis Freyung-Grafenau",
+    "bundesland": "Bayern",
+    "ursprung": "FReyung, Grafenau",
+    "landkreis_id": 182,
+    "id": 182
+  },
+  {
+    "kennzeichen": "FRI",
+    "stadt": "Landkreis Friesland",
+    "bundesland": "Niedersachsen",
+    "ursprung": "FRIesland",
+    "landkreis_id": 183,
+    "id": 183
+  },
+  {
+    "kennzeichen": "FRW",
+    "stadt": "Landkreis Märkisch-Oderland",
+    "bundesland": "Brandenburg",
+    "ursprung": "FReienWalde",
+    "landkreis_id": 402,
+    "id": 184
+  },
+  {
+    "kennzeichen": "FS",
+    "stadt": "Landkreis Freising",
+    "bundesland": "Bayern",
+    "ursprung": "FreiSing",
+    "landkreis_id": 185,
+    "id": 185
+  },
+  {
+    "kennzeichen": "FT",
+    "stadt": "Stadt Frankenthal (Pfalz)",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "FrankenThal",
+    "landkreis_id": 186,
+    "id": 186
+  },
+  {
+    "kennzeichen": "FTL",
+    "stadt": "Landkreis Sächsische Schweiz-Osterzgebirge",
+    "bundesland": "Sachsen",
+    "ursprung": "FreiTaL",
+    "landkreis_id": 501,
+    "id": 187
+  },
+  {
+    "kennzeichen": "FÜ",
+    "stadt": "Landkreis Fürth, Stadt Fürth (AA–ZZ 100–999)",
+    "bundesland": "Bayern",
+    "ursprung": "FÜrth",
+    "landkreis_id": 188,
+    "id": 188
+  },
+  {
+    "kennzeichen": "FÜS",
+    "stadt": "Landkreis Ostallgäu",
+    "bundesland": "Bayern",
+    "ursprung": "FÜSsen",
+    "landkreis_id": 464,
+    "id": 189
+  },
+  {
+    "kennzeichen": "FW",
+    "stadt": "Landkreis Oder-Spree",
+    "bundesland": "Brandenburg",
+    "ursprung": "FürstenWalde",
+    "landkreis_id": 360,
+    "id": 190
+  },
+  {
+    "kennzeichen": "FZ",
+    "stadt": "Schwalm-Eder-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "FritZlar",
+    "landkreis_id": 279,
+    "id": 191
+  },
+  {
+    "kennzeichen": "G",
+    "stadt": "Stadt Gera",
+    "bundesland": "Thüringen",
+    "ursprung": "Gera",
+    "landkreis_id": 192,
+    "id": 192
+  },
+  {
+    "kennzeichen": "GA",
+    "stadt": "Altmarkkreis Salzwedel",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "GArdelegen",
+    "landkreis_id": 554,
+    "id": 193
+  },
+  {
+    "kennzeichen": "GAN",
+    "stadt": "Landkreis Northeim",
+    "bundesland": "Niedersachsen",
+    "ursprung": "GANdersheim",
+    "landkreis_id": 451,
+    "id": 194
+  },
+  {
+    "kennzeichen": "GAP",
+    "stadt": "Landkreis Garmisch-Partenkirchen",
+    "bundesland": "Bayern",
+    "ursprung": "GArmisch-Partenkirchen",
+    "landkreis_id": 195,
+    "id": 195
+  },
+  {
+    "kennzeichen": "GC",
+    "stadt": "Landkreis Zwickau",
+    "bundesland": "Sachsen",
+    "ursprung": "GlauChau",
+    "landkreis_id": 718,
+    "id": 196
+  },
+  {
+    "kennzeichen": "GD",
+    "stadt": "Ostalbkreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "GmünD",
+    "landkreis_id": 2,
+    "id": 197
+  },
+  {
+    "kennzeichen": "GDB",
+    "stadt": "Landkreis Nordwestmecklenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "GaDeBusch",
+    "landkreis_id": 287,
+    "id": 198
+  },
+  {
+    "kennzeichen": "GE",
+    "stadt": "Stadt Gelsenkirchen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "GElsenkirchen",
+    "landkreis_id": 199,
+    "id": 199
+  },
+  {
+    "kennzeichen": "GEL",
+    "stadt": "Kreis Kleve",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "GELdern",
+    "landkreis_id": 316,
+    "id": 200
+  },
+  {
+    "kennzeichen": "GEO",
+    "stadt": "Landkreis Schweinfurt",
+    "bundesland": "Bayern",
+    "ursprung": "GErOlzhofen",
+    "landkreis_id": 617,
+    "id": 201
+  },
+  {
+    "kennzeichen": "GEO",
+    "stadt": "Landkreis Haßberge (A und B 1000–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "GErOlzhofen",
+    "landkreis_id": 240,
+    "id": 1201
+  },
+  {
+    "kennzeichen": "GER",
+    "stadt": "Landkreis Germersheim",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "GERmersheim",
+    "landkreis_id": 202,
+    "id": 202
+  },
+  {
+    "kennzeichen": "GF",
+    "stadt": "Landkreis Gifhorn",
+    "bundesland": "Niedersachsen",
+    "ursprung": "GiFhorn",
+    "landkreis_id": 203,
+    "id": 203
+  },
+  {
+    "kennzeichen": "GG",
+    "stadt": "Kreis Groß-Gerau",
+    "bundesland": "Hessen",
+    "ursprung": "Groß-Gerau",
+    "landkreis_id": 204,
+    "id": 204
+  },
+  {
+    "kennzeichen": "GHA",
+    "stadt": "Landkreis Leipzig",
+    "bundesland": "Sachsen",
+    "ursprung": "GeitHAin",
+    "landkreis_id": 334,
+    "id": 205
+  },
+  {
+    "kennzeichen": "GHC",
+    "stadt": "Landkreis Wittenberg",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "GräfenHainiChen",
+    "landkreis_id": 668,
+    "id": 206
+  },
+  {
+    "kennzeichen": "GI",
+    "stadt": "Landkreis Gießen",
+    "bundesland": "Hessen",
+    "ursprung": "GIeßen",
+    "landkreis_id": 207,
+    "id": 207
+  },
+  {
+    "kennzeichen": "GK",
+    "stadt": "Kreis Heinsberg",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "GeilenKirchen",
+    "landkreis_id": 281,
+    "id": 208
+  },
+  {
+    "kennzeichen": "GL",
+    "stadt": "Rheinisch-Bergischer Kreis",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "GLadbach",
+    "landkreis_id": 209,
+    "id": 209
+  },
+  {
+    "kennzeichen": "GLA",
+    "stadt": "Kreis Recklinghausen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "GLAdbeck",
+    "landkreis_id": 518,
+    "id": 210
+  },
+  {
+    "kennzeichen": "GM",
+    "stadt": "Oberbergischer Kreis",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "GumMersbach",
+    "landkreis_id": 211,
+    "id": 211
+  },
+  {
+    "kennzeichen": "GMN",
+    "stadt": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "GrimMeN",
+    "landkreis_id": 283,
+    "id": 212
+  },
+  {
+    "kennzeichen": "GN",
+    "stadt": "Main-Kinzig-Kreis ohne die Stadt Hanau",
+    "bundesland": "Hessen",
+    "ursprung": "GelnhauseN",
+    "landkreis_id": 284,
+    "id": 213
+  },
+  {
+    "kennzeichen": "GNT",
+    "stadt": "Landkreis Jerichower Land",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "GeNThin",
+    "landkreis_id": 299,
+    "id": 214
+  },
+  {
+    "kennzeichen": "GÖ",
+    "stadt": "Landkreis Göttingen, Stadt Göttingen",
+    "bundesland": "Niedersachsen",
+    "ursprung": "GÖttingen",
+    "landkreis_id": 215,
+    "id": 215
+  },
+  {
+    "kennzeichen": "GOA",
+    "stadt": "Rhein-Hunsrück-Kreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "GOAr",
+    "landkreis_id": 581,
+    "id": 216
+  },
+  {
+    "kennzeichen": "GOH",
+    "stadt": "Rhein-Lahn-Kreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "GOarsHausen",
+    "landkreis_id": 153,
+    "id": 217
+  },
+  {
+    "kennzeichen": "GP",
+    "stadt": "Landkreis Göppingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "GöpPingen",
+    "landkreis_id": 218,
+    "id": 218
+  },
+  {
+    "kennzeichen": "GR",
+    "stadt": "Landkreis Görlitz",
+    "bundesland": "Sachsen",
+    "ursprung": "GöRlitz",
+    "landkreis_id": 219,
+    "id": 219
+  },
+  {
+    "kennzeichen": "GRA",
+    "stadt": "Landkreis Freyung-Grafenau",
+    "bundesland": "Bayern",
+    "ursprung": "GRAfenau",
+    "landkreis_id": 182,
+    "id": 220
+  },
+  {
+    "kennzeichen": "GRH",
+    "stadt": "Landkreis Meißen",
+    "bundesland": "Sachsen",
+    "ursprung": "GRoßenHain",
+    "landkreis_id": 383,
+    "id": 221
+  },
+  {
+    "kennzeichen": "GRI",
+    "stadt": "Landkreis Rottal-Inn (B, I, O und Q 100–999)",
+    "bundesland": "Bayern",
+    "ursprung": "GRIesbach",
+    "landkreis_id": 493,
+    "id": 222
+  },
+  {
+    "kennzeichen": "GRM",
+    "stadt": "Landkreis Leipzig",
+    "bundesland": "Sachsen",
+    "ursprung": "GRimMa",
+    "landkreis_id": 334,
+    "id": 223
+  },
+  {
+    "kennzeichen": "GRZ",
+    "stadt": "Landkreis Greiz",
+    "bundesland": "Thüringen",
+    "ursprung": "GReiZ",
+    "landkreis_id": 224,
+    "id": 224
+  },
+  {
+    "kennzeichen": "GS",
+    "stadt": "Landkreis Goslar",
+    "bundesland": "Niedersachsen",
+    "ursprung": "GoSlar",
+    "landkreis_id": 225,
+    "id": 225
+  },
+  {
+    "kennzeichen": "GT",
+    "stadt": "Kreis Gütersloh",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "GüTersloh",
+    "landkreis_id": 226,
+    "id": 226
+  },
+  {
+    "kennzeichen": "GTH",
+    "stadt": "Landkreis Gotha",
+    "bundesland": "Thüringen",
+    "ursprung": "GoTHa",
+    "landkreis_id": 227,
+    "id": 227
+  },
+  {
+    "kennzeichen": "GÜ",
+    "stadt": "Landkreis Rostock",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "GÜstrow",
+    "landkreis_id": 363,
+    "id": 228
+  },
+  {
+    "kennzeichen": "GUB",
+    "stadt": "Landkreis Spree-Neiße",
+    "bundesland": "Brandenburg",
+    "ursprung": "GUBen",
+    "landkreis_id": 603,
+    "id": 229
+  },
+  {
+    "kennzeichen": "GUN",
+    "stadt": "Landkreis Weißenburg-Gunzenhausen",
+    "bundesland": "Bayern",
+    "ursprung": "GUNzenhausen",
+    "landkreis_id": 709,
+    "id": 230
+  },
+  {
+    "kennzeichen": "GV",
+    "stadt": "Rhein-Kreis Neuss",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "GreVenbroich",
+    "landkreis_id": 432,
+    "id": 231
+  },
+  {
+    "kennzeichen": "GVM",
+    "stadt": "Landkreis Nordwestmecklenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "GreVesMühlen",
+    "landkreis_id": 287,
+    "id": 232
+  },
+  {
+    "kennzeichen": "GW",
+    "stadt": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "GreifsWald",
+    "landkreis_id": 259,
+    "id": 233
+  },
+  {
+    "kennzeichen": "GZ",
+    "stadt": "Landkreis Günzburg",
+    "bundesland": "Bayern",
+    "ursprung": "GünZburg",
+    "landkreis_id": 234,
+    "id": 234
+  },
+  {
+    "kennzeichen": "H",
+    "stadt": "Region Hannover",
+    "bundesland": "Niedersachsen",
+    "ursprung": "Hannover",
+    "landkreis_id": 235,
+    "id": 235
+  },
+  {
+    "kennzeichen": "HA",
+    "stadt": "Stadt Hagen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "HAgen",
+    "landkreis_id": 236,
+    "id": 236
+  },
+  {
+    "kennzeichen": "HAB",
+    "stadt": "Landkreis Bad Kissingen",
+    "bundesland": "Bayern",
+    "ursprung": "HAmmelBurg",
+    "landkreis_id": 310,
+    "id": 237
+  },
+  {
+    "kennzeichen": "HAL",
+    "stadt": "Stadt Halle (Saale)",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "HALle",
+    "landkreis_id": 238,
+    "id": 238
+  },
+  {
+    "kennzeichen": "HAM",
+    "stadt": "Stadt Hamm",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "HAMm",
+    "landkreis_id": 239,
+    "id": 239
+  },
+  {
+    "kennzeichen": "HAS",
+    "stadt": "Landkreis Haßberge",
+    "bundesland": "Bayern",
+    "ursprung": "HASsfurt",
+    "landkreis_id": 240,
+    "id": 240
+  },
+  {
+    "kennzeichen": "HB",
+    "stadt": "Stadt Bremen, Senat und Bürgerschaft, Stadt Bremerhaven (A–Z 1000–9999)",
+    "bundesland": "Bremen",
+    "ursprung": "Hansestadt Bremen",
+    "landkreis_id": 241,
+    "id": 241
+  },
+  {
+    "kennzeichen": "HBN",
+    "stadt": "Landkreis Hildburghausen",
+    "bundesland": "Thüringen",
+    "ursprung": "HildBurghauseN",
+    "landkreis_id": 242,
+    "id": 242
+  },
+  {
+    "kennzeichen": "HBS",
+    "stadt": "Landkreis Harz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "HalBerStadt",
+    "landkreis_id": 290,
+    "id": 243
+  },
+  {
+    "kennzeichen": "HC",
+    "stadt": "Landkreis Mittelsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "HainiChen",
+    "landkreis_id": 173,
+    "id": 244
+  },
+  {
+    "kennzeichen": "HCH",
+    "stadt": "Landkreis Freudenstadt (YQ, QY, YV, VY und ZQ 100 bis 999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "HeCHingen",
+    "landkreis_id": 169,
+    "id": 245
+  },
+  {
+    "kennzeichen": "HCH",
+    "stadt": "Zollernalbkreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "HeCHingen",
+    "landkreis_id": 58,
+    "id": 1245
+  },
+  {
+    "kennzeichen": "HD",
+    "stadt": "Stadt Heidelberg, Rhein-Neckar-Kreis (AA–ZZ 100–9999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "HeiDelberg",
+    "landkreis_id": 246,
+    "id": 246
+  },
+  {
+    "kennzeichen": "HDH",
+    "stadt": "Landkreis Heidenheim",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "HeiDenHeim",
+    "landkreis_id": 247,
+    "id": 247
+  },
+  {
+    "kennzeichen": "HDL",
+    "stadt": "Landkreis Börde",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "HalDensLeben",
+    "landkreis_id": 65,
+    "id": 248
+  },
+  {
+    "kennzeichen": "HE",
+    "stadt": "Landkreis Helmstedt",
+    "bundesland": "Niedersachsen",
+    "ursprung": "HElmstedt",
+    "landkreis_id": 249,
+    "id": 249
+  },
+  {
+    "kennzeichen": "HEB",
+    "stadt": "Landkreis Nürnberger Land",
+    "bundesland": "Bayern",
+    "ursprung": "HErsBruck",
+    "landkreis_id": 337,
+    "id": 250
+  },
+  {
+    "kennzeichen": "HEF",
+    "stadt": "Landkreis Hersfeld-Rotenburg",
+    "bundesland": "Hessen",
+    "ursprung": "HErsFeld",
+    "landkreis_id": 251,
+    "id": 251
+  },
+  {
+    "kennzeichen": "HEI",
+    "stadt": "Kreis Dithmarschen",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "HEIde",
+    "landkreis_id": 252,
+    "id": 252
+  },
+  {
+    "kennzeichen": "HEL",
+    "stadt": "Hessen, Landesregierung und Landtag",
+    "bundesland": "Hessen",
+    "ursprung": "HEssischer Landtag",
+    "landkreis_id": 0,
+    "id": 253
+  },
+  {
+    "kennzeichen": "HER",
+    "stadt": "Stadt Herne",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "HERne",
+    "landkreis_id": 254,
+    "id": 254
+  },
+  {
+    "kennzeichen": "HET",
+    "stadt": "Landkreis Mansfeld-Südharz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "HETtstedt",
+    "landkreis_id": 409,
+    "id": 255
+  },
+  {
+    "kennzeichen": "HF",
+    "stadt": "Kreis Herford",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "HerFord",
+    "landkreis_id": 256,
+    "id": 256
+  },
+  {
+    "kennzeichen": "HG",
+    "stadt": "Hochtaunuskreis",
+    "bundesland": "Hessen",
+    "ursprung": "HomburG",
+    "landkreis_id": 257,
+    "id": 257
+  },
+  {
+    "kennzeichen": "HGN",
+    "stadt": "Landkreis Ludwigslust-Parchim",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "HaGeNow",
+    "landkreis_id": 369,
+    "id": 258
+  },
+  {
+    "kennzeichen": "HGW",
+    "stadt": "Stadt Greifswald (große kreisangehörige Stadt im Landkreis Vorpommern-Greifswald)",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Hansestadt GreifsWald",
+    "landkreis_id": 259,
+    "id": 259
+  },
+  {
+    "kennzeichen": "HH",
+    "stadt": "Freie und Hansestadt Hamburg, Senat und Bürgerschaft",
+    "bundesland": "Hamburg",
+    "ursprung": "Hansestadt Hamburg",
+    "landkreis_id": 260,
+    "id": 260
+  },
+  {
+    "kennzeichen": "HHM",
+    "stadt": "Burgenlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "HoHenMölsen",
+    "landkreis_id": 60,
+    "id": 261
+  },
+  {
+    "kennzeichen": "HI",
+    "stadt": "Landkreis Hildesheim",
+    "bundesland": "Niedersachsen",
+    "ursprung": "HIldesheim",
+    "landkreis_id": 262,
+    "id": 262
+  },
+  {
+    "kennzeichen": "HIG",
+    "stadt": "Landkreis Eichsfeld",
+    "bundesland": "Thüringen",
+    "ursprung": "HeilIGenstadt",
+    "landkreis_id": 146,
+    "id": 263
+  },
+  {
+    "kennzeichen": "HIP",
+    "stadt": "Landkreis Roth",
+    "bundesland": "Bayern",
+    "ursprung": "HIlPoltstein",
+    "landkreis_id": 523,
+    "id": 264
+  },
+  {
+    "kennzeichen": "HK",
+    "stadt": "Landkreis Heidekreis",
+    "bundesland": "Niedersachsen",
+    "ursprung": "HeideKreis",
+    "landkreis_id": 265,
+    "id": 265
+  },
+  {
+    "kennzeichen": "HL",
+    "stadt": "Stadt Lübeck",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "Hansestadt Lübeck",
+    "landkreis_id": 266,
+    "id": 266
+  },
+  {
+    "kennzeichen": "HM",
+    "stadt": "Landkreis Hameln-Pyrmont",
+    "bundesland": "Niedersachsen",
+    "ursprung": "HaMeln",
+    "landkreis_id": 267,
+    "id": 267
+  },
+  {
+    "kennzeichen": "HMÜ",
+    "stadt": "Landkreis Göttingen ohne die Stadt Göttingen",
+    "bundesland": "Niedersachsen",
+    "ursprung": "Hann. MÜnden",
+    "landkreis_id": 215,
+    "id": 268
+  },
+  {
+    "kennzeichen": "HN",
+    "stadt": "Stadt Heilbronn, Landkreis Heilbronn (AA–MZ 100–9999 und NA–ZZ 100–999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "HeilbronN",
+    "landkreis_id": 269,
+    "id": 269
+  },
+  {
+    "kennzeichen": "HO",
+    "stadt": "Stadt Hof, Landkreis Hof (AA–ZZ 100–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "HOf",
+    "landkreis_id": 270,
+    "id": 270
+  },
+  {
+    "kennzeichen": "HOG",
+    "stadt": "Landkreis Kassel",
+    "bundesland": "Hessen",
+    "ursprung": "HOfGeismar",
+    "landkreis_id": 326,
+    "id": 271
+  },
+  {
+    "kennzeichen": "HOH",
+    "stadt": "Landkreis Haßberge",
+    "bundesland": "Bayern",
+    "ursprung": "HOfHeim",
+    "landkreis_id": 240,
+    "id": 272
+  },
+  {
+    "kennzeichen": "HOL",
+    "stadt": "Landkreis Holzminden",
+    "bundesland": "Niedersachsen",
+    "ursprung": "HOLzminden",
+    "landkreis_id": 273,
+    "id": 273
+  },
+  {
+    "kennzeichen": "HOM",
+    "stadt": "Saarpfalz-Kreis ohne die Stadt St. Ingbert",
+    "bundesland": "Saarland",
+    "ursprung": "HOMburg",
+    "landkreis_id": 274,
+    "id": 274
+  },
+  {
+    "kennzeichen": "HOR",
+    "stadt": "Landkreis Freudenstadt",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "HORb",
+    "landkreis_id": 169,
+    "id": 275
+  },
+  {
+    "kennzeichen": "HÖS",
+    "stadt": "Landkreis Erlangen-Höchstadt",
+    "bundesland": "Bayern",
+    "ursprung": "HÖchStadt",
+    "landkreis_id": 157,
+    "id": 276
+  },
+  {
+    "kennzeichen": "HOT",
+    "stadt": "Landkreis Zwickau",
+    "bundesland": "Sachsen",
+    "ursprung": "HOhensTein",
+    "landkreis_id": 718,
+    "id": 277
+  },
+  {
+    "kennzeichen": "HP",
+    "stadt": "Kreis Bergstraße",
+    "bundesland": "Hessen",
+    "ursprung": "HepPenheim",
+    "landkreis_id": 278,
+    "id": 278
+  },
+  {
+    "kennzeichen": "HR",
+    "stadt": "Schwalm-Eder-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "HombeRg",
+    "landkreis_id": 279,
+    "id": 279
+  },
+  {
+    "kennzeichen": "HRO",
+    "stadt": "Stadt Rostock",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Hansestadt ROstock",
+    "landkreis_id": 280,
+    "id": 280
+  },
+  {
+    "kennzeichen": "HS",
+    "stadt": "Kreis Heinsberg",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "HeinSberg",
+    "landkreis_id": 281,
+    "id": 281
+  },
+  {
+    "kennzeichen": "HSK",
+    "stadt": "Hochsauerlandkreis",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "HochSauerlandKreis",
+    "landkreis_id": 282,
+    "id": 282
+  },
+  {
+    "kennzeichen": "HST",
+    "stadt": "Stadt Stralsund (große kreisangehörige Stadt im Landkreis Vorpommern-Rügen)",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Hansestadt STralsund",
+    "landkreis_id": 283,
+    "id": 283
+  },
+  {
+    "kennzeichen": "HU",
+    "stadt": "Stadt Hanau (Sonderstatusstadt im Main-Kinzig-Kreis), Main-Kinzig-Kreis (übriges Kreisgebiet)",
+    "bundesland": "Hessen",
+    "ursprung": "HanaU",
+    "landkreis_id": 284,
+    "id": 284
+  },
+  {
+    "kennzeichen": "HV",
+    "stadt": "Landkreis Stendal",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "HaVelberg",
+    "landkreis_id": 562,
+    "id": 285
+  },
+  {
+    "kennzeichen": "HVL",
+    "stadt": "Landkreis Havelland",
+    "bundesland": "Brandenburg",
+    "ursprung": "HaVelLand",
+    "landkreis_id": 286,
+    "id": 286
+  },
+  {
+    "kennzeichen": "HWI",
+    "stadt": "Stadt Wismar (große kreisangehörige Stadt im Landkreis Nordwestmecklenburg)",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Hansestadt WIsmar",
+    "landkreis_id": 287,
+    "id": 287
+  },
+  {
+    "kennzeichen": "HX",
+    "stadt": "Kreis Höxter",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "HöXter",
+    "landkreis_id": 288,
+    "id": 288
+  },
+  {
+    "kennzeichen": "HY",
+    "stadt": "Landkreis Bautzen",
+    "bundesland": "Sachsen",
+    "ursprung": "HoYerswerda",
+    "landkreis_id": 90,
+    "id": 289
+  },
+  {
+    "kennzeichen": "HZ",
+    "stadt": "Landkreis Harz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "HarZ",
+    "landkreis_id": 290,
+    "id": 290
+  },
+  {
+    "kennzeichen": "IGB",
+    "stadt": "Stadt St. Ingbert (Mittelstadt im Saarpfalz-Kreis)",
+    "bundesland": "Saarland",
+    "ursprung": "InGBert",
+    "landkreis_id": 274,
+    "id": 291
+  },
+  {
+    "kennzeichen": "IK",
+    "stadt": "Ilm-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "Ilm-Kreis",
+    "landkreis_id": 292,
+    "id": 292
+  },
+  {
+    "kennzeichen": "IL",
+    "stadt": "Ilm-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "ILmenau",
+    "landkreis_id": 292,
+    "id": 293
+  },
+  {
+    "kennzeichen": "ILL",
+    "stadt": "Landkreis Neu-Ulm",
+    "bundesland": "Bayern",
+    "ursprung": "ILLertissen",
+    "landkreis_id": 457,
+    "id": 294
+  },
+  {
+    "kennzeichen": "IN",
+    "stadt": "Stadt Ingolstadt",
+    "bundesland": "Bayern",
+    "ursprung": "INgolstadt",
+    "landkreis_id": 295,
+    "id": 295
+  },
+  {
+    "kennzeichen": "IZ",
+    "stadt": "Kreis Steinburg",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "ItZehoe",
+    "landkreis_id": 296,
+    "id": 296
+  },
+  {
+    "kennzeichen": "J",
+    "stadt": "Stadt Jena",
+    "bundesland": "Thüringen",
+    "ursprung": "Jena",
+    "landkreis_id": 297,
+    "id": 297
+  },
+  {
+    "kennzeichen": "JE",
+    "stadt": "Landkreis Wittenberg",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "JEssen",
+    "landkreis_id": 668,
+    "id": 298
+  },
+  {
+    "kennzeichen": "JL",
+    "stadt": "Landkreis Jerichower Land",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "Jerichower Land",
+    "landkreis_id": 299,
+    "id": 299
+  },
+  {
+    "kennzeichen": "JÜL",
+    "stadt": "Kreis Düren",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "JÜLich",
+    "landkreis_id": 125,
+    "id": 300
+  },
+  {
+    "kennzeichen": "K",
+    "stadt": "Stadt Köln",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "Köln",
+    "landkreis_id": 301,
+    "id": 301
+  },
+  {
+    "kennzeichen": "KA",
+    "stadt": "Landkreis Karlsruhe, Stadt Karlsruhe (AA–MZ 100–999 und NA–ZZ 100–9999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "KArlsruhe",
+    "landkreis_id": 302,
+    "id": 302
+  },
+  {
+    "kennzeichen": "KB",
+    "stadt": "Landkreis Waldeck-Frankenberg",
+    "bundesland": "Hessen",
+    "ursprung": "KorBach",
+    "landkreis_id": 303,
+    "id": 303
+  },
+  {
+    "kennzeichen": "KC",
+    "stadt": "Landkreis Kronach",
+    "bundesland": "Bayern",
+    "ursprung": "KronaCh",
+    "landkreis_id": 304,
+    "id": 304
+  },
+  {
+    "kennzeichen": "KE",
+    "stadt": "Stadt Kempten (Allgäu)",
+    "bundesland": "Bayern",
+    "ursprung": "KEmpten",
+    "landkreis_id": 305,
+    "id": 305
+  },
+  {
+    "kennzeichen": "KEH",
+    "stadt": "Landkreis Kelheim",
+    "bundesland": "Bayern",
+    "ursprung": "KElHeim",
+    "landkreis_id": 306,
+    "id": 306
+  },
+  {
+    "kennzeichen": "KEL",
+    "stadt": "Ortenaukreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "KEhL",
+    "landkreis_id": 473,
+    "id": 307
+  },
+  {
+    "kennzeichen": "KEM",
+    "stadt": "Landkreis Tirschenreuth",
+    "bundesland": "Bayern",
+    "ursprung": "KEMnath",
+    "landkreis_id": 630,
+    "id": 308
+  },
+  {
+    "kennzeichen": "KEM",
+    "stadt": "Landkreis Bayreuth (AT, BT, CT, DT, ... YT und ZT 1–99)",
+    "bundesland": "Bayern",
+    "ursprung": "KEMnath",
+    "landkreis_id": 80,
+    "id": 1308
+  },
+  {
+    "kennzeichen": "KF",
+    "stadt": "Stadt Kaufbeuren",
+    "bundesland": "Bayern",
+    "ursprung": "KauFbeuren",
+    "landkreis_id": 309,
+    "id": 309
+  },
+  {
+    "kennzeichen": "KG",
+    "stadt": "Landkreis Bad Kissingen",
+    "bundesland": "Bayern",
+    "ursprung": "KissinGen",
+    "landkreis_id": 310,
+    "id": 310
+  },
+  {
+    "kennzeichen": "KH",
+    "stadt": "Landkreis Bad Kreuznach",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "KreuznacH",
+    "landkreis_id": 311,
+    "id": 311
+  },
+  {
+    "kennzeichen": "KI",
+    "stadt": "Stadt Kiel",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "KIel",
+    "landkreis_id": 312,
+    "id": 312
+  },
+  {
+    "kennzeichen": "KIB",
+    "stadt": "Donnersbergkreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "KIrchheimBolanden",
+    "landkreis_id": 313,
+    "id": 313
+  },
+  {
+    "kennzeichen": "KK",
+    "stadt": "Kreis Viersen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "Kempen, Krefeld",
+    "landkreis_id": 655,
+    "id": 314
+  },
+  {
+    "kennzeichen": "KL",
+    "stadt": "Stadt Kaiserslautern, Landkreis Kaiserslautern (AA–ZZ 100–999)",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "KaisersLautern",
+    "landkreis_id": 315,
+    "id": 315
+  },
+  {
+    "kennzeichen": "KLE",
+    "stadt": "Kreis Kleve",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "KLEve",
+    "landkreis_id": 316,
+    "id": 316
+  },
+  {
+    "kennzeichen": "KLZ",
+    "stadt": "Altmarkkreis Salzwedel",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "KLötZe",
+    "landkreis_id": 554,
+    "id": 317
+  },
+  {
+    "kennzeichen": "KM",
+    "stadt": "Landkreis Bautzen",
+    "bundesland": "Sachsen",
+    "ursprung": "KaMenz",
+    "landkreis_id": 90,
+    "id": 318
+  },
+  {
+    "kennzeichen": "KN",
+    "stadt": "Landkreis Konstanz ohne die Gemeinde Büsingen am Hochrhein",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "KoNstanz",
+    "landkreis_id": 319,
+    "id": 319
+  },
+  {
+    "kennzeichen": "KO",
+    "stadt": "Stadt Koblenz",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "KOblenz",
+    "landkreis_id": 320,
+    "id": 320
+  },
+  {
+    "kennzeichen": "KÖN",
+    "stadt": "Landkreis Rhön-Grabfeld",
+    "bundesland": "Bayern",
+    "ursprung": "KÖNigshofen",
+    "landkreis_id": 437,
+    "id": 321
+  },
+  {
+    "kennzeichen": "KÖT",
+    "stadt": "Landkreis Anhalt-Bitterfeld",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "KÖThen",
+    "landkreis_id": 5,
+    "id": 322
+  },
+  {
+    "kennzeichen": "KÖZ",
+    "stadt": "Landkreis Cham",
+    "bundesland": "Bayern",
+    "ursprung": "KÖtZting",
+    "landkreis_id": 96,
+    "id": 323
+  },
+  {
+    "kennzeichen": "KR",
+    "stadt": "Stadt Krefeld",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "KRefeld",
+    "landkreis_id": 324,
+    "id": 324
+  },
+  {
+    "kennzeichen": "KRU",
+    "stadt": "Landkreis Günzburg",
+    "bundesland": "Bayern",
+    "ursprung": "KRUmbach",
+    "landkreis_id": 234,
+    "id": 325
+  },
+  {
+    "kennzeichen": "KS",
+    "stadt": "Landkreis Kassel und Stadt Kassel",
+    "bundesland": "Hessen",
+    "ursprung": "KasSel",
+    "landkreis_id": 326,
+    "id": 326
+  },
+  {
+    "kennzeichen": "KT",
+    "stadt": "Landkreis Kitzingen",
+    "bundesland": "Bayern",
+    "ursprung": "KiTzingen",
+    "landkreis_id": 327,
+    "id": 327
+  },
+  {
+    "kennzeichen": "KU",
+    "stadt": "Landkreis Kulmbach",
+    "bundesland": "Bayern",
+    "ursprung": "KUlmbach",
+    "landkreis_id": 328,
+    "id": 328
+  },
+  {
+    "kennzeichen": "KÜN",
+    "stadt": "Hohenlohekreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "KÜNzelsau",
+    "landkreis_id": 329,
+    "id": 329
+  },
+  {
+    "kennzeichen": "KUS",
+    "stadt": "Landkreis Kusel",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "KUSel",
+    "landkreis_id": 330,
+    "id": 330
+  },
+  {
+    "kennzeichen": "KW",
+    "stadt": "Landkreis Dahme-Spreewald",
+    "bundesland": "Brandenburg",
+    "ursprung": "Königs Wusterhausen",
+    "landkreis_id": 344,
+    "id": 331
+  },
+  {
+    "kennzeichen": "KY",
+    "stadt": "Landkreis Ostprignitz-Ruppin",
+    "bundesland": "Brandenburg",
+    "ursprung": "KYritz",
+    "landkreis_id": 482,
+    "id": 332
+  },
+  {
+    "kennzeichen": "KYF",
+    "stadt": "Kyffhäuserkreis",
+    "bundesland": "Thüringen",
+    "ursprung": "KYFfhäuser",
+    "landkreis_id": 333,
+    "id": 333
+  },
+  {
+    "kennzeichen": "L",
+    "stadt": "Sachsen",
+    "bundesland": "Stadt Leipzig (A–T und AA–TZ), Landkreis Leipzig (U–Z und UA–ZZ)",
+    "ursprung": "Leipzig",
+    "landkreis_id": 334,
+    "id": 334
+  },
+  {
+    "kennzeichen": "LA",
+    "stadt": "Stadt Landshut, Landkreis Landshut (AA–ZZ 100–999 und 5000–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "LAndshut",
+    "landkreis_id": 335,
+    "id": 335
+  },
+  {
+    "kennzeichen": "LAN",
+    "stadt": "Landkreis Dingolfing-Landau",
+    "bundesland": "Bayern",
+    "ursprung": "LANdau",
+    "landkreis_id": 115,
+    "id": 336
+  },
+  {
+    "kennzeichen": "LAU",
+    "stadt": "Landkreis Nürnberger Land",
+    "bundesland": "Bayern",
+    "ursprung": "LAUf",
+    "landkreis_id": 337,
+    "id": 337
+  },
+  {
+    "kennzeichen": "LB",
+    "stadt": "Landkreis Ludwigsburg",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "LudwigsBurg",
+    "landkreis_id": 338,
+    "id": 338
+  },
+  {
+    "kennzeichen": "LBS",
+    "stadt": "Saale-Orla-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "LoBenStein",
+    "landkreis_id": 598,
+    "id": 339
+  },
+  {
+    "kennzeichen": "LBZ",
+    "stadt": "Landkreis Ludwigslust-Parchim",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "LüBZ",
+    "landkreis_id": 369,
+    "id": 340
+  },
+  {
+    "kennzeichen": "LC",
+    "stadt": "Landkreis Dahme-Spreewald",
+    "bundesland": "Brandenburg",
+    "ursprung": "LuCkau",
+    "landkreis_id": 344,
+    "id": 341
+  },
+  {
+    "kennzeichen": "LD",
+    "stadt": "Stadt Landau in der Pfalz",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "LanDau",
+    "landkreis_id": 342,
+    "id": 342
+  },
+  {
+    "kennzeichen": "LDK",
+    "stadt": "Lahn-Dill-Kreis ohne die Stadt Wetzlar",
+    "bundesland": "Hessen",
+    "ursprung": "Lahn-Dill-Kreis",
+    "landkreis_id": 343,
+    "id": 343
+  },
+  {
+    "kennzeichen": "LDS",
+    "stadt": "Landkreis Dahme-Spreewald",
+    "bundesland": "Brandenburg",
+    "ursprung": "Landkreis Dahme-Spreewald",
+    "landkreis_id": 344,
+    "id": 344
+  },
+  {
+    "kennzeichen": "LEO",
+    "stadt": "Landkreis Böblingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "LEOnberg",
+    "landkreis_id": 37,
+    "id": 345
+  },
+  {
+    "kennzeichen": "LER",
+    "stadt": "Landkreis Leer",
+    "bundesland": "Niedersachsen",
+    "ursprung": "LEeR",
+    "landkreis_id": 346,
+    "id": 346
+  },
+  {
+    "kennzeichen": "LEV",
+    "stadt": "Stadt Leverkusen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "LEVerkusen",
+    "landkreis_id": 347,
+    "id": 347
+  },
+  {
+    "kennzeichen": "LF",
+    "stadt": "Landkreis Berchtesgadener Land, Landkreis Altötting (C 1–999, E 1–500, I, J, M, O, Q und V 1–999), Landkreis Traunstein (B, F und G 1–999, DH 1–100, FZ, GH und KQ 1–999, LU 1–200, RW 1–999, TK 1–100, TS 1–999, VW 200–400 sowie WW, XX und ZZ 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "LauFen",
+    "landkreis_id": 635,
+    "id": 348
+  },
+  {
+    "kennzeichen": "LG",
+    "stadt": "Landkreis Lüneburg",
+    "bundesland": "Niedersachsen",
+    "ursprung": "LüneburG",
+    "landkreis_id": 349,
+    "id": 349
+  },
+  {
+    "kennzeichen": "LH",
+    "stadt": "Kreis Unna",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "LüdingHausen",
+    "landkreis_id": 645,
+    "id": 350
+  },
+  {
+    "kennzeichen": "LH",
+    "stadt": "Kreis Coesfeld",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "LüdingHausen",
+    "landkreis_id": 101,
+    "id": 1350
+  },
+  {
+    "kennzeichen": "LI",
+    "stadt": "Landkreis Lindau (Bodensee)",
+    "bundesland": "Bayern",
+    "ursprung": "LIndau",
+    "landkreis_id": 351,
+    "id": 351
+  },
+  {
+    "kennzeichen": "LIB",
+    "stadt": "Landkreis Elbe-Elster",
+    "bundesland": "Brandenburg",
+    "ursprung": "LIeBenwerda",
+    "landkreis_id": 141,
+    "id": 352
+  },
+  {
+    "kennzeichen": "LIF",
+    "stadt": "Landkreis Lichtenfels",
+    "bundesland": "Bayern",
+    "ursprung": "LIchtenFels",
+    "landkreis_id": 353,
+    "id": 353
+  },
+  {
+    "kennzeichen": "LIP",
+    "stadt": "Kreis Lippe",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "LIPpe",
+    "landkreis_id": 354,
+    "id": 354
+  },
+  {
+    "kennzeichen": "LL",
+    "stadt": "Landkreis Landsberg am Lech",
+    "bundesland": "Bayern",
+    "ursprung": "Landsberg am Lech",
+    "landkreis_id": 355,
+    "id": 355
+  },
+  {
+    "kennzeichen": "LM",
+    "stadt": "Landkreis Limburg-Weilburg",
+    "bundesland": "Hessen",
+    "ursprung": "LiMburg",
+    "landkreis_id": 356,
+    "id": 356
+  },
+  {
+    "kennzeichen": "LN",
+    "stadt": "Landkreis Dahme-Spreewald",
+    "bundesland": "Brandenburg",
+    "ursprung": "LübbeN",
+    "landkreis_id": 344,
+    "id": 357
+  },
+  {
+    "kennzeichen": "LÖ",
+    "stadt": "Landkreis Lörrach",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "LÖrrach",
+    "landkreis_id": 358,
+    "id": 358
+  },
+  {
+    "kennzeichen": "LÖB",
+    "stadt": "Landkreis Görlitz",
+    "bundesland": "Sachsen",
+    "ursprung": "LÖBau",
+    "landkreis_id": 219,
+    "id": 359
+  },
+  {
+    "kennzeichen": "LOS",
+    "stadt": "Landkreis Oder-Spree",
+    "bundesland": "Brandenburg",
+    "ursprung": "Landkreis Oder-Spre",
+    "landkreis_id": 360,
+    "id": 360
+  },
+  {
+    "kennzeichen": "LP",
+    "stadt": "Kreis Soest",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "LiPpstadt",
+    "landkreis_id": 595,
+    "id": 361
+  },
+  {
+    "kennzeichen": "LR",
+    "stadt": "Ortenaukreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "LahR",
+    "landkreis_id": 473,
+    "id": 362
+  },
+  {
+    "kennzeichen": "LRO",
+    "stadt": "Landkreis Rostock",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Landkreis ROstock",
+    "landkreis_id": 363,
+    "id": 363
+  },
+  {
+    "kennzeichen": "LSA",
+    "stadt": "Sachsen-Anhalt, Landesregierung, Landtag und Polizei",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "Land Sachsen-Anhalt",
+    "landkreis_id": 0,
+    "id": 364
+  },
+  {
+    "kennzeichen": "LSN",
+    "stadt": "Sachsen, Landesregierung und Landtag",
+    "bundesland": "Sachsen",
+    "ursprung": "Landtag SachseN",
+    "landkreis_id": 0,
+    "id": 365
+  },
+  {
+    "kennzeichen": "LSZ",
+    "stadt": "Unstrut-Hainich-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "LangenSalZa",
+    "landkreis_id": 642,
+    "id": 366
+  },
+  {
+    "kennzeichen": "LU",
+    "stadt": "Stadt Ludwigshafen am Rhein",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "LUdwigshafen",
+    "landkreis_id": 367,
+    "id": 367
+  },
+  {
+    "kennzeichen": "LÜN",
+    "stadt": "Kreis Unna",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "LÜNen",
+    "landkreis_id": 645,
+    "id": 368
+  },
+  {
+    "kennzeichen": "LUP",
+    "stadt": "Landkreis Ludwigslust-Parchim",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "LUdwigslust, Parchim",
+    "landkreis_id": 369,
+    "id": 369
+  },
+  {
+    "kennzeichen": "LWL",
+    "stadt": "Landkreis Ludwigslust-Parchim",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "LudWigsLust",
+    "landkreis_id": 369,
+    "id": 370
+  },
+  {
+    "kennzeichen": "M",
+    "stadt": "Landkreis München, Stadt München (AA–ZZ 100–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "München",
+    "landkreis_id": 371,
+    "id": 371
+  },
+  {
+    "kennzeichen": "MA",
+    "stadt": "Stadt Mannheim",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "MAnnheim",
+    "landkreis_id": 372,
+    "id": 372
+  },
+  {
+    "kennzeichen": "MAB",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "MArienBerg",
+    "landkreis_id": 159,
+    "id": 373
+  },
+  {
+    "kennzeichen": "MAI",
+    "stadt": "Landkreis Landshut (B, F, G, I, O und Q 1–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "MAInburg",
+    "landkreis_id": 335,
+    "id": 374
+  },
+  {
+    "kennzeichen": "MAI",
+    "stadt": "Landkreis Kelheim",
+    "bundesland": "Bayern",
+    "ursprung": "MAInburg",
+    "landkreis_id": 306,
+    "id": 1374
+  },
+  {
+    "kennzeichen": "MAK",
+    "stadt": "Landkreis Wunsiedel im Fichtelgebirge",
+    "bundesland": "Bayern",
+    "ursprung": "MArKtredwitz",
+    "landkreis_id": 711,
+    "id": 375
+  },
+  {
+    "kennzeichen": "MAL",
+    "stadt": "Landkreis Landshut (B, F, G, I, O und Q 1–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "MALlersdorf",
+    "landkreis_id": 335,
+    "id": 376
+  },
+  {
+    "kennzeichen": "MB",
+    "stadt": "Landkreis Miesbach",
+    "bundesland": "Bayern",
+    "ursprung": "MiesBach",
+    "landkreis_id": 377,
+    "id": 377
+  },
+  {
+    "kennzeichen": "MC",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "MalChin",
+    "landkreis_id": 429,
+    "id": 378
+  },
+  {
+    "kennzeichen": "MD",
+    "stadt": "Stadt Magdeburg",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "MagDeburg",
+    "landkreis_id": 379,
+    "id": 379
+  },
+  {
+    "kennzeichen": "ME",
+    "stadt": "Kreis Mettmann",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "MEttmann",
+    "landkreis_id": 380,
+    "id": 380
+  },
+  {
+    "kennzeichen": "MED",
+    "stadt": "Kreis Dithmarschen",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "MElDorf",
+    "landkreis_id": 252,
+    "id": 381
+  },
+  {
+    "kennzeichen": "MEG",
+    "stadt": "Schwalm-Eder-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "MElsunGen",
+    "landkreis_id": 279,
+    "id": 382
+  },
+  {
+    "kennzeichen": "MEI",
+    "stadt": "Landkreis Meißen",
+    "bundesland": "Sachsen",
+    "ursprung": "MEIßen",
+    "landkreis_id": 383,
+    "id": 383
+  },
+  {
+    "kennzeichen": "MEK",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "Mittlerer ErzgebirgsKreis",
+    "landkreis_id": 159,
+    "id": 384
+  },
+  {
+    "kennzeichen": "MEL",
+    "stadt": "Landkreis Osnabrück",
+    "bundesland": "Niedersachsen",
+    "ursprung": "MELle",
+    "landkreis_id": 483,
+    "id": 385
+  },
+  {
+    "kennzeichen": "MER",
+    "stadt": "Saalekreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "MERseburg",
+    "landkreis_id": 582,
+    "id": 386
+  },
+  {
+    "kennzeichen": "MET",
+    "stadt": "Landkreis Rhön-Grabfeld",
+    "bundesland": "Bayern",
+    "ursprung": "MEllrichstadT",
+    "landkreis_id": 437,
+    "id": 387
+  },
+  {
+    "kennzeichen": "MG",
+    "stadt": "Stadt Mönchengladbach",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "MönchenGladbach",
+    "landkreis_id": 388,
+    "id": 388
+  },
+  {
+    "kennzeichen": "MGH",
+    "stadt": "Main-Tauber-Kreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "MerGentHeim",
+    "landkreis_id": 622,
+    "id": 389
+  },
+  {
+    "kennzeichen": "MGN",
+    "stadt": "Landkreis Schmalkalden-Meiningen",
+    "bundesland": "Thüringen",
+    "ursprung": "MeininGeN",
+    "landkreis_id": 592,
+    "id": 390
+  },
+  {
+    "kennzeichen": "MH",
+    "stadt": "Stadt Mülheim an der Ruhr",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "MülHeim",
+    "landkreis_id": 391,
+    "id": 391
+  },
+  {
+    "kennzeichen": "MHL",
+    "stadt": "Unstrut-Hainich-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "MüHLhausen",
+    "landkreis_id": 642,
+    "id": 392
+  },
+  {
+    "kennzeichen": "MI",
+    "stadt": "Kreis Minden-Lübbecke",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "MInden",
+    "landkreis_id": 393,
+    "id": 393
+  },
+  {
+    "kennzeichen": "MIL",
+    "stadt": "Landkreis Miltenberg",
+    "bundesland": "Bayern",
+    "ursprung": "MILtenberg",
+    "landkreis_id": 394,
+    "id": 394
+  },
+  {
+    "kennzeichen": "MK",
+    "stadt": "Märkischer Kreis",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "Märkischer Kreis",
+    "landkreis_id": 395,
+    "id": 395
+  },
+  {
+    "kennzeichen": "MKK",
+    "stadt": "Main-Kinzig-Kreis ohne die Stadt Hanau",
+    "bundesland": "Hessen",
+    "ursprung": "Main-Kinzig-Kreis",
+    "landkreis_id": 284,
+    "id": 396
+  },
+  {
+    "kennzeichen": "ML",
+    "stadt": "Landkreis Mansfeld-Südharz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "Mansfelder Land",
+    "landkreis_id": 409,
+    "id": 397
+  },
+  {
+    "kennzeichen": "MM",
+    "stadt": "Stadt Memmingen",
+    "bundesland": "Bayern",
+    "ursprung": "MemMingen",
+    "landkreis_id": 398,
+    "id": 398
+  },
+  {
+    "kennzeichen": "MN",
+    "stadt": "Landkreis Unterallgäu",
+    "bundesland": "Bayern",
+    "ursprung": "MiNdelheim",
+    "landkreis_id": 399,
+    "id": 399
+  },
+  {
+    "kennzeichen": "MO",
+    "stadt": "Kreis Wesel",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "MOers",
+    "landkreis_id": 675,
+    "id": 400
+  },
+  {
+    "kennzeichen": "MOD",
+    "stadt": "Landkreis Ostallgäu",
+    "bundesland": "Bayern",
+    "ursprung": "MarktOberDorf",
+    "landkreis_id": 464,
+    "id": 401
+  },
+  {
+    "kennzeichen": "MOL",
+    "stadt": "Landkreis Märkisch-Oderland",
+    "bundesland": "Brandenburg",
+    "ursprung": "Märkisch-OderLand",
+    "landkreis_id": 402,
+    "id": 402
+  },
+  {
+    "kennzeichen": "MON",
+    "stadt": "Städteregion Aachen, Kreis Düren",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "MONschau",
+    "landkreis_id": 6,
+    "id": 403
+  },
+  {
+    "kennzeichen": "MOS",
+    "stadt": "Neckar-Odenwald-Kreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "MOSbach",
+    "landkreis_id": 404,
+    "id": 404
+  },
+  {
+    "kennzeichen": "MQ",
+    "stadt": "Saalekreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "Merseburg, Querfurt",
+    "landkreis_id": 582,
+    "id": 405
+  },
+  {
+    "kennzeichen": "MR",
+    "stadt": "Landkreis Marburg-Biedenkopf",
+    "bundesland": "Hessen",
+    "ursprung": "MaRburg",
+    "landkreis_id": 406,
+    "id": 406
+  },
+  {
+    "kennzeichen": "MS",
+    "stadt": "Stadt Münster",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "MünSter",
+    "landkreis_id": 407,
+    "id": 407
+  },
+  {
+    "kennzeichen": "MSE",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Mecklenburgische SEenplatte",
+    "landkreis_id": 429,
+    "id": 408
+  },
+  {
+    "kennzeichen": "MSH",
+    "stadt": "Landkreis Mansfeld-Südharz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "Mansfeld, SüdHarz",
+    "landkreis_id": 409,
+    "id": 409
+  },
+  {
+    "kennzeichen": "MSP",
+    "stadt": "Landkreis Main-Spessart",
+    "bundesland": "Bayern",
+    "ursprung": "Main, SPessart",
+    "landkreis_id": 410,
+    "id": 410
+  },
+  {
+    "kennzeichen": "MST",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Mecklenburg-STrelitz",
+    "landkreis_id": 429,
+    "id": 411
+  },
+  {
+    "kennzeichen": "MTK",
+    "stadt": "Main-Taunus-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "Main-Taunus-Kreis",
+    "landkreis_id": 412,
+    "id": 412
+  },
+  {
+    "kennzeichen": "MTL",
+    "stadt": "Landkreis Leipzig",
+    "bundesland": "Sachsen",
+    "ursprung": "MuldenTaL",
+    "landkreis_id": 334,
+    "id": 413
+  },
+  {
+    "kennzeichen": "MUC",
+    "stadt": "Stadt München",
+    "bundesland": "Bayern",
+    "ursprung": "Internationale Kennung des Münchner Flughafens",
+    "landkreis_id": 371,
+    "id": 414
+  },
+  {
+    "kennzeichen": "MÜ",
+    "stadt": "Landkreis Mühldorf am Inn",
+    "bundesland": "Bayern",
+    "ursprung": "MÜhldorf",
+    "landkreis_id": 415,
+    "id": 415
+  },
+  {
+    "kennzeichen": "MÜB",
+    "stadt": "Landkreis Hof",
+    "bundesland": "Bayern",
+    "ursprung": "MÜnchBerg",
+    "landkreis_id": 270,
+    "id": 416
+  },
+  {
+    "kennzeichen": "MÜB",
+    "stadt": "Landkreis Bayreuth (A–M 100–999 und N–Z 1–99)",
+    "bundesland": "Bayern",
+    "ursprung": "MÜnchBerg",
+    "landkreis_id": 80,
+    "id": 1416
+  },
+  {
+    "kennzeichen": "MÜL",
+    "stadt": "Landkreis Breisgau-Hochschwarzwald",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "MÜLheim (Baden)",
+    "landkreis_id": 417,
+    "id": 417
+  },
+  {
+    "kennzeichen": "MÜR",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "MÜRitz",
+    "landkreis_id": 429,
+    "id": 418
+  },
+  {
+    "kennzeichen": "MVL",
+    "stadt": "Mecklenburg-Vorpommern, Landesregierung, Landtag und Polizei",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Mecklenburg-Vorpommerscher Landtag",
+    "landkreis_id": 0,
+    "id": 419
+  },
+  {
+    "kennzeichen": "MW",
+    "stadt": "Landkreis Mittelsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "MittWeida",
+    "landkreis_id": 173,
+    "id": 420
+  },
+  {
+    "kennzeichen": "MY",
+    "stadt": "Landkreis Mayen-Koblenz",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "MaYen",
+    "landkreis_id": 422,
+    "id": 421
+  },
+  {
+    "kennzeichen": "MYK",
+    "stadt": "Landkreis Mayen-Koblenz",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "MaYen, Koblenz",
+    "landkreis_id": 422,
+    "id": 422
+  },
+  {
+    "kennzeichen": "MZ",
+    "stadt": "Landkreis Mainz-Bingen, Stadt Mainz (AA–KY 100–9999 und LA–ZZ 100–999)",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "MainZ",
+    "landkreis_id": 423,
+    "id": 423
+  },
+  {
+    "kennzeichen": "MZG",
+    "stadt": "Landkreis Merzig-Wadern",
+    "bundesland": "Saarland",
+    "ursprung": "MerZiG",
+    "landkreis_id": 424,
+    "id": 424
+  },
+  {
+    "kennzeichen": "N",
+    "stadt": "Landkreis Nürnberger Land (A–Z 1–999), Stadt Nürnberg (A–Z 1000–9999 und AA–ZZ 100–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "Nürnberg",
+    "landkreis_id": 425,
+    "id": 425
+  },
+  {
+    "kennzeichen": "NAB",
+    "stadt": "Landkreis Schwandorf",
+    "bundesland": "Bayern",
+    "ursprung": "NABburg",
+    "landkreis_id": 551,
+    "id": 426
+  },
+  {
+    "kennzeichen": "NAB",
+    "stadt": "Landkreis Amberg-Sulzbach (B, F und G 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "NABburg",
+    "landkreis_id": 24,
+    "id": 1426
+  },
+  {
+    "kennzeichen": "NAI",
+    "stadt": "Landkreis Hof",
+    "bundesland": "Bayern",
+    "ursprung": "NAIla",
+    "landkreis_id": 270,
+    "id": 427
+  },
+  {
+    "kennzeichen": "NAU",
+    "stadt": "Landkreis Havelland",
+    "bundesland": "Brandenburg",
+    "ursprung": "NAUen",
+    "landkreis_id": 286,
+    "id": 428
+  },
+  {
+    "kennzeichen": "NB",
+    "stadt": "Stadt Neubrandenburg (große kreisangehörige Stadt im Landkreis Mecklenburgische Seenplatte)",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "NeuBrandenburg",
+    "landkreis_id": 429,
+    "id": 429
+  },
+  {
+    "kennzeichen": "ND",
+    "stadt": "Landkreis Neuburg-Schrobenhausen",
+    "bundesland": "Bayern",
+    "ursprung": "Neuburg an der Donau",
+    "landkreis_id": 430,
+    "id": 430
+  },
+  {
+    "kennzeichen": "NDH",
+    "stadt": "Landkreis Nordhausen",
+    "bundesland": "Thüringen",
+    "ursprung": "NorDHausen",
+    "landkreis_id": 431,
+    "id": 431
+  },
+  {
+    "kennzeichen": "NE",
+    "stadt": "Rhein-Kreis Neuss",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "NEuss",
+    "landkreis_id": 432,
+    "id": 432
+  },
+  {
+    "kennzeichen": "NEA",
+    "stadt": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+    "bundesland": "Bayern",
+    "ursprung": "NEustadt an der Aisch",
+    "landkreis_id": 433,
+    "id": 433
+  },
+  {
+    "kennzeichen": "NEB",
+    "stadt": "Burgenlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "NEBra",
+    "landkreis_id": 60,
+    "id": 434
+  },
+  {
+    "kennzeichen": "NEC",
+    "stadt": "Stadt Coburg und Landkreis Coburg",
+    "bundesland": "Bayern",
+    "ursprung": "NEustadt bei Coburg",
+    "landkreis_id": 99,
+    "id": 435
+  },
+  {
+    "kennzeichen": "NEN",
+    "stadt": "Landkreis Schwandorf",
+    "bundesland": "Bayern",
+    "ursprung": "NEuNburg",
+    "landkreis_id": 551,
+    "id": 436
+  },
+  {
+    "kennzeichen": "NES",
+    "stadt": "Landkreis Rhön-Grabfeld",
+    "bundesland": "Bayern",
+    "ursprung": "NEustadt an der Saale",
+    "landkreis_id": 437,
+    "id": 437
+  },
+  {
+    "kennzeichen": "NEU",
+    "stadt": "Landkreis Breisgau-Hochschwarzwald",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "Titisee-NEUstadt",
+    "landkreis_id": 417,
+    "id": 438
+  },
+  {
+    "kennzeichen": "NEW",
+    "stadt": "Landkreis Neustadt an der Waldnaab",
+    "bundesland": "Bayern",
+    "ursprung": "NEustadt an der Waldnaab",
+    "landkreis_id": 439,
+    "id": 439
+  },
+  {
+    "kennzeichen": "NF",
+    "stadt": "Kreis Nordfriesland",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "NordFriesland",
+    "landkreis_id": 440,
+    "id": 440
+  },
+  {
+    "kennzeichen": "NH",
+    "stadt": "Landkreis Sonneberg",
+    "bundesland": "Thüringen",
+    "ursprung": "NeuHaus",
+    "landkreis_id": 600,
+    "id": 441
+  },
+  {
+    "kennzeichen": "NI",
+    "stadt": "Landkreis Nienburg/Weser",
+    "bundesland": "Niedersachsen",
+    "ursprung": "NIenburg",
+    "landkreis_id": 442,
+    "id": 442
+  },
+  {
+    "kennzeichen": "NK",
+    "stadt": "Landkreis Neunkirchen",
+    "bundesland": "Saarland",
+    "ursprung": "NeunKirchen",
+    "landkreis_id": 443,
+    "id": 443
+  },
+  {
+    "kennzeichen": "NL",
+    "stadt": "Niedersachsen, Landesregierung und Landtag",
+    "bundesland": "Niedersachsen",
+    "ursprung": "Niedersächsischer Landtag",
+    "landkreis_id": 0,
+    "id": 444
+  },
+  {
+    "kennzeichen": "NM",
+    "stadt": "Landkreis Neumarkt in der Oberpfalz",
+    "bundesland": "Bayern",
+    "ursprung": "NeuMarkt",
+    "landkreis_id": 445,
+    "id": 445
+  },
+  {
+    "kennzeichen": "NMB",
+    "stadt": "Burgenlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "NauMBurg",
+    "landkreis_id": 60,
+    "id": 446
+  },
+  {
+    "kennzeichen": "NMS",
+    "stadt": "Stadt Neumünster",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "NeuMünSter",
+    "landkreis_id": 447,
+    "id": 447
+  },
+  {
+    "kennzeichen": "NÖ",
+    "stadt": "Landkreis Donau-Ries",
+    "bundesland": "Bayern",
+    "ursprung": "NÖrdlingen",
+    "landkreis_id": 127,
+    "id": 448
+  },
+  {
+    "kennzeichen": "NOH",
+    "stadt": "Landkreis Grafschaft Bentheim",
+    "bundesland": "Niedersachsen",
+    "ursprung": "NOrdHorn",
+    "landkreis_id": 449,
+    "id": 449
+  },
+  {
+    "kennzeichen": "NOL",
+    "stadt": "Landkreis Görlitz",
+    "bundesland": "Sachsen",
+    "ursprung": "Niederschlesische OberLausitz",
+    "landkreis_id": 219,
+    "id": 450
+  },
+  {
+    "kennzeichen": "NOM",
+    "stadt": "Landkreis Northeim",
+    "bundesland": "Niedersachsen",
+    "ursprung": "NOrtheiM",
+    "landkreis_id": 451,
+    "id": 451
+  },
+  {
+    "kennzeichen": "NOR",
+    "stadt": "Landkreis Aurich",
+    "bundesland": "Niedersachsen",
+    "ursprung": "NORden",
+    "landkreis_id": 29,
+    "id": 452
+  },
+  {
+    "kennzeichen": "NP",
+    "stadt": "Landkreis Ostprignitz-Ruppin",
+    "bundesland": "Brandenburg",
+    "ursprung": "NeurupPin",
+    "landkreis_id": 482,
+    "id": 453
+  },
+  {
+    "kennzeichen": "NR",
+    "stadt": "Landkreis Neuwied",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "Neuwied am Rhein",
+    "landkreis_id": 454,
+    "id": 454
+  },
+  {
+    "kennzeichen": "NRW",
+    "stadt": "Nordrhein-Westfalen, Landesregierung, Landtag und Polizei",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "NordRhein-Westfalen",
+    "landkreis_id": 0,
+    "id": 455
+  },
+  {
+    "kennzeichen": "NT",
+    "stadt": "Landkreis Esslingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "NürTingen",
+    "landkreis_id": 160,
+    "id": 456
+  },
+  {
+    "kennzeichen": "NU",
+    "stadt": "Landkreis Neu-Ulm",
+    "bundesland": "Bayern",
+    "ursprung": "Neu-Ulm",
+    "landkreis_id": 457,
+    "id": 457
+  },
+  {
+    "kennzeichen": "NVP",
+    "stadt": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "NordVorPommern",
+    "landkreis_id": 283,
+    "id": 458
+  },
+  {
+    "kennzeichen": "NW",
+    "stadt": "Stadt Neustadt an der Weinstraße",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "Neustadt an der Weinstraße",
+    "landkreis_id": 459,
+    "id": 459
+  },
+  {
+    "kennzeichen": "NWM",
+    "stadt": "Landkreis Nordwestmecklenburg ohne die Stadt Wismar",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "NordWestMecklenburg",
+    "landkreis_id": 287,
+    "id": 460
+  },
+  {
+    "kennzeichen": "NY",
+    "stadt": "Landkreis Görlitz",
+    "bundesland": "Sachsen",
+    "ursprung": "NieskY",
+    "landkreis_id": 219,
+    "id": 461
+  },
+  {
+    "kennzeichen": "NZ",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "NeustrelitZ",
+    "landkreis_id": 429,
+    "id": 462
+  },
+  {
+    "kennzeichen": "OA",
+    "stadt": "Landkreis Oberallgäu",
+    "bundesland": "Bayern",
+    "ursprung": "OberAllgäu",
+    "landkreis_id": 463,
+    "id": 463
+  },
+  {
+    "kennzeichen": "OAL",
+    "stadt": "Landkreis Ostallgäu",
+    "bundesland": "Bayern",
+    "ursprung": "OstALlgäu",
+    "landkreis_id": 464,
+    "id": 464
+  },
+  {
+    "kennzeichen": "OB",
+    "stadt": "Stadt Oberhausen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "OBerhausen",
+    "landkreis_id": 465,
+    "id": 465
+  },
+  {
+    "kennzeichen": "OBB",
+    "stadt": "Landkreis Miltenberg",
+    "bundesland": "Bayern",
+    "ursprung": "OBernBurg",
+    "landkreis_id": 394,
+    "id": 466
+  },
+  {
+    "kennzeichen": "OBG",
+    "stadt": "Landkreis Stendal",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "OsterBurG",
+    "landkreis_id": 562,
+    "id": 467
+  },
+  {
+    "kennzeichen": "OC",
+    "stadt": "Landkreis Börde",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "OsChersleben",
+    "landkreis_id": 65,
+    "id": 468
+  },
+  {
+    "kennzeichen": "OCH",
+    "stadt": "Landkreis Würzburg",
+    "bundesland": "Bayern",
+    "ursprung": "OCHsenfurt",
+    "landkreis_id": 708,
+    "id": 469
+  },
+  {
+    "kennzeichen": "OD",
+    "stadt": "Kreis Stormarn",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "OlDesloe",
+    "landkreis_id": 470,
+    "id": 470
+  },
+  {
+    "kennzeichen": "OE",
+    "stadt": "Kreis Olpe",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "OlpE",
+    "landkreis_id": 471,
+    "id": 471
+  },
+  {
+    "kennzeichen": "OF",
+    "stadt": "Landkreis Offenbach und Stadt Offenbach am Main",
+    "bundesland": "Hessen",
+    "ursprung": "OFfenbach",
+    "landkreis_id": 472,
+    "id": 472
+  },
+  {
+    "kennzeichen": "OG",
+    "stadt": "Ortenaukreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "OffenburG",
+    "landkreis_id": 473,
+    "id": 473
+  },
+  {
+    "kennzeichen": "OH",
+    "stadt": "Kreis Ostholstein",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "OstHolstein",
+    "landkreis_id": 474,
+    "id": 474
+  },
+  {
+    "kennzeichen": "OHA",
+    "stadt": "Landkreis Göttingen",
+    "bundesland": "Niedersachsen",
+    "ursprung": "Osterode am HArz",
+    "landkreis_id": 215,
+    "id": 475
+  },
+  {
+    "kennzeichen": "ÖHR",
+    "stadt": "Hohenlohekreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "ÖHRingen",
+    "landkreis_id": 329,
+    "id": 476
+  },
+  {
+    "kennzeichen": "OHV",
+    "stadt": "Landkreis Oberhavel",
+    "bundesland": "Brandenburg",
+    "ursprung": "OberHaVel",
+    "landkreis_id": 477,
+    "id": 477
+  },
+  {
+    "kennzeichen": "OHZ",
+    "stadt": "Landkreis Osterholz",
+    "bundesland": "Niedersachsen",
+    "ursprung": "OsterHolZ",
+    "landkreis_id": 478,
+    "id": 478
+  },
+  {
+    "kennzeichen": "OK",
+    "stadt": "Landkreis Börde",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "OhreKreis",
+    "landkreis_id": 65,
+    "id": 479
+  },
+  {
+    "kennzeichen": "OL",
+    "stadt": "Landkreis Oldenburg, Stadt Oldenburg (AA–ZZ 100–999)",
+    "bundesland": "Niedersachsen",
+    "ursprung": "OLdenburg",
+    "landkreis_id": 480,
+    "id": 480
+  },
+  {
+    "kennzeichen": "OP",
+    "stadt": "Stadt Leverkusen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "OPladen",
+    "landkreis_id": 347,
+    "id": 481
+  },
+  {
+    "kennzeichen": "OPR",
+    "stadt": "Landkreis Ostprignitz-Ruppin",
+    "bundesland": "Brandenburg",
+    "ursprung": "OstPrignitz, Ruppin",
+    "landkreis_id": 482,
+    "id": 482
+  },
+  {
+    "kennzeichen": "OS",
+    "stadt": "Stadt Osnabrück, Landkreis Osnabrück (AA–ZZ 100–999)",
+    "bundesland": "Niedersachsen",
+    "ursprung": "OSnabrück",
+    "landkreis_id": 483,
+    "id": 483
+  },
+  {
+    "kennzeichen": "OSL",
+    "stadt": "Landkreis Oberspreewald-Lausitz",
+    "bundesland": "Brandenburg",
+    "ursprung": "OberSpreewald, Lausitz",
+    "landkreis_id": 484,
+    "id": 484
+  },
+  {
+    "kennzeichen": "OTW",
+    "stadt": "Landkreis Ottweiler",
+    "bundesland": "Saarland",
+    "ursprung": "OTtWeiler",
+    "landkreis_id": 443,
+    "id": 485
+  },
+  {
+    "kennzeichen": "OVI",
+    "stadt": "Landkreis Schwandorf",
+    "bundesland": "Bayern",
+    "ursprung": "OberVIechtach",
+    "landkreis_id": 551,
+    "id": 486
+  },
+  {
+    "kennzeichen": "OVL",
+    "stadt": "Vogtlandkreis",
+    "bundesland": "Sachsen",
+    "ursprung": "OberVogtLand",
+    "landkreis_id": 648,
+    "id": 487
+  },
+  {
+    "kennzeichen": "OVP",
+    "stadt": "Landkreis Ostvorpommern",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "OstVorPommern",
+    "landkreis_id": 259,
+    "id": 488
+  },
+  {
+    "kennzeichen": "OZ",
+    "stadt": "Landkreis Nordsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "OschatZ",
+    "landkreis_id": 623,
+    "id": 489
+  },
+  {
+    "kennzeichen": "P",
+    "stadt": "Stadt Potsdam",
+    "bundesland": "Brandenburg",
+    "ursprung": "Potsdam",
+    "landkreis_id": 490,
+    "id": 490
+  },
+  {
+    "kennzeichen": "PA",
+    "stadt": "Stadt Passau (A–Z 1–9999), Landkreis Passau (AA–ZZ 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "PAssau",
+    "landkreis_id": 491,
+    "id": 491
+  },
+  {
+    "kennzeichen": "PAF",
+    "stadt": "Landkreis Pfaffenhofen an der Ilm",
+    "bundesland": "Bayern",
+    "ursprung": "PfAFfenhofen",
+    "landkreis_id": 492,
+    "id": 492
+  },
+  {
+    "kennzeichen": "PAN",
+    "stadt": "Landkreis Rottal-Inn",
+    "bundesland": "Bayern",
+    "ursprung": "PfArrkircheN",
+    "landkreis_id": 493,
+    "id": 493
+  },
+  {
+    "kennzeichen": "PAR",
+    "stadt": "Landkreis Neumarkt in der Oberpfalz",
+    "bundesland": "Bayern",
+    "ursprung": "PARsberg",
+    "landkreis_id": 445,
+    "id": 494
+  },
+  {
+    "kennzeichen": "PAR",
+    "stadt": "Landkreis Kelheim (Q, Y, BB und CC 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "PARsberg",
+    "landkreis_id": 306,
+    "id": 1494
+  },
+  {
+    "kennzeichen": "PB",
+    "stadt": "Kreis Paderborn",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "PaderBorn",
+    "landkreis_id": 495,
+    "id": 495
+  },
+  {
+    "kennzeichen": "PCH",
+    "stadt": "Landkreis Ludwigslust-Parchim",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "ParCHim",
+    "landkreis_id": 369,
+    "id": 496
+  },
+  {
+    "kennzeichen": "PE",
+    "stadt": "Landkreis Peine",
+    "bundesland": "Niedersachsen",
+    "ursprung": "PEine",
+    "landkreis_id": 497,
+    "id": 497
+  },
+  {
+    "kennzeichen": "PEG",
+    "stadt": "Landkreis Forchheim",
+    "bundesland": "Bayern",
+    "ursprung": "PEGnitz",
+    "landkreis_id": 179,
+    "id": 498
+  },
+  {
+    "kennzeichen": "PEG",
+    "stadt": "Landkreis Nürnberger Land (A 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "PEGnitz",
+    "landkreis_id": 337,
+    "id": 1498
+  },
+  {
+    "kennzeichen": "PEG",
+    "stadt": "Landkreis Bayreuth (B–Z 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "PEGnitz",
+    "landkreis_id": 80,
+    "id": 2498
+  },
+  {
+    "kennzeichen": "PF",
+    "stadt": "Enzkreis, Stadt Pforzheim (AA–MZ 100–999 und NA–ZZ 100–9999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "PForzheim",
+    "landkreis_id": 499,
+    "id": 499
+  },
+  {
+    "kennzeichen": "PI",
+    "stadt": "Kreis Pinneberg",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "PInneberg",
+    "landkreis_id": 500,
+    "id": 500
+  },
+  {
+    "kennzeichen": "PIR",
+    "stadt": "Landkreis Sächsische Schweiz-Osterzgebirge",
+    "bundesland": "Sachsen",
+    "ursprung": "PIRna",
+    "landkreis_id": 501,
+    "id": 501
+  },
+  {
+    "kennzeichen": "PL",
+    "stadt": "Vogtlandkreis",
+    "bundesland": "Sachsen",
+    "ursprung": "PLauen",
+    "landkreis_id": 648,
+    "id": 502
+  },
+  {
+    "kennzeichen": "PLÖ",
+    "stadt": "Kreis Plön",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "PLÖn",
+    "landkreis_id": 503,
+    "id": 503
+  },
+  {
+    "kennzeichen": "PM",
+    "stadt": "Landkreis Potsdam-Mittelmark",
+    "bundesland": "Brandenburg",
+    "ursprung": "Potsdam, Mittelmark",
+    "landkreis_id": 504,
+    "id": 504
+  },
+  {
+    "kennzeichen": "PN",
+    "stadt": "Saale-Orla-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "PößNeck",
+    "landkreis_id": 598,
+    "id": 505
+  },
+  {
+    "kennzeichen": "PR",
+    "stadt": "Landkreis Prignitz",
+    "bundesland": "Brandenburg",
+    "ursprung": "PRignitz",
+    "landkreis_id": 506,
+    "id": 506
+  },
+  {
+    "kennzeichen": "PRÜ",
+    "stadt": "Eifelkreis Bitburg-Prüm",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "PRÜm",
+    "landkreis_id": 54,
+    "id": 507
+  },
+  {
+    "kennzeichen": "PS",
+    "stadt": "Stadt Pirmasens (A–Z 1–9999), Landkreis Südwestpfalz (AA–ZZ 1–999)",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "PirmaSens",
+    "landkreis_id": 508,
+    "id": 508
+  },
+  {
+    "kennzeichen": "PW",
+    "stadt": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "PaseWalk",
+    "landkreis_id": 259,
+    "id": 509
+  },
+  {
+    "kennzeichen": "PZ",
+    "stadt": "Landkreis Uckermark",
+    "bundesland": "Brandenburg",
+    "ursprung": "PrenZlau",
+    "landkreis_id": 644,
+    "id": 510
+  },
+  {
+    "kennzeichen": "QFT",
+    "stadt": "Saalekreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "QuerFurT",
+    "landkreis_id": 582,
+    "id": 511
+  },
+  {
+    "kennzeichen": "QLB",
+    "stadt": "Landkreis Harz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "QuedLinBurg",
+    "landkreis_id": 290,
+    "id": 512
+  },
+  {
+    "kennzeichen": "R",
+    "stadt": "Landkreis Regensburg, Stadt Regensburg (AA–MM 1–999 und MN–ZZ 1000–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "Regensburg",
+    "landkreis_id": 513,
+    "id": 513
+  },
+  {
+    "kennzeichen": "RA",
+    "stadt": "Landkreis Rastatt",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "Württemberg",
+    "landkreis_id": 514,
+    "id": 514
+  },
+  {
+    "kennzeichen": "RC",
+    "stadt": "Vogtlandkreis",
+    "bundesland": "Sachsen",
+    "ursprung": "ReiChenbach",
+    "landkreis_id": 648,
+    "id": 515
+  },
+  {
+    "kennzeichen": "RD",
+    "stadt": "Kreis Rendsburg-Eckernförde",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "RenDsburg",
+    "landkreis_id": 516,
+    "id": 516
+  },
+  {
+    "kennzeichen": "RDG",
+    "stadt": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Ribnitz-DamGarten",
+    "landkreis_id": 283,
+    "id": 517
+  },
+  {
+    "kennzeichen": "RE",
+    "stadt": "Kreis Recklinghausen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "REcklinghausen",
+    "landkreis_id": 518,
+    "id": 518
+  },
+  {
+    "kennzeichen": "REG",
+    "stadt": "Landkreis Regen",
+    "bundesland": "Bayern",
+    "ursprung": "REGen",
+    "landkreis_id": 519,
+    "id": 519
+  },
+  {
+    "kennzeichen": "REH",
+    "stadt": "Landkreis Wunsiedel im Fichtelgebirge (A, E, F, H, J, M, N, P, R, S, V und X 1–999, AA, FF, GG, OO und ZZ 100–999 sowie AU 900–999)",
+    "bundesland": "Bayern",
+    "ursprung": "REHau",
+    "landkreis_id": 711,
+    "id": 520
+  },
+  {
+    "kennzeichen": "REH",
+    "stadt": "Landkreis Hof",
+    "bundesland": "Bayern",
+    "ursprung": "REHau",
+    "landkreis_id": 270,
+    "id": 1520
+  },
+  {
+    "kennzeichen": "REI",
+    "stadt": "Landkreis Berchtesgadener Land",
+    "bundesland": "Bayern",
+    "ursprung": "REIchenhall",
+    "landkreis_id": 48,
+    "id": 521
+  },
+  {
+    "kennzeichen": "RG",
+    "stadt": "Landkreis Meißen",
+    "bundesland": "Sachsen",
+    "ursprung": "Riesa, Großenhain",
+    "landkreis_id": 383,
+    "id": 522
+  },
+  {
+    "kennzeichen": "RH",
+    "stadt": "Landkreis Roth",
+    "bundesland": "Bayern",
+    "ursprung": "RotH",
+    "landkreis_id": 523,
+    "id": 523
+  },
+  {
+    "kennzeichen": "RI",
+    "stadt": "Landkreis Schaumburg",
+    "bundesland": "Niedersachsen",
+    "ursprung": "RInteln",
+    "landkreis_id": 575,
+    "id": 524
+  },
+  {
+    "kennzeichen": "RID",
+    "stadt": "Landkreis Kelheim",
+    "bundesland": "Bayern",
+    "ursprung": "RIeDenburg",
+    "landkreis_id": 306,
+    "id": 525
+  },
+  {
+    "kennzeichen": "RIE",
+    "stadt": "Landkreis Meißen",
+    "bundesland": "Sachsen",
+    "ursprung": "RIEsa",
+    "landkreis_id": 383,
+    "id": 526
+  },
+  {
+    "kennzeichen": "RL",
+    "stadt": "Landkreis Mittelsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "RochLitz",
+    "landkreis_id": 173,
+    "id": 527
+  },
+  {
+    "kennzeichen": "RM",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Röbel/Müritz",
+    "landkreis_id": 429,
+    "id": 528
+  },
+  {
+    "kennzeichen": "RN",
+    "stadt": "Landkreis Havelland",
+    "bundesland": "Brandenburg",
+    "ursprung": "RatheNow",
+    "landkreis_id": 286,
+    "id": 529
+  },
+  {
+    "kennzeichen": "RO",
+    "stadt": "Stadt Rosenheim, Landkreis Rosenheim (AA–ZZ 100–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "ROsenheim",
+    "landkreis_id": 530,
+    "id": 530
+  },
+  {
+    "kennzeichen": "ROD",
+    "stadt": "Landkreis Cham",
+    "bundesland": "Bayern",
+    "ursprung": "RODing",
+    "landkreis_id": 96,
+    "id": 531
+  },
+  {
+    "kennzeichen": "ROD",
+    "stadt": "Landkreis Schwandorf (B 1–500, F 1–700, G 50–400 und I 100–1000)",
+    "bundesland": "Bayern",
+    "ursprung": "RODing",
+    "landkreis_id": 551,
+    "id": 1531
+  },
+  {
+    "kennzeichen": "ROF",
+    "stadt": "Landkreis Hersfeld-Rotenburg",
+    "bundesland": "Hessen",
+    "ursprung": "ROtenburg an der Fulda",
+    "landkreis_id": 251,
+    "id": 532
+  },
+  {
+    "kennzeichen": "ROK",
+    "stadt": "Donnersbergkreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "ROcKenhausen",
+    "landkreis_id": 313,
+    "id": 533
+  },
+  {
+    "kennzeichen": "ROL",
+    "stadt": "Landkreis Landshut",
+    "bundesland": "Bayern",
+    "ursprung": "ROttenburg an der Laaber",
+    "landkreis_id": 335,
+    "id": 534
+  },
+  {
+    "kennzeichen": "ROL",
+    "stadt": "Landkreis Kelheim (A bis Z)",
+    "bundesland": "Bayern",
+    "ursprung": "ROttenburg an der Laaber",
+    "landkreis_id": 306,
+    "id": 1534
+  },
+  {
+    "kennzeichen": "ROS",
+    "stadt": "Landkreis Rostock",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "ROStock",
+    "landkreis_id": 363,
+    "id": 535
+  },
+  {
+    "kennzeichen": "ROT",
+    "stadt": "Landkreis Ansbach",
+    "bundesland": "Bayern",
+    "ursprung": "ROthenburg ob der Tauber",
+    "landkreis_id": 15,
+    "id": 536
+  },
+  {
+    "kennzeichen": "ROW",
+    "stadt": "Landkreis Rotenburg (Wümme)",
+    "bundesland": "Niedersachsen",
+    "ursprung": "ROtenburg (Wümme)",
+    "landkreis_id": 537,
+    "id": 537
+  },
+  {
+    "kennzeichen": "RP",
+    "stadt": "Rhein-Pfalz-Kreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "Rhein-Pfalz",
+    "landkreis_id": 538,
+    "id": 538
+  },
+  {
+    "kennzeichen": "RPL",
+    "stadt": "Rheinland-Pfalz, Landesregierung, Landtag und Polizei",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "Rheinland-Pfälzischer Landtag",
+    "landkreis_id": 0,
+    "id": 539
+  },
+  {
+    "kennzeichen": "RS",
+    "stadt": "Stadt Remscheid",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "RemScheid",
+    "landkreis_id": 540,
+    "id": 540
+  },
+  {
+    "kennzeichen": "RSL",
+    "stadt": "Stadt Dessau-Roßlau",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "RosSLau",
+    "landkreis_id": 112,
+    "id": 541
+  },
+  {
+    "kennzeichen": "RT",
+    "stadt": "Landkreis Reutlingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "ReuTlingen",
+    "landkreis_id": 542,
+    "id": 542
+  },
+  {
+    "kennzeichen": "RU",
+    "stadt": "Landkreis Saalfeld-Rudolstadt",
+    "bundesland": "Thüringen",
+    "ursprung": "RUdolstadt",
+    "landkreis_id": 585,
+    "id": 543
+  },
+  {
+    "kennzeichen": "RÜD",
+    "stadt": "Rheingau-Taunus-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "RÜDesheim",
+    "landkreis_id": 544,
+    "id": 544
+  },
+  {
+    "kennzeichen": "RÜG",
+    "stadt": "Landkreis Vorpommern-Rügen",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "RÜGen",
+    "landkreis_id": 283,
+    "id": 545
+  },
+  {
+    "kennzeichen": "RV",
+    "stadt": "Landkreis Ravensburg",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "RaVensburg",
+    "landkreis_id": 546,
+    "id": 546
+  },
+  {
+    "kennzeichen": "RW",
+    "stadt": "Landkreis Rottweil",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "RottWeil",
+    "landkreis_id": 547,
+    "id": 547
+  },
+  {
+    "kennzeichen": "RZ",
+    "stadt": "Kreis Herzogtum Lauenburg",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "RatZeburg",
+    "landkreis_id": 548,
+    "id": 548
+  },
+  {
+    "kennzeichen": "S",
+    "stadt": "Stadt Stuttgart",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "Stuttgart",
+    "landkreis_id": 549,
+    "id": 549
+  },
+  {
+    "kennzeichen": "SAB",
+    "stadt": "Landkreis Trier-Saarburg",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "SAarBurg",
+    "landkreis_id": 634,
+    "id": 550
+  },
+  {
+    "kennzeichen": "SAD",
+    "stadt": "Landkreis Schwandorf",
+    "bundesland": "Bayern",
+    "ursprung": "SchwAnDorf",
+    "landkreis_id": 551,
+    "id": 551
+  },
+  {
+    "kennzeichen": "SAL",
+    "stadt": "Saarland, Landesregierung, Landtag und Polizei",
+    "bundesland": "Saarland",
+    "ursprung": "SAarländischer Landtag",
+    "landkreis_id": 0,
+    "id": 552
+  },
+  {
+    "kennzeichen": "SAN",
+    "stadt": "Landkreis Hof (W–Z 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "StAdtsteiNach",
+    "landkreis_id": 270,
+    "id": 553
+  },
+  {
+    "kennzeichen": "SAN",
+    "stadt": "Landkreis Kronach (S–V 1–9999 und AA–IZ 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "StAdtsteiNach",
+    "landkreis_id": 304,
+    "id": 1553
+  },
+  {
+    "kennzeichen": "SAN",
+    "stadt": "Landkreis Kulmbach (A–R 1–9999 und JA–ZZ 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "StAdtsteiNach",
+    "landkreis_id": 328,
+    "id": 2553
+  },
+  {
+    "kennzeichen": "SAW",
+    "stadt": "Altmarkkreis Salzwedel",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "SAlzWedel",
+    "landkreis_id": 554,
+    "id": 554
+  },
+  {
+    "kennzeichen": "SÄK",
+    "stadt": "Landkreis Säckingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "SÄcKingen",
+    "landkreis_id": 705,
+    "id": 555
+  },
+  {
+    "kennzeichen": "SB",
+    "stadt": "Regionalverband Saarbrücken ohne die Stadt Völklingen",
+    "bundesland": "Saarland",
+    "ursprung": "SaarBrücken",
+    "landkreis_id": 556,
+    "id": 556
+  },
+  {
+    "kennzeichen": "SBG",
+    "stadt": "Landkreis Vorpommern-Greifswald",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "StrasBurG",
+    "landkreis_id": 259,
+    "id": 557
+  },
+  {
+    "kennzeichen": "SBK",
+    "stadt": "Salzlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "SchöneBecK",
+    "landkreis_id": 587,
+    "id": 558
+  },
+  {
+    "kennzeichen": "SC",
+    "stadt": "Stadt Schwabach",
+    "bundesland": "Bayern",
+    "ursprung": "SChwabach",
+    "landkreis_id": 559,
+    "id": 559
+  },
+  {
+    "kennzeichen": "SCZ",
+    "stadt": "Saale-Orla-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "SChleiZ",
+    "landkreis_id": 598,
+    "id": 560
+  },
+  {
+    "kennzeichen": "SDH",
+    "stadt": "Kyffhäuserkreis",
+    "bundesland": "Thüringen",
+    "ursprung": "SonDersHausen",
+    "landkreis_id": 333,
+    "id": 561
+  },
+  {
+    "kennzeichen": "SDL",
+    "stadt": "Landkreis Stendal",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "StenDaL",
+    "landkreis_id": 562,
+    "id": 562
+  },
+  {
+    "kennzeichen": "SDT",
+    "stadt": "Landkreis Uckermark",
+    "bundesland": "Brandenburg",
+    "ursprung": "SchweDT",
+    "landkreis_id": 644,
+    "id": 563
+  },
+  {
+    "kennzeichen": "SE",
+    "stadt": "Kreis Segeberg",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "SEgeberg",
+    "landkreis_id": 564,
+    "id": 564
+  },
+  {
+    "kennzeichen": "SEB",
+    "stadt": "Landkreis Sächsische Schweiz-Osterzgebirge",
+    "bundesland": "Sachsen",
+    "ursprung": "SEBnitz",
+    "landkreis_id": 501,
+    "id": 565
+  },
+  {
+    "kennzeichen": "SEE",
+    "stadt": "Landkreis Märkisch-Oderland",
+    "bundesland": "Brandenburg",
+    "ursprung": "SEElow",
+    "landkreis_id": 402,
+    "id": 566
+  },
+  {
+    "kennzeichen": "SEF",
+    "stadt": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+    "bundesland": "Bayern",
+    "ursprung": "SchEinFeld",
+    "landkreis_id": 433,
+    "id": 567
+  },
+  {
+    "kennzeichen": "SEL",
+    "stadt": "Landkreis Wunsiedel im Fichtelgebirge",
+    "bundesland": "Bayern",
+    "ursprung": "SELb",
+    "landkreis_id": 711,
+    "id": 568
+  },
+  {
+    "kennzeichen": "SFB",
+    "stadt": "Landkreis Oberspreewald-Lausitz",
+    "bundesland": "Brandenburg",
+    "ursprung": "SenFtenBerg",
+    "landkreis_id": 484,
+    "id": 569
+  },
+  {
+    "kennzeichen": "SFT",
+    "stadt": "Salzlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "StaßFurT",
+    "landkreis_id": 587,
+    "id": 570
+  },
+  {
+    "kennzeichen": "SG",
+    "stadt": "Stadt Solingen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "SolinGen",
+    "landkreis_id": 571,
+    "id": 571
+  },
+  {
+    "kennzeichen": "SGH",
+    "stadt": "Landkreis Mansfeld-Südharz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "SanGerHausen",
+    "landkreis_id": 409,
+    "id": 572
+  },
+  {
+    "kennzeichen": "SH",
+    "stadt": "Schleswig-Holstein, Landesregierung, Landtag und Polizei",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "Schleswig-Holstein",
+    "landkreis_id": 0,
+    "id": 573
+  },
+  {
+    "kennzeichen": "SHA",
+    "stadt": "Landkreis Schwäbisch Hall",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "Schwäbisch HAll",
+    "landkreis_id": 574,
+    "id": 574
+  },
+  {
+    "kennzeichen": "SHG",
+    "stadt": "Landkreis Schaumburg",
+    "bundesland": "Niedersachsen",
+    "ursprung": "StadtHaGen",
+    "landkreis_id": 575,
+    "id": 575
+  },
+  {
+    "kennzeichen": "SHK",
+    "stadt": "Saale-Holzland-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "Saale-Holzland-Kreis",
+    "landkreis_id": 576,
+    "id": 576
+  },
+  {
+    "kennzeichen": "SHL",
+    "stadt": "Stadt Suhl",
+    "bundesland": "Thüringen",
+    "ursprung": "SuHL",
+    "landkreis_id": 577,
+    "id": 577
+  },
+  {
+    "kennzeichen": "SI",
+    "stadt": "Kreis Siegen-Wittgenstein",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "SIegen",
+    "landkreis_id": 578,
+    "id": 578
+  },
+  {
+    "kennzeichen": "SIG",
+    "stadt": "Landkreis Sigmaringen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "SIGmaringen",
+    "landkreis_id": 579,
+    "id": 579
+  },
+  {
+    "kennzeichen": "SIH",
+    "stadt": "fiktiver Ort",
+    "bundesland": "Filmproduktion",
+    "ursprung": "aus dem Film Hanne",
+    "landkreis_id": 0,
+    "id": 580
+  },
+  {
+    "kennzeichen": "SIM",
+    "stadt": "Rhein-Hunsrück-Kreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "SIMmern",
+    "landkreis_id": 581,
+    "id": 581
+  },
+  {
+    "kennzeichen": "SK",
+    "stadt": "Saalekreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "SaaleKreis",
+    "landkreis_id": 582,
+    "id": 582
+  },
+  {
+    "kennzeichen": "SL",
+    "stadt": "Kreis Schleswig-Flensburg",
+    "bundesland": "Schleswig-Holstein",
+    "ursprung": "SchLeswig",
+    "landkreis_id": 583,
+    "id": 583
+  },
+  {
+    "kennzeichen": "SLE",
+    "stadt": "Kreis Düren, Kreis Euskirchen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "SchLEiden",
+    "landkreis_id": 163,
+    "id": 584
+  },
+  {
+    "kennzeichen": "SLF",
+    "stadt": "Landkreis Saalfeld-Rudolstadt",
+    "bundesland": "Thüringen",
+    "ursprung": "SaaLFeld",
+    "landkreis_id": 585,
+    "id": 585
+  },
+  {
+    "kennzeichen": "SLG",
+    "stadt": "Landkreis Saulgau",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "SauLGau",
+    "landkreis_id": 579,
+    "id": 586
+  },
+  {
+    "kennzeichen": "SLK",
+    "stadt": "Salzlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "SalzLandKreis",
+    "landkreis_id": 587,
+    "id": 587
+  },
+  {
+    "kennzeichen": "SLN",
+    "stadt": "Landkreis Altenburger Land",
+    "bundesland": "Thüringen",
+    "ursprung": "SchmölLN",
+    "landkreis_id": 4,
+    "id": 588
+  },
+  {
+    "kennzeichen": "SLS",
+    "stadt": "Landkreis Saarlouis",
+    "bundesland": "Saarland",
+    "ursprung": "SaarLouiS",
+    "landkreis_id": 589,
+    "id": 589
+  },
+  {
+    "kennzeichen": "SLÜ",
+    "stadt": "Main-Kinzig-Kreis ohne die Stadt Hanau",
+    "bundesland": "Hessen",
+    "ursprung": "SchLÜchtern",
+    "landkreis_id": 284,
+    "id": 590
+  },
+  {
+    "kennzeichen": "SLZ",
+    "stadt": "Wartburgkreis",
+    "bundesland": "Thüringen",
+    "ursprung": "SaLZungen",
+    "landkreis_id": 664,
+    "id": 591
+  },
+  {
+    "kennzeichen": "SM",
+    "stadt": "Landkreis Schmalkalden-Meiningen",
+    "bundesland": "Thüringen",
+    "ursprung": "SchMalkalden",
+    "landkreis_id": 592,
+    "id": 592
+  },
+  {
+    "kennzeichen": "SMÜ",
+    "stadt": "Landkreis Augsburg",
+    "bundesland": "Bayern",
+    "ursprung": "SchwabMÜnchen",
+    "landkreis_id": 1,
+    "id": 593
+  },
+  {
+    "kennzeichen": "SN",
+    "stadt": "Stadt Schwerin",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "SchweriN",
+    "landkreis_id": 594,
+    "id": 594
+  },
+  {
+    "kennzeichen": "SO",
+    "stadt": "Kreis Soest",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "SOest",
+    "landkreis_id": 595,
+    "id": 595
+  },
+  {
+    "kennzeichen": "SOB",
+    "stadt": "Landkreis Neuburg-Schrobenhausen",
+    "bundesland": "Bayern",
+    "ursprung": "SchrOBenhausen",
+    "landkreis_id": 430,
+    "id": 596
+  },
+  {
+    "kennzeichen": "SOG",
+    "stadt": "Landkreis Weilheim-Schongau",
+    "bundesland": "Bayern",
+    "ursprung": "SchOnGau",
+    "landkreis_id": 689,
+    "id": 597
+  },
+  {
+    "kennzeichen": "SOK",
+    "stadt": "Saale-Orla-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "Saale-Orla-Kreis",
+    "landkreis_id": 598,
+    "id": 598
+  },
+  {
+    "kennzeichen": "SÖM",
+    "stadt": "Landkreis Sömmerda",
+    "bundesland": "Thüringen",
+    "ursprung": "SÖMmerda",
+    "landkreis_id": 599,
+    "id": 599
+  },
+  {
+    "kennzeichen": "SON",
+    "stadt": "Landkreis Sonneberg",
+    "bundesland": "Thüringen",
+    "ursprung": "SONneberg",
+    "landkreis_id": 600,
+    "id": 600
+  },
+  {
+    "kennzeichen": "SP",
+    "stadt": "Stadt Speyer",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "SPeyer",
+    "landkreis_id": 601,
+    "id": 601
+  },
+  {
+    "kennzeichen": "SPB",
+    "stadt": "Landkreis Spree-Neiße",
+    "bundesland": "Brandenburg",
+    "ursprung": "SPremBerg",
+    "landkreis_id": 603,
+    "id": 602
+  },
+  {
+    "kennzeichen": "SPN",
+    "stadt": "Landkreis Spree-Neiße",
+    "bundesland": "Brandenburg",
+    "ursprung": "SPree, Neiße",
+    "landkreis_id": 603,
+    "id": 603
+  },
+  {
+    "kennzeichen": "SR",
+    "stadt": "Stadt Straubing (A–Z 1–9999), Landkreis Straubing-Bogen (AA–ZZ 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "StRaubing",
+    "landkreis_id": 604,
+    "id": 604
+  },
+  {
+    "kennzeichen": "SRB",
+    "stadt": "Landkreis Märkisch-Oderland",
+    "bundesland": "Brandenburg",
+    "ursprung": "StRausBerg",
+    "landkreis_id": 402,
+    "id": 605
+  },
+  {
+    "kennzeichen": "SRO",
+    "stadt": "Saale-Holzland-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "StadtROda",
+    "landkreis_id": 576,
+    "id": 606
+  },
+  {
+    "kennzeichen": "ST",
+    "stadt": "Kreis Steinfurt",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "STeinfurt",
+    "landkreis_id": 607,
+    "id": 607
+  },
+  {
+    "kennzeichen": "STA",
+    "stadt": "Landkreis Starnberg",
+    "bundesland": "Bayern",
+    "ursprung": "STArnberg",
+    "landkreis_id": 608,
+    "id": 608
+  },
+  {
+    "kennzeichen": "STB",
+    "stadt": "Landkreis Ludwigslust-Parchim",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "STernBerg",
+    "landkreis_id": 369,
+    "id": 609
+  },
+  {
+    "kennzeichen": "STD",
+    "stadt": "Landkreis Stade",
+    "bundesland": "Niedersachsen",
+    "ursprung": "STaDe",
+    "landkreis_id": 610,
+    "id": 610
+  },
+  {
+    "kennzeichen": "STE",
+    "stadt": "Landkreis Lichtenfels",
+    "bundesland": "Bayern",
+    "ursprung": "STaffelstEin",
+    "landkreis_id": 353,
+    "id": 611
+  },
+  {
+    "kennzeichen": "STL",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "STolLberg",
+    "landkreis_id": 159,
+    "id": 612
+  },
+  {
+    "kennzeichen": "STO",
+    "stadt": "Landkreis Stockach",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "STOckach",
+    "landkreis_id": 319,
+    "id": 613
+  },
+  {
+    "kennzeichen": "SU",
+    "stadt": "Rhein-Sieg-Kreis",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "SiegbUrg",
+    "landkreis_id": 614,
+    "id": 614
+  },
+  {
+    "kennzeichen": "SUL",
+    "stadt": "Landkreis Amberg-Sulzbach",
+    "bundesland": "Bayern",
+    "ursprung": "SULzbach",
+    "landkreis_id": 24,
+    "id": 615
+  },
+  {
+    "kennzeichen": "SÜW",
+    "stadt": "Landkreis Südliche Weinstraße",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "SÜdliche Weinstraße",
+    "landkreis_id": 616,
+    "id": 616
+  },
+  {
+    "kennzeichen": "SW",
+    "stadt": "Stadt Schweinfurt, Landkreis Schweinfurt (AA–ZZ 100–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "SchWeinfurt",
+    "landkreis_id": 617,
+    "id": 617
+  },
+  {
+    "kennzeichen": "SWA",
+    "stadt": "Rheingau-Taunus-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "SchWAlbach",
+    "landkreis_id": 544,
+    "id": 618
+  },
+  {
+    "kennzeichen": "SY",
+    "stadt": "Landkreis Diepholz",
+    "bundesland": "Niedersachsen",
+    "ursprung": "SYke",
+    "landkreis_id": 116,
+    "id": 619
+  },
+  {
+    "kennzeichen": "SZ",
+    "stadt": "Stadt Salzgitter",
+    "bundesland": "Niedersachsen",
+    "ursprung": "SalZgitter",
+    "landkreis_id": 620,
+    "id": 620
+  },
+  {
+    "kennzeichen": "SZB",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "SchwarZenBerg",
+    "landkreis_id": 159,
+    "id": 621
+  },
+  {
+    "kennzeichen": "TBB",
+    "stadt": "Main-Tauber-Kreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "TauBerBischofsheim",
+    "landkreis_id": 622,
+    "id": 622
+  },
+  {
+    "kennzeichen": "TDO",
+    "stadt": "Landkreis Nordsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "Torgau, Delitzsch, Oschatz",
+    "landkreis_id": 623,
+    "id": 623
+  },
+  {
+    "kennzeichen": "TE",
+    "stadt": "Kreis Steinfurt",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "TEcklenburg",
+    "landkreis_id": 607,
+    "id": 624
+  },
+  {
+    "kennzeichen": "TET",
+    "stadt": "Landkreis Rostock",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "TETerow",
+    "landkreis_id": 363,
+    "id": 625
+  },
+  {
+    "kennzeichen": "TF",
+    "stadt": "Landkreis Teltow-Fläming",
+    "bundesland": "Brandenburg",
+    "ursprung": "Teltow, Fläming",
+    "landkreis_id": 626,
+    "id": 626
+  },
+  {
+    "kennzeichen": "TG",
+    "stadt": "Landkreis Nordsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "TorGau",
+    "landkreis_id": 623,
+    "id": 627
+  },
+  {
+    "kennzeichen": "THL",
+    "stadt": "Thüringen, Landesregierung und Landtag",
+    "bundesland": "Thüringen",
+    "ursprung": "THüringer Landtag",
+    "landkreis_id": 0,
+    "id": 628
+  },
+  {
+    "kennzeichen": "THW",
+    "stadt": "Bundesanstalt Technisches Hilfswerk",
+    "bundesland": "bundesweit",
+    "ursprung": "Technisches HilfsWerk",
+    "landkreis_id": 0,
+    "id": 629
+  },
+  {
+    "kennzeichen": "TIR",
+    "stadt": "Landkreis Tirschenreuth",
+    "bundesland": "Bayern",
+    "ursprung": "TIRschenreuth",
+    "landkreis_id": 630,
+    "id": 630
+  },
+  {
+    "kennzeichen": "TO",
+    "stadt": "Landkreis Nordsachsen",
+    "bundesland": "Sachsen",
+    "ursprung": "Torgau, Oschatz",
+    "landkreis_id": 623,
+    "id": 631
+  },
+  {
+    "kennzeichen": "TÖL",
+    "stadt": "Landkreis Bad Tölz-Wolfratshausen",
+    "bundesland": "Bayern",
+    "ursprung": "TÖLz",
+    "landkreis_id": 632,
+    "id": 632
+  },
+  {
+    "kennzeichen": "TP",
+    "stadt": "Landkreis Uckermark",
+    "bundesland": "Brandenburg",
+    "ursprung": "TemPlin",
+    "landkreis_id": 644,
+    "id": 633
+  },
+  {
+    "kennzeichen": "TR",
+    "stadt": "Landkreis Trier-Saarburg und Stadt Trier",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "TRier",
+    "landkreis_id": 634,
+    "id": 634
+  },
+  {
+    "kennzeichen": "TS",
+    "stadt": "Landkreis Traunstein",
+    "bundesland": "Bayern",
+    "ursprung": "TraunStein",
+    "landkreis_id": 635,
+    "id": 635
+  },
+  {
+    "kennzeichen": "TT",
+    "stadt": "Bodenseekreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "TeTtnang",
+    "landkreis_id": 178,
+    "id": 636
+  },
+  {
+    "kennzeichen": "TÜ",
+    "stadt": "Landkreis Tübingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "TÜbingen",
+    "landkreis_id": 637,
+    "id": 637
+  },
+  {
+    "kennzeichen": "TUT",
+    "stadt": "Landkreis Tuttlingen",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "TUTtlingen",
+    "landkreis_id": 638,
+    "id": 638
+  },
+  {
+    "kennzeichen": "UE",
+    "stadt": "Landkreis Uelzen",
+    "bundesland": "Niedersachsen",
+    "ursprung": "UElzen",
+    "landkreis_id": 639,
+    "id": 639
+  },
+  {
+    "kennzeichen": "UEM",
+    "stadt": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "UEckerMünde",
+    "landkreis_id": 259,
+    "id": 640
+  },
+  {
+    "kennzeichen": "UFF",
+    "stadt": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+    "bundesland": "Bayern",
+    "ursprung": "UFFenheim",
+    "landkreis_id": 433,
+    "id": 641
+  },
+  {
+    "kennzeichen": "UH",
+    "stadt": "Unstrut-Hainich-Kreis",
+    "bundesland": "Thüringen",
+    "ursprung": "Unstrut, Hainich",
+    "landkreis_id": 642,
+    "id": 642
+  },
+  {
+    "kennzeichen": "UL",
+    "stadt": "Stadt Ulm, Alb-Donau-Kreis (AA–MZ 100–999 und NA–ZZ 100–9999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "ULm",
+    "landkreis_id": 643,
+    "id": 643
+  },
+  {
+    "kennzeichen": "UM",
+    "stadt": "Landkreis Uckermark",
+    "bundesland": "Brandenburg",
+    "ursprung": "UckerMark",
+    "landkreis_id": 644,
+    "id": 644
+  },
+  {
+    "kennzeichen": "UN",
+    "stadt": "Kreis Unna",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "UNna",
+    "landkreis_id": 645,
+    "id": 645
+  },
+  {
+    "kennzeichen": "USI",
+    "stadt": "Hochtaunuskreis",
+    "bundesland": "Hessen",
+    "ursprung": "USIngen",
+    "landkreis_id": 257,
+    "id": 646
+  },
+  {
+    "kennzeichen": "ÜB",
+    "stadt": "Bodenseekreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "ÜBerlingen",
+    "landkreis_id": 178,
+    "id": 647
+  },
+  {
+    "kennzeichen": "ÜB",
+    "stadt": "Landkreis Ravensburg",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "ÜBerlingen",
+    "landkreis_id": 546,
+    "id": 1647
+  },
+  {
+    "kennzeichen": "V",
+    "stadt": "Vogtlandkreis",
+    "bundesland": "Sachsen",
+    "ursprung": "Vogtland",
+    "landkreis_id": 648,
+    "id": 648
+  },
+  {
+    "kennzeichen": "VAI",
+    "stadt": "Landkreis Ludwigsburg",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "VAIhingen",
+    "landkreis_id": 338,
+    "id": 649
+  },
+  {
+    "kennzeichen": "VB",
+    "stadt": "Vogelsbergkreis",
+    "bundesland": "Hessen",
+    "ursprung": "VogelsBerg",
+    "landkreis_id": 650,
+    "id": 650
+  },
+  {
+    "kennzeichen": "VEC",
+    "stadt": "Landkreis Vechta",
+    "bundesland": "Niedersachsen",
+    "ursprung": "VEChta",
+    "landkreis_id": 651,
+    "id": 651
+  },
+  {
+    "kennzeichen": "VER",
+    "stadt": "Landkreis Verden",
+    "bundesland": "Niedersachsen",
+    "ursprung": "VERden",
+    "landkreis_id": 652,
+    "id": 652
+  },
+  {
+    "kennzeichen": "VG",
+    "stadt": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Vorpommern, Greifswald",
+    "landkreis_id": 259,
+    "id": 653
+  },
+  {
+    "kennzeichen": "VIB",
+    "stadt": "Landkreis Landshut",
+    "bundesland": "Bayern",
+    "ursprung": "VIlsBiburg",
+    "landkreis_id": 335,
+    "id": 654
+  },
+  {
+    "kennzeichen": "VIB",
+    "stadt": "Landkreis Rottal-Inn (B, I, O und Q 100–999)",
+    "bundesland": "Bayern",
+    "ursprung": "VIlsBiburg",
+    "landkreis_id": 493,
+    "id": 1654
+  },
+  {
+    "kennzeichen": "VIE",
+    "stadt": "Kreis Viersen",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "VIErsen",
+    "landkreis_id": 655,
+    "id": 655
+  },
+  {
+    "kennzeichen": "VIT",
+    "stadt": "Landkreis Regen",
+    "bundesland": "Bayern",
+    "ursprung": "VIechTach",
+    "landkreis_id": 519,
+    "id": 656
+  },
+  {
+    "kennzeichen": "VK",
+    "stadt": "Stadt Völklingen (Mittelstadt im Regionalverband Saarbrücken)",
+    "bundesland": "Saarland",
+    "ursprung": "VölKlingen",
+    "landkreis_id": 556,
+    "id": 657
+  },
+  {
+    "kennzeichen": "VOH",
+    "stadt": "Landkreis Neustadt an der Waldnaab",
+    "bundesland": "Bayern",
+    "ursprung": "VOHenstrauß",
+    "landkreis_id": 439,
+    "id": 658
+  },
+  {
+    "kennzeichen": "VR",
+    "stadt": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "Vorpommern, Rügen",
+    "landkreis_id": 283,
+    "id": 659
+  },
+  {
+    "kennzeichen": "VS",
+    "stadt": "Schwarzwald-Baar-Kreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "Villingen-Schwenningen",
+    "landkreis_id": 660,
+    "id": 660
+  },
+  {
+    "kennzeichen": "W",
+    "stadt": "Stadt Wuppertal",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "Wuppertal",
+    "landkreis_id": 661,
+    "id": 661
+  },
+  {
+    "kennzeichen": "WA",
+    "stadt": "Landkreis Waldeck-Frankenberg",
+    "bundesland": "Hessen",
+    "ursprung": "WAldeck",
+    "landkreis_id": 303,
+    "id": 662
+  },
+  {
+    "kennzeichen": "WAF",
+    "stadt": "Kreis Warendorf",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "WArendorF",
+    "landkreis_id": 663,
+    "id": 663
+  },
+  {
+    "kennzeichen": "WAK",
+    "stadt": "Wartburgkreis",
+    "bundesland": "Thüringen",
+    "ursprung": "WArtburgKreis",
+    "landkreis_id": 664,
+    "id": 664
+  },
+  {
+    "kennzeichen": "WAN",
+    "stadt": "Stadt Herne",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "WANne",
+    "landkreis_id": 254,
+    "id": 665
+  },
+  {
+    "kennzeichen": "WAR",
+    "stadt": "Kreis Höxter",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "WARburg",
+    "landkreis_id": 288,
+    "id": 666
+  },
+  {
+    "kennzeichen": "WAT",
+    "stadt": "Stadt Bochum",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "WATtenscheid",
+    "landkreis_id": 64,
+    "id": 667
+  },
+  {
+    "kennzeichen": "WB",
+    "stadt": "Landkreis Wittenberg",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "WittenBerg",
+    "landkreis_id": 668,
+    "id": 668
+  },
+  {
+    "kennzeichen": "WBS",
+    "stadt": "Landkreis Eichsfeld",
+    "bundesland": "Thüringen",
+    "ursprung": "WorBiS",
+    "landkreis_id": 146,
+    "id": 669
+  },
+  {
+    "kennzeichen": "WDA",
+    "stadt": "Landkreis Zwickau",
+    "bundesland": "Sachsen",
+    "ursprung": "WerDAu",
+    "landkreis_id": 718,
+    "id": 670
+  },
+  {
+    "kennzeichen": "WE",
+    "stadt": "Stadt Weimar",
+    "bundesland": "Thüringen",
+    "ursprung": "WEimar",
+    "landkreis_id": 671,
+    "id": 671
+  },
+  {
+    "kennzeichen": "WEL",
+    "stadt": "Landkreis Limburg-Weilburg",
+    "bundesland": "Hessen",
+    "ursprung": "WEiLburg",
+    "landkreis_id": 356,
+    "id": 672
+  },
+  {
+    "kennzeichen": "WEN",
+    "stadt": "Stadt Weiden in der Oberpfalz",
+    "bundesland": "Bayern",
+    "ursprung": "WEideN",
+    "landkreis_id": 673,
+    "id": 673
+  },
+  {
+    "kennzeichen": "WER",
+    "stadt": "Landkreis Dillingen an der Donau",
+    "bundesland": "Bayern",
+    "ursprung": "WERtingen",
+    "landkreis_id": 123,
+    "id": 674
+  },
+  {
+    "kennzeichen": "WER",
+    "stadt": "Landkreis Augsburg (A–Z 7000–9999 und YA–YZ 1–999)",
+    "bundesland": "Bayern",
+    "ursprung": "WERtingen",
+    "landkreis_id": 1,
+    "id": 1674
+  },
+  {
+    "kennzeichen": "WES",
+    "stadt": "Kreis Wesel",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "WESel",
+    "landkreis_id": 675,
+    "id": 675
+  },
+  {
+    "kennzeichen": "WF",
+    "stadt": "Landkreis Wolfenbüttel",
+    "bundesland": "Niedersachsen",
+    "ursprung": "WolFenbüttel",
+    "landkreis_id": 676,
+    "id": 676
+  },
+  {
+    "kennzeichen": "WG",
+    "stadt": "Landkreis Ravensburg",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "WanGen",
+    "landkreis_id": 546,
+    "id": 677
+  },
+  {
+    "kennzeichen": "WHV",
+    "stadt": "Stadt Wilhelmshaven",
+    "bundesland": "Niedersachsen",
+    "ursprung": "WilhelmsHaVen",
+    "landkreis_id": 678,
+    "id": 678
+  },
+  {
+    "kennzeichen": "WI",
+    "stadt": "Stadt Wiesbaden",
+    "bundesland": "Hessen",
+    "ursprung": "WIesbaden",
+    "landkreis_id": 679,
+    "id": 679
+  },
+  {
+    "kennzeichen": "WIL",
+    "stadt": "Landkreis Bernkastel-Wittlich",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "WIttLich",
+    "landkreis_id": 680,
+    "id": 680
+  },
+  {
+    "kennzeichen": "WIN",
+    "stadt": "Winden (fiktiver Ort)",
+    "bundesland": "Filmproduktion",
+    "ursprung": "aus der Serie Dark",
+    "landkreis_id": 0,
+    "id": 681
+  },
+  {
+    "kennzeichen": "WIS",
+    "stadt": "Landkreis Nordwestmecklenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "WISmar",
+    "landkreis_id": 287,
+    "id": 682
+  },
+  {
+    "kennzeichen": "WIT",
+    "stadt": "Ennepe-Ruhr-Kreis",
+    "bundesland": "Nordrhein-Westfalen",
+    "ursprung": "WITten",
+    "landkreis_id": 154,
+    "id": 683
+  },
+  {
+    "kennzeichen": "WIV",
+    "stadt": "fiktiver Ort",
+    "bundesland": "Filmproduktion",
+    "ursprung": "aus dem Film Hanne",
+    "landkreis_id": 0,
+    "id": 684
+  },
+  {
+    "kennzeichen": "WIZ",
+    "stadt": "Werra-Meißner-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "WItZenhausen",
+    "landkreis_id": 162,
+    "id": 685
+  },
+  {
+    "kennzeichen": "WK",
+    "stadt": "Landkreis Ostprignitz-Ruppin",
+    "bundesland": "Brandenburg",
+    "ursprung": "WittstocK",
+    "landkreis_id": 482,
+    "id": 686
+  },
+  {
+    "kennzeichen": "WL",
+    "stadt": "Landkreis Harburg",
+    "bundesland": "Niedersachsen",
+    "ursprung": "Winsen (Luhe)",
+    "landkreis_id": 687,
+    "id": 687
+  },
+  {
+    "kennzeichen": "WLG",
+    "stadt": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "WoLGast",
+    "landkreis_id": 259,
+    "id": 688
+  },
+  {
+    "kennzeichen": "WM",
+    "stadt": "Landkreis Weilheim-Schongau",
+    "bundesland": "Bayern",
+    "ursprung": "WeilheiM",
+    "landkreis_id": 689,
+    "id": 689
+  },
+  {
+    "kennzeichen": "WMS",
+    "stadt": "Landkreis Börde",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "WolMirStedt",
+    "landkreis_id": 65,
+    "id": 690
+  },
+  {
+    "kennzeichen": "WN",
+    "stadt": "Rems-Murr-Kreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "WaiblingeN",
+    "landkreis_id": 691,
+    "id": 691
+  },
+  {
+    "kennzeichen": "WND",
+    "stadt": "Landkreis St. Wendel",
+    "bundesland": "Saarland",
+    "ursprung": "WeNDel",
+    "landkreis_id": 692,
+    "id": 692
+  },
+  {
+    "kennzeichen": "WO",
+    "stadt": "Stadt Worms",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "WOrms",
+    "landkreis_id": 693,
+    "id": 693
+  },
+  {
+    "kennzeichen": "WOB",
+    "stadt": "Stadt Wolfsburg",
+    "bundesland": "Niedersachsen",
+    "ursprung": "WOlfsBurg",
+    "landkreis_id": 694,
+    "id": 694
+  },
+  {
+    "kennzeichen": "WOH",
+    "stadt": "Landkreis Kassel",
+    "bundesland": "Hessen",
+    "ursprung": "WOlfHagen",
+    "landkreis_id": 326,
+    "id": 695
+  },
+  {
+    "kennzeichen": "WOL",
+    "stadt": "Ortenaukreis",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "WOLfach",
+    "landkreis_id": 473,
+    "id": 696
+  },
+  {
+    "kennzeichen": "WOL",
+    "stadt": "Landkreis Freudenstadt (A bis E 9000–9999)",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "WOLfach",
+    "landkreis_id": 169,
+    "id": 1696
+  },
+  {
+    "kennzeichen": "WOR",
+    "stadt": "Landkreis Starnberg (B und G 10–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "WOlfRatshausen",
+    "landkreis_id": 608,
+    "id": 697
+  },
+  {
+    "kennzeichen": "WOR",
+    "stadt": "Landkreis Bad Tölz-Wolfratshausen",
+    "bundesland": "Bayern",
+    "ursprung": "WOlfRatshausen",
+    "landkreis_id": 632,
+    "id": 1697
+  },
+  {
+    "kennzeichen": "WOR",
+    "stadt": "Landkreis München (F und O 10–9999)",
+    "bundesland": "Bayern",
+    "ursprung": "WOlfRatshausen",
+    "landkreis_id": 371,
+    "id": 2697
+  },
+  {
+    "kennzeichen": "WOS",
+    "stadt": "Landkreis Freyung-Grafenau",
+    "bundesland": "Bayern",
+    "ursprung": "WOlfStein",
+    "landkreis_id": 182,
+    "id": 698
+  },
+  {
+    "kennzeichen": "WR",
+    "stadt": "Landkreis Harz",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "WernigeRode",
+    "landkreis_id": 290,
+    "id": 699
+  },
+  {
+    "kennzeichen": "WRN",
+    "stadt": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "ursprung": "WaReN",
+    "landkreis_id": 429,
+    "id": 700
+  },
+  {
+    "kennzeichen": "WS",
+    "stadt": "Landkreis Rosenheim",
+    "bundesland": "Bayern",
+    "ursprung": "WasSerburg",
+    "landkreis_id": 530,
+    "id": 701
+  },
+  {
+    "kennzeichen": "WSF",
+    "stadt": "Burgenlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "WeisSenFels",
+    "landkreis_id": 60,
+    "id": 702
+  },
+  {
+    "kennzeichen": "WST",
+    "stadt": "Landkreis Ammerland",
+    "bundesland": "Niedersachsen",
+    "ursprung": "WesterSTede",
+    "landkreis_id": 703,
+    "id": 703
+  },
+  {
+    "kennzeichen": "WSW",
+    "stadt": "Landkreis Görlitz",
+    "bundesland": "Sachsen",
+    "ursprung": "WeisSWasser",
+    "landkreis_id": 219,
+    "id": 704
+  },
+  {
+    "kennzeichen": "WT",
+    "stadt": "Landkreis Waldshut",
+    "bundesland": "Baden-Württemberg",
+    "ursprung": "WaldshuT",
+    "landkreis_id": 705,
+    "id": 705
+  },
+  {
+    "kennzeichen": "WTL",
+    "stadt": "Landkreis Osnabrück",
+    "bundesland": "Niedersachsen",
+    "ursprung": "WitTLage",
+    "landkreis_id": 483,
+    "id": 706
+  },
+  {
+    "kennzeichen": "WTM",
+    "stadt": "Landkreis Wittmund",
+    "bundesland": "Niedersachsen",
+    "ursprung": "WitTMund",
+    "landkreis_id": 707,
+    "id": 707
+  },
+  {
+    "kennzeichen": "WÜ",
+    "stadt": "Landkreis Würzburg, Stadt Würzburg (AA–NZ 100–9999 und OA–ZZ 100–999)",
+    "bundesland": "Bayern",
+    "ursprung": "WÜrzburg",
+    "landkreis_id": 708,
+    "id": 708
+  },
+  {
+    "kennzeichen": "WUG",
+    "stadt": "Landkreis Weißenburg-Gunzenhausen",
+    "bundesland": "Bayern",
+    "ursprung": "WeißenbUrG",
+    "landkreis_id": 709,
+    "id": 709
+  },
+  {
+    "kennzeichen": "WÜM",
+    "stadt": "Landkreis Cham",
+    "bundesland": "Bayern",
+    "ursprung": "WaldMÜnchen (mit einem Buchstabendreher)",
+    "landkreis_id": 96,
+    "id": 710
+  },
+  {
+    "kennzeichen": "WUN",
+    "stadt": "Landkreis Wunsiedel im Fichtelgebirge",
+    "bundesland": "Bayern",
+    "ursprung": "WUNsiedel",
+    "landkreis_id": 711,
+    "id": 711
+  },
+  {
+    "kennzeichen": "WUR",
+    "stadt": "Landkreis Leipzig",
+    "bundesland": "Sachsen",
+    "ursprung": "WURzen",
+    "landkreis_id": 334,
+    "id": 712
+  },
+  {
+    "kennzeichen": "WW",
+    "stadt": "Westerwaldkreis",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "WesterWald",
+    "landkreis_id": 713,
+    "id": 713
+  },
+  {
+    "kennzeichen": "WZ",
+    "stadt": "Stadt Wetzlar (Sonderstatusstadt im Lahn-Dill-Kreis)",
+    "bundesland": "Hessen",
+    "ursprung": "WetZlar",
+    "landkreis_id": 343,
+    "id": 714
+  },
+  {
+    "kennzeichen": "WZL",
+    "stadt": "Landkreis Börde",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "WanZLeben",
+    "landkreis_id": 65,
+    "id": 715
+  },
+  {
+    "kennzeichen": "X",
+    "stadt": "Internationale Hauptquartiere (NATO)",
+    "bundesland": "bundesweit",
+    "ursprung": "willkürlich gewählt",
+    "landkreis_id": 0,
+    "id": 716
+  },
+  {
+    "kennzeichen": "Y",
+    "stadt": "Bundeswehr",
+    "bundesland": "bundesweit",
+    "ursprung": "willkürlich gewählt",
+    "landkreis_id": 0,
+    "id": 717
+  },
+  {
+    "kennzeichen": "Z",
+    "stadt": "Landkreis Zwickau",
+    "bundesland": "Sachsen",
+    "ursprung": "Zwickau",
+    "landkreis_id": 718,
+    "id": 718
+  },
+  {
+    "kennzeichen": "ZE",
+    "stadt": "Landkreis Anhalt-Bitterfeld",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "ZErbst",
+    "landkreis_id": 5,
+    "id": 719
+  },
+  {
+    "kennzeichen": "ZEL",
+    "stadt": "Landkreis Cochem-Zell",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "ZELl",
+    "landkreis_id": 100,
+    "id": 720
+  },
+  {
+    "kennzeichen": "ZI",
+    "stadt": "Landkreis Görlitz",
+    "bundesland": "Sachsen",
+    "ursprung": "ZIttau",
+    "landkreis_id": 219,
+    "id": 721
+  },
+  {
+    "kennzeichen": "ZIG",
+    "stadt": "Schwalm-Eder-Kreis",
+    "bundesland": "Hessen",
+    "ursprung": "ZIeGenhain",
+    "landkreis_id": 279,
+    "id": 722
+  },
+  {
+    "kennzeichen": "ZP",
+    "stadt": "Erzgebirgskreis",
+    "bundesland": "Sachsen",
+    "ursprung": "ZschoPau",
+    "landkreis_id": 159,
+    "id": 723
+  },
+  {
+    "kennzeichen": "ZR",
+    "stadt": "Landkreis Greiz",
+    "bundesland": "Thüringen",
+    "ursprung": "ZeulenRoda",
+    "landkreis_id": 724,
+    "id": 724
+  },
+  {
+    "kennzeichen": "ZW",
+    "stadt": "Stadt Zweibrücken",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "ZWeibrücken",
+    "landkreis_id": 725,
+    "id": 725
+  },
+  {
+    "kennzeichen": "ZW",
+    "stadt": "Landkreis Südwestpfalz (AA–ZZ 1–99)",
+    "bundesland": "Rheinland-Pfalz",
+    "ursprung": "ZWeibrücken",
+    "landkreis_id": 508,
+    "id": 1725
+  },
+  {
+    "kennzeichen": "ZZ",
+    "stadt": "Burgenlandkreis",
+    "bundesland": "Sachsen-Anhalt",
+    "ursprung": "ZeitZ",
+    "landkreis_id": 60,
+    "id": 726
+  }
+]
