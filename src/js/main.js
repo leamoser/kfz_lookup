@@ -1,6 +1,7 @@
 const MAIN = document.querySelector('main');
 const SEARCH = document.querySelector('#search');
 const CLEAR = document.querySelector('#clear');
+const BADGE = document.querySelector('#badge');
 const TABLE = document.querySelector('#table');
 const LIST = document.querySelector('#list');
 const EXACT = document.querySelector('#exact');
@@ -19,6 +20,7 @@ const data = await loadData();
 
 let filtered = [];
 let ids = [];
+let timeout = false;
 
 const renderList = () => {
     TABLE.innerHTML = '';
@@ -55,27 +57,45 @@ const renderOverscroll = () => {
     MAIN.style.marginBottom = `${height}px`;
 }
 
+const clearSearch = () => {
+    filtered = [];
+    ids = [];
+    LIST.classList.add('hidden');
+    renderList();
+    renderOverscroll();
+    renderMap();
+}
+const findAll = (query) => {
+    filtered = data.filter((item) => {
+        return item.kennzeichen.startsWith(query) || item.kennzeichen === query;
+    })
+    const mapped = filtered.map((item) => item.landkreis_id)
+    ids = [...new Set(mapped)];
+    LIST.classList.remove('hidden');
+    renderList();
+    renderOverscroll();
+    renderMap();
+}
+const findExact = (query) => {
+    filtered = data.filter((item) => {
+        return item.kennzeichen === query;
+    })
+    const mapped = filtered.map((item) => item.landkreis_id)
+    ids = [...new Set(mapped)];
+    LIST.classList.remove('hidden');
+    renderList();
+    renderOverscroll();
+    renderMap();
+}
+
 SEARCH.addEventListener('input', () => {
     if (!data) return;
     const query = SEARCH.value.toUpperCase();
     SEARCH.value = SEARCH.value.toUpperCase();
     if (query) {
-        filtered = data.filter((item) => {
-            return item.kennzeichen.startsWith(query) || item.kennzeichen === query;
-        })
-        const mapped = filtered.map((item) => item.landkreis_id)
-        ids = [...new Set(mapped)];
-        LIST.classList.remove('hidden');
-        renderList();
-        renderOverscroll();
-        renderMap();
+        findAll(query);
     } else {
-        filtered = [];
-        ids = [];
-        LIST.classList.add('hidden');
-        renderList();
-        renderOverscroll();
-        renderMap();
+        clearSearch();
     }
 });
 EXACT.addEventListener('click', () => {
@@ -83,22 +103,9 @@ EXACT.addEventListener('click', () => {
     const query = SEARCH.value.toUpperCase();
     SEARCH.value = SEARCH.value.toUpperCase();
     if (query) {
-        filtered = data.filter((item) => {
-            return item.kennzeichen === query;
-        })
-        const mapped = filtered.map((item) => item.landkreis_id)
-        ids = [...new Set(mapped)];
-        LIST.classList.remove('hidden');
-        renderList();
-        renderOverscroll();
-        renderMap();
+        findExact(query);
     } else {
-        filtered = [];
-        ids = [];
-        LIST.classList.add('hidden');
-        renderList();
-        renderOverscroll();
-        renderMap();
+        clearSearch()
     }
 })
 CLEAR.addEventListener('click', () => {
@@ -110,4 +117,28 @@ CLEAR.addEventListener('click', () => {
     renderList();
     renderOverscroll();
     renderMap();
+})
+
+LANDKREISE.forEach((LANDKREIS) => {
+    LANDKREIS.addEventListener('click', () => {
+        const id = parseInt(LANDKREIS.dataset.name);
+        const landkreis = data.find(item => item.id === id);
+        if (!landkreis) return;
+        BADGE.classList.add('inactive')
+        SEARCH.value = landkreis.kennzeichen;
+        EXACT.dispatchEvent(new Event('click'));
+    })
+    LANDKREIS.addEventListener('mouseover', (e) => {
+        const id = parseInt(LANDKREIS.dataset.name);
+        const landkreis = data.find(item => item.id === id);
+        if (!landkreis) return;
+        if (timeout) clearTimeout(timeout);
+        BADGE.innerHTML = `<span>${landkreis.kennzeichen}</span>${landkreis.stadt}`
+        BADGE.style.left = `${e.clientX + 10}px`;
+        BADGE.style.top = `${e.clientY - 10}px`;
+        BADGE.classList.remove('inactive')
+        timeout = setTimeout(() => {
+            BADGE.classList.add('inactive')
+        }, 2500)
+    })
 })
