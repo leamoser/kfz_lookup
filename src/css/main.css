@@ -185,7 +185,7 @@ header {
 #item_map {
     display: flex;
     position: relative;
-    height: calc(100lvh - calc(3 * var(--ga-around) + var(--he-intro)));
+    height: calc(100dvh - calc(3 * var(--ga-around) + var(--he-intro)));
     svg {
         margin: 0 auto;
         .land {
@@ -265,7 +265,10 @@ aside {
     display: flex;
     justify-content: flex-end;
     background: var(--co-background-1-10);
+    backdrop-filter: blur(10px);
     border-bottom: 1px solid var(--co-background-1-10);
+    position: sticky;
+    top: 0;
     #btn_close_list {
         background: var(--co-background-2);
         color: var(--co-foreground);
@@ -360,6 +363,7 @@ aside {
     main {
         &.listed {
             width: 100%;
+            pointer-events: none;
         }
     }
     header {
@@ -384,8 +388,8 @@ aside {
     aside {
         z-index: 10;
         width: calc(100% - 50px);
-        height: calc(100dvh - calc(var(--ga-around) * 2));
-        top: var(--ga-around);
+        height: calc(100dvh - 10px);
+        top: 5px;
         border-top-left-radius: var(--br-list);
         border-bottom-left-radius: var(--br-list);
         box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
