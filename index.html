@@ -10,32 +10,32 @@
 </head>
 <body>
 <main>
-    <section id="intro">
-        <div id="headline">
-            <h1>
+    <header>
+        <div id="item_headline">
+            <h1 id="item_title">
                 <span>KFZ</span> Lookup
             </h1>
-            <button class="mobile_exclusive" id="show_list">
+            <button id="btn_toggle_list">
                 💡
-                <span id="count">0</span>
+                <span id="data_count">0</span>
             </button>
         </div>
-        <div id="searchbox">
-            <input type="text" name="search" id="search" aria-label="Kennzeichen eingeben" placeholder="Kennzeichen eingeben" autocomplete="off"/>
-            <div id="buttons">
-                <button class="button" id="exact">
+        <div id="item_searchbox">
+            <input type="text" name="search" id="input_search" aria-label="Kennzeichen eingeben" placeholder="Kennzeichen eingeben" autocomplete="off"/>
+            <div id="item_controls">
+                <button class="button" id="btn_search_exact">
                     <span class="desktop_exclusive">Exakt suchen</span>
                     <span class="mobile_exclusive">🔍</span>
                 </button>
-                <button class="button" id="clear">
+                <button class="button" id="btn_clear_search">
                     <span class="desktop_exclusive">Leeren</span>
                     <span class="mobile_exclusive">❌</span>
                 </button>
             </div>
         </div>
-    </section>
-    <div id="map">
-        <svg xmlns="http://www.w3.org/2000/svg" id="complete" viewBox="0 0 946.3 1253.2">
+    </header>
+    <section id="item_map">
+        <svg id="item_svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 946.3 1253.2">
             <g id="map">
                 <g id="landkreise">
                     <g id="th">
@@ -909,19 +909,19 @@
                 </g>
             </g>
         </svg>
-    </div>
-    <p id="badge" class="inactive"></p>
+    </section>
+    <span id="data_tooltip" class="inactive"></span>
 </main>
-<aside id="list">
-    <div id="header">
-        <button class="button" id="close">
+<aside>
+    <div id="item_tablecontrols">
+        <button class="button" id="btn_close_list">
             <span class="desktop_exclusive">Schliessen</span>
             <span class="mobile_exclusive">❌</span>
         </button>
     </div>
-    <table id="table">
+    <table id="data_table">
         <tr>
-            <td class="empty">Keine Ergebnisse gefunden</td>
+            <td id="item_empty">Keine Ergebnisse gefunden</td>
         </tr>
     </table>
 </aside>
