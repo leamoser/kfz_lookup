@@ -11,12 +11,16 @@
     --co-dark: #1A3636;
     --co-dark-100: #40534C;
     --co-dark-100-70: rgba(64, 83, 76, 0.7);
+    --co-dark-100-10: rgba(64, 83, 76, 0.1);
     --co-dark-200: #677D6A;
     --co-light: #D6BD98;
-    --co-light-30: rgba(214, 189, 152, 0.3);
     --co-light-50: rgba(214, 189, 152, 0.5);
+    --co-light-30: rgba(214, 189, 152, 0.3);
+    --co-stadt: #ffd000;
+    --co-land: #c1ac81;
     --co-white: #FFFFFF;
     --ga-around: 24px;
+    --ga-table: 6px;
     --br-list: 24px;
     --br-full: 9999px;
     --he-list: 30vh;
@@ -133,6 +137,8 @@ main {
     transition: opacity 0.2s ease-in-out;
     backdrop-filter: blur(10px);
     max-width: 40ch;
+    pointer-events: none;
+    user-select: none;
     &.inactive {
         opacity: 0;
     }
@@ -149,13 +155,32 @@ main {
     svg {
         max-height: calc(100vh - calc(calc(3 * var(--ga-around)) + var(--he-intro)));
         margin: 0 auto;
-        #landkreise path,
-        #landkreise polygon {
-            opacity: 0.3;
+        .land {
+            fill: var(--co-land);
+            stroke-width: 0.6px;
         }
-        #landkreise path.active,
-        #landkreise polygon.active {
-            opacity: 1;
+        .stadt {
+            fill: var(--co-stadt);
+            stroke-width: 0.6px;
+        }
+        .bundesland {
+            fill: none;
+            stroke-width: 3px;
+        }
+        .kreis {
+            opacity: 0.2;
+            stroke-miterlimit: 10;
+            stroke: var(--co-dark);
+            transition: opacity 0.2s ease-in-out;
+            &:hover {
+                opacity: 0.6;
+            }
+            &.active {
+                opacity: 1;
+            }
+            &.focused {
+                fill: red;
+            }
         }
     }
 }
@@ -177,18 +202,15 @@ main {
         width: 100%;
         border-collapse: collapse;
         tr {
-            &:not(:last-child) {
-                border-bottom: 1px solid var(--co-dark-200);
-                td {
-                    padding-bottom: 4px;
-                }
+            cursor: pointer;
+            &:hover {
+                background: var(--co-dark-100-10);
             }
-            &:not(:first-child) {
-                td {
-                    padding-top: 4px;
-                }
+            &:not(:last-child) {
+                border-bottom: 1px solid var(--co-dark-100-10);
             }
             td {
+                padding: var(--ga-table);
                 &:first-child {
                     font-weight: 700;
                 }

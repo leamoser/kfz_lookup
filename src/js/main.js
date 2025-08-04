@@ -6,7 +6,7 @@ const TABLE = document.querySelector('#table');
 const LIST = document.querySelector('#list');
 const EXACT = document.querySelector('#exact');
 const MAP = document.querySelector('#map>svg');
-const LANDKREISE = MAP.querySelectorAll('#landkreise path, #landkreise polygon');
+const LANDKREISE = MAP.querySelectorAll('.kreis');
 
 async function loadData() {
     try {
@@ -20,13 +20,17 @@ const data = await loadData();
 
 let filtered = [];
 let ids = [];
-let timeout = false;
 
 const renderList = () => {
     TABLE.innerHTML = '';
     if (!filtered || filtered.length === 0) return;
     filtered.forEach((item) => {
         const row = document.createElement('tr');
+        row.dataset.id = item.id;
+        row.addEventListener('click', () => {
+            SEARCH.value = item.kennzeichen;
+            EXACT.dispatchEvent(new Event('click'));
+        })
         const kennzeichen = document.createElement('td');
         kennzeichen.innerText = item.kennzeichen;
         row.appendChild(kennzeichen);
@@ -132,13 +136,12 @@ LANDKREISE.forEach((LANDKREIS) => {
         const id = parseInt(LANDKREIS.dataset.name);
         const landkreis = data.find(item => item.id === id);
         if (!landkreis) return;
-        if (timeout) clearTimeout(timeout);
         BADGE.innerHTML = `<span>${landkreis.kennzeichen}</span>${landkreis.stadt}`
         BADGE.style.left = `${e.clientX + 10}px`;
         BADGE.style.top = `${e.clientY - 10}px`;
         BADGE.classList.remove('inactive')
-        timeout = setTimeout(() => {
-            BADGE.classList.add('inactive')
-        }, 2500)
+    })
+    LANDKREIS.addEventListener('mouseleave', () => {
+        BADGE.classList.add('inactive')
     })
 })
