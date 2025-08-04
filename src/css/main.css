@@ -269,7 +269,7 @@ main {
         padding-bottom: 12px;
         height: var(--he-list);
         bottom: unset;
-        top: calc(100vh - var(--he-list));
+        top: calc(100dvh - var(--he-list));
         #table {
             tr {
                 display: grid;
