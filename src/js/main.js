@@ -16,6 +16,15 @@ const ITEMS_LANDKREISE = ITEM_SVG.querySelectorAll('.kreis');
 let mobile = window.matchMedia("(width <= 800px)");
 
 /*init*/
+let data = [];
+let filtered = [];
+let ids = [];
+const init = async () => {
+    data = await loadData();
+}
+await init();
+
+/*functions*/
 async function loadData() {
     try {
         const response = await fetch('./data/list.json');
@@ -24,12 +33,7 @@ async function loadData() {
         return false;
     }
 }
-const data = await loadData();
 
-let filtered = [];
-let ids = [];
-
-/*functions*/
 const renderList = () => {
     DATA_TABLE.innerHTML = '';
     if (!filtered || filtered.length === 0) {
