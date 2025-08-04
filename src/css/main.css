@@ -224,7 +224,7 @@ main {
         tr {
             cursor: pointer;
             display: grid;
-            grid-template-columns: 55px 1fr;
+            grid-template-columns: 6ch 1fr;
             td:nth-child(1) {
                 grid-column: 1 / 2;
                 padding-bottom: 0 !important;
