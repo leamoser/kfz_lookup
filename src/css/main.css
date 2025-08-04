@@ -267,6 +267,9 @@ main {
     #list {
         padding-top: 12px;
         padding-bottom: 12px;
+        height: var(--he-list);
+        bottom: unset;
+        top: calc(100vh - var(--he-list));
         #table {
             tr {
                 display: grid;
@@ -303,6 +306,9 @@ main {
                         content: 'Herleitung: ';
                         font-weight: 600;
                     }
+                }
+                &:hover {
+                    background: transparent;
                 }
             }
         }
