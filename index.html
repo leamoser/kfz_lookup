@@ -11,9 +11,15 @@
 <body>
 <main>
     <section id="intro">
-        <h1>
-            <span>KFZ</span> Lookup
-        </h1>
+        <div id="headline">
+            <h1>
+                <span>KFZ</span> Lookup
+            </h1>
+            <button class="mobile_exclusive" id="show_list">
+                💡
+                <span id="count">0</span>
+            </button>
+        </div>
         <div id="searchbox">
             <input type="text" name="search" id="search" aria-label="Kennzeichen eingeben" placeholder="Kennzeichen eingeben" autocomplete="off"/>
             <div id="buttons">
@@ -913,7 +919,11 @@
             <span class="mobile_exclusive">❌</span>
         </button>
     </div>
-    <table id="table"></table>
+    <table id="table">
+        <tr>
+            <td class="empty">Keine Ergebnisse gefunden</td>
+        </tr>
+    </table>
 </aside>
 <script src="/src/js/main.js" type="module"></script>
 </body>

@@ -1,4 +1,6 @@
 const MAIN = document.querySelector('main');
+const SHOW_LIST = document.querySelector('#show_list');
+const LIST_COUNT = document.querySelector('#count');
 const SEARCH = document.querySelector('#search');
 const CLEAR = document.querySelector('#clear');
 const CLOSE = document.querySelector('#close');
@@ -26,8 +28,9 @@ const renderList = () => {
     TABLE.innerHTML = '';
     if (!filtered || filtered.length === 0) {
         const row = document.createElement('tr');
-        row.innerHTML = '<td class="empty" colspan="4">Keine Ergebnisse gefunden</td>';
+        row.innerHTML = '<td class="empty">Keine Ergebnisse gefunden</td>';
         TABLE.appendChild(row);
+        LIST_COUNT.innerText = '0';
         return;
     };
     filtered.forEach((item) => {
@@ -51,6 +54,7 @@ const renderList = () => {
         row.appendChild(ursprung);
         TABLE.appendChild(row);
     })
+    LIST_COUNT.innerText = filtered.length;
 }
 const renderMap = () => {
     LANDKREISE.forEach((landkreis) => {
@@ -122,11 +126,19 @@ CLOSE.addEventListener('click', () => {
     SEARCH.value = '';
     clearSearch();
 })
+SHOW_LIST.addEventListener('click', () => {
+    // if (!filtered.length) return;
+    LIST.classList.add('visible');
+    MAIN.classList.add('listed');
+})
 window.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
         SEARCH.value = '';
         document.activeElement.blur();
         clearSearch();
+    }
+    if (e.key === 'k' && e.metaKey) {
+        SEARCH.focus();
     }
 })
 
