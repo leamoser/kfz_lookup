@@ -12,6 +12,9 @@ const INPUT_SEARCH = document.querySelector('#input_search');
 const ITEM_SVG = document.querySelector('#item_svg');
 const ITEMS_LANDKREISE = ITEM_SVG.querySelectorAll('.kreis');
 
+/*helpers*/
+let mobile = window.matchMedia("(width <= 800px)");
+
 /*init*/
 async function loadData() {
     try {
@@ -34,6 +37,7 @@ const renderList = () => {
         row.innerHTML = '<td id="item_empty">Keine Ergebnisse gefunden</td>';
         DATA_TABLE.appendChild(row);
         DATA_COUNT.innerText = '0';
+        DATA_COUNT.classList.remove('has_results');
         return;
     };
     filtered.forEach((item) => {
@@ -58,6 +62,7 @@ const renderList = () => {
         DATA_TABLE.appendChild(row);
     })
     DATA_COUNT.innerText = filtered.length;
+    DATA_COUNT.classList.add('has_results');
 }
 const renderMap = () => {
     ITEMS_LANDKREISE.forEach((landkreis) => {
@@ -84,8 +89,10 @@ const findAll = (query) => {
     })
     const mapped = filtered.map((item) => item.landkreis_id)
     ids = [...new Set(mapped)];
-    ASIDE.classList.add('visible');
-    MAIN.classList.add('listed');
+    if (!mobile.matches) {
+        ASIDE.classList.add('visible');
+        MAIN.classList.add('listed');
+    }
     renderList();
     renderMap();
 }
@@ -95,8 +102,10 @@ const findExact = (query) => {
     })
     const mapped = filtered.map((item) => item.landkreis_id)
     ids = [...new Set(mapped)];
-    ASIDE.classList.add('visible');
-    MAIN.classList.add('listed');
+    if (!mobile.matches) {
+        ASIDE.classList.add('visible');
+        MAIN.classList.add('listed');
+    }
     renderList();
     renderMap();
 }
