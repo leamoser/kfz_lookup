@@ -139,9 +139,9 @@ LANDKREISE.forEach((LANDKREIS) => {
     })
     LANDKREIS.addEventListener('mouseover', (e) => {
         const id = parseInt(LANDKREIS.dataset.name);
-        const landkreis = data.find(item => item.id === id);
-        if (!landkreis) return;
-        BADGE.innerHTML = `<span>${landkreis.kennzeichen}</span>${landkreis.stadt}`
+        const landkreise = data.filter(item => item.landkreis_id === id);
+        if (!landkreise.length) return;
+        BADGE.innerHTML = landkreise.map(landkreis => landkreis.kennzeichen).join(', ');
         BADGE.style.left = `${e.clientX + 10}px`;
         BADGE.style.top = `${e.clientY - 10}px`;
         BADGE.classList.remove('inactive')
