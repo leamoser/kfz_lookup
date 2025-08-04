@@ -17,11 +17,11 @@
         <div id="searchbox">
             <input type="text" name="search" id="search" aria-label="Kennzeichen eingeben" placeholder="Kennzeichen eingeben" autocomplete="off"/>
             <div id="buttons">
-                <button id="exact">
+                <button class="button" id="exact">
                     <span class="desktop_exclusive">Exakt suchen</span>
                     <span class="mobile_exclusive">🔍</span>
                 </button>
-                <button id="clear">
+                <button class="button" id="clear">
                     <span class="desktop_exclusive">Leeren</span>
                     <span class="mobile_exclusive">❌</span>
                 </button>
@@ -906,11 +906,15 @@
     </div>
     <p id="badge" class="inactive"></p>
 </main>
-
-<section class="hidden" id="list">
+<aside id="list">
+    <div id="header">
+        <button class="button" id="close">
+            <span class="desktop_exclusive">Schliessen</span>
+            <span class="mobile_exclusive">❌</span>
+        </button>
+    </div>
     <table id="table"></table>
-</section>
-
+</aside>
 <script src="/src/js/main.js" type="module"></script>
 </body>
 </html>

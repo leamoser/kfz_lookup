@@ -1,6 +1,7 @@
 const MAIN = document.querySelector('main');
 const SEARCH = document.querySelector('#search');
 const CLEAR = document.querySelector('#clear');
+const CLOSE = document.querySelector('#close');
 const BADGE = document.querySelector('#badge');
 const TABLE = document.querySelector('#table');
 const LIST = document.querySelector('#list');
@@ -61,17 +62,13 @@ const renderMap = () => {
         }
     })
 }
-const renderOverscroll = () => {
-    const height = LIST.clientHeight;
-    MAIN.style.marginBottom = `${height}px`;
-}
 
 const clearSearch = () => {
     filtered = [];
     ids = [];
-    LIST.classList.add('hidden');
+    LIST.classList.remove('visible');
+    MAIN.classList.remove('listed');
     renderList();
-    renderOverscroll();
     renderMap();
 }
 const findAll = (query) => {
@@ -80,9 +77,9 @@ const findAll = (query) => {
     })
     const mapped = filtered.map((item) => item.landkreis_id)
     ids = [...new Set(mapped)];
-    LIST.classList.remove('hidden');
+    LIST.classList.add('visible');
+    MAIN.classList.add('listed');
     renderList();
-    renderOverscroll();
     renderMap();
 }
 const findExact = (query) => {
@@ -91,9 +88,9 @@ const findExact = (query) => {
     })
     const mapped = filtered.map((item) => item.landkreis_id)
     ids = [...new Set(mapped)];
-    LIST.classList.remove('hidden');
+    LIST.classList.add('visible');
+    MAIN.classList.add('listed');
     renderList();
-    renderOverscroll();
     renderMap();
 }
 
@@ -119,13 +116,18 @@ EXACT.addEventListener('click', () => {
 })
 CLEAR.addEventListener('click', () => {
     SEARCH.value = '';
-    filtered = [];
-    ids = [];
-    LIST.classList.add('hidden');
-    SEARCH.focus();
-    renderList();
-    renderOverscroll();
-    renderMap();
+    clearSearch();
+})
+CLOSE.addEventListener('click', () => {
+    SEARCH.value = '';
+    clearSearch();
+})
+window.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        SEARCH.value = '';
+        document.activeElement.blur();
+        clearSearch();
+    }
 })
 
 LANDKREISE.forEach((LANDKREIS) => {
