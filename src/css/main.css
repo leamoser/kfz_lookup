@@ -117,10 +117,9 @@ main {
 }
 #map {
     display: flex;
-    align-items: center;
-    justify-content: center;
     svg {
         max-height: calc(100vh - calc(calc(3 * var(--ga-around)) + var(--he-intro)));
+        margin: 0 auto;
         #landkreise path,
         #landkreise polygon {
             opacity: 0.1;
