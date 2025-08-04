@@ -1,3 +1,5 @@
+const BTN_COLORMODE = document.querySelector('#btn_colormode');
+
 let colormode = 'light';
 
 const setColorMode = (mode, save = false) => {
@@ -14,6 +16,8 @@ const toggleColorMode = () => {
         setColorMode('light', true);
     }
 }
+
+BTN_COLORMODE.addEventListener('click', toggleColorMode);
 
 const init = () => {
     if (!window.matchMedia) return;

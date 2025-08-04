@@ -42,8 +42,6 @@ const renderList = () => {
         DATA_TABLE.appendChild(row);
         DATA_COUNT.innerText = '0';
         DATA_COUNT.classList.remove('has_results');
-        BTN_CLEAR_SEARCH.disabled = true;
-        BTN_SEARCH_EXACT.disabled = true;
         return;
     };
     filtered.forEach((item) => {
@@ -52,6 +50,17 @@ const renderList = () => {
         row.addEventListener('click', () => {
             INPUT_SEARCH.value = item.kennzeichen;
             BTN_SEARCH_EXACT.dispatchEvent(new Event('click'));
+        })
+        row.addEventListener('mouseenter', () => {
+            const landkreis_element = document.querySelector(`[data-name="${item.landkreis_id}"]`);
+            if (!landkreis_element) return;
+            landkreis_element.classList.add('focused');
+        })
+        row.addEventListener('mouseleave', () => {
+            const landkreis_element = document.querySelector(`[data-name="${item.landkreis_id}"]`);
+            if (!landkreis_element) return;
+            landkreis_element.classList.remove('focused');
+
         })
         const kennzeichen = document.createElement('td');
         kennzeichen.innerText = item.kennzeichen;
@@ -84,8 +93,6 @@ const renderList = () => {
     })
     DATA_COUNT.innerText = filtered.length;
     DATA_COUNT.classList.add('has_results');
-    BTN_CLEAR_SEARCH.disabled = false;
-    BTN_SEARCH_EXACT.disabled = false;
 }
 const renderMap = () => {
     ITEMS_LANDKREISE.forEach((landkreis) => {
