@@ -24,6 +24,11 @@ body {
     background: var(--co-dark);
 }
 
+/*----- utilities -----*/
+.hidden {
+    display: none !important;
+}
+
 /*----- base & desktop styles -----*/
 main {
     padding: var(--ga-around);
@@ -31,7 +36,6 @@ main {
     flex-direction: column;
     gap: var(--ga-around);
 }
-/*intro*/
 #intro {
     display: flex;
     flex-direction: column;
@@ -107,17 +111,23 @@ main {
         }
     }
 }
-/*map*/
 #map {
     display: flex;
     align-items: center;
     justify-content: center;
     svg {
         max-height: calc(100vh - calc(calc(3 * var(--ga-around)) + var(--he-intro)));
+        #landkreise path,
+        #landkreise polygon {
+            opacity: 0.1;
+        }
+        #landkreise path.active,
+        #landkreise polygon.active {
+            opacity: 1;
+        }
     }
 }
-/*list*/
-#list_wrapper {
+#list {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -131,7 +141,7 @@ main {
     color: var(--co-dark);
     width: 100%;
     box-shadow: rgba(0, 0, 0, 0.56) 0 22px 70px 4px;
-    #list {
+    #table {
         width: 100%;
         border-collapse: collapse;
         tr {
@@ -165,8 +175,8 @@ main {
         --he-list: 250px;
     }
     /*list*/
-    #list_wrapper {
-        #list {
+    #list {
+        #table {
             tr {
                 display: grid;
                 grid-template-columns: 55px 1fr;
@@ -203,22 +213,4 @@ main {
             }
         }
     }
-}
-
-
-.hidden {
-    display: none !important;
-}
-
-
-
-
-svg #landkreise path,
-svg #landkreise polygon {
-    opacity: 0.1;
-}
-
-svg #landkreise path.active,
-svg #landkreise polygon.active {
-    opacity: 1;
 }

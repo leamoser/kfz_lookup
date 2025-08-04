@@ -1,7 +1,7 @@
 const SEARCH = document.querySelector('#search');
 const CLEAR = document.querySelector('#clear');
+const TABLE = document.querySelector('#table');
 const LIST = document.querySelector('#list');
-const LIST_WRAPPER = document.querySelector('#list_wrapper');
 const EXACT = document.querySelector('#exact');
 const MAP = document.querySelector('#map>svg');
 const LANDKREISE = MAP.querySelectorAll('#landkreise path, #landkreise polygon');
@@ -20,7 +20,8 @@ let filtered = [];
 let ids = [];
 
 const renderList = () => {
-    LIST.innerHTML = '';
+    console.log('render list')
+    TABLE.innerHTML = '';
     filtered.forEach((item) => {
         const row = document.createElement('tr');
         const kennzeichen = document.createElement('td');
@@ -35,7 +36,7 @@ const renderList = () => {
         const ursprung = document.createElement('td');
         ursprung.innerText = item.ursprung;
         row.appendChild(ursprung);
-        LIST.appendChild(row);
+        TABLE.appendChild(row);
     })
 }
 const renderMap = () => {
@@ -59,13 +60,13 @@ SEARCH.addEventListener('input', () => {
         })
         const mapped = filtered.map((item) => item.landkreis_id)
         ids = [...new Set(mapped)];
-        LIST_WRAPPER.classList.remove('hidden');
+        LIST.classList.remove('hidden');
         renderList();
         renderMap();
     } else {
         filtered = [];
         ids = [];
-        LIST_WRAPPER.classList.add('hidden');
+        LIST.classList.add('hidden');
         renderList();
         renderMap();
     }
@@ -80,13 +81,13 @@ EXACT.addEventListener('click', () => {
         })
         const mapped = filtered.map((item) => item.landkreis_id)
         ids = [...new Set(mapped)];
-        LIST_WRAPPER.classList.remove('hidden');
+        LIST.classList.remove('hidden');
         renderList();
         renderMap();
     } else {
         filtered = [];
         ids = [];
-        LIST_WRAPPER.classList.add('hidden');
+        LIST.classList.add('hidden');
         renderList();
         renderMap();
     }
@@ -95,7 +96,7 @@ CLEAR.addEventListener('click', () => {
     SEARCH.value = '';
     filtered = [];
     ids = [];
-    LIST_WRAPPER.classList.add('hidden');
+    LIST.classList.add('hidden');
     SEARCH.focus();
     renderList();
     renderMap();
