@@ -59,6 +59,21 @@ const renderList = () => {
         const ursprung = document.createElement('td');
         ursprung.innerText = item.ursprung;
         row.appendChild(ursprung);
+        const landkreise = data.filter(landkreis => landkreis.landkreis_id === item.landkreis_id && landkreis.kennzeichen !== item.kennzeichen);
+        if (landkreise.length) {
+            const weitere = document.createElement('td');
+            landkreise.forEach((landkreis) => {
+                const button = document.createElement('button');
+                button.innerText = landkreis.kennzeichen;
+                button.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    INPUT_SEARCH.value = landkreis.kennzeichen;
+                    BTN_SEARCH_EXACT.dispatchEvent(new Event('click'));
+                })
+                weitere.appendChild(button);
+            })
+            row.appendChild(weitere);
+        }
         DATA_TABLE.appendChild(row);
     })
     DATA_COUNT.innerText = filtered.length;

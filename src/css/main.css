@@ -286,14 +286,9 @@ aside {
         grid-template-columns: 6ch 1fr;
         td:nth-child(1) {
             grid-column: 1 / 2;
-            padding-bottom: 0 !important;
-            padding-top: 8px;
         }
         td:nth-child(2) {
             grid-column: 2 / 3;
-            padding-left: 0 !important;
-            padding-bottom: 0 !important;
-            padding-top: 8px;
             &:before {
                 content: 'Kreis: ';
                 font-weight: 600;
@@ -301,8 +296,6 @@ aside {
         }
         td:nth-child(3) {
             grid-column: 2 / 3;
-            padding-left: 0 !important;
-            padding-bottom: 0 !important;
             &:before {
                 content: 'Bundesland: ';
                 font-weight: 600;
@@ -310,12 +303,31 @@ aside {
         }
         td:nth-child(4) {
             grid-column: 2 / 3;
-            padding-left: 0 !important;
-            padding-bottom: 8px;
             &:before {
                 content: 'Herleitung: ';
                 font-weight: 600;
             }
+        }
+        td:nth-child(5) {
+            grid-column: 2 / 3;
+            &:before {
+                content: 'Weitere Kreis-Kennzeichen: ';
+                font-weight: 600;
+            }
+            display: inline-flex;
+            gap: 4px;
+            flex-wrap: wrap;
+            button {
+                border: 1px solid var(--co-background-1-70);
+                background: var(--co-background-1-10);
+                color: var(--co-background-2);
+                padding: 1px 6px;
+                border-radius: var(--br-full);
+                cursor: pointer;
+            }
+        }
+        td:not(:first-child):not(:last-child) {
+            padding-bottom: var(--ga-table);
         }
         padding: calc( var(--ga-around) / 2 ) var(--ga-around);
         transition: background 0.2s ease-in-out;
@@ -326,12 +338,10 @@ aside {
             border-bottom: 1px solid var(--co-background-1-10);
         }
         td {
-            padding: var(--ga-table);
             &:first-child {
                 font-weight: 700;
             }
             &:not(:first-child) {
-                padding-left: 16px;
                 color: var(--co-background-2);
             }
             &#item_empty {
