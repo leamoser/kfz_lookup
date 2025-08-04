@@ -17,8 +17,14 @@
         <div id="searchbox">
             <input type="text" name="search" id="search" aria-label="Kennzeichen eingeben" placeholder="Kennzeichen eingeben" autocomplete="off"/>
             <div id="buttons">
-                <button id="exact">Exakt suchen</button>
-                <button id="clear">Leeren</button>
+                <button id="exact">
+                    <span class="desktop_exclusive">Exakt suchen</span>
+                    <span class="mobile_exclusive">Exakt</span>
+                </button>
+                <button id="clear">
+                    <span class="desktop_exclusive">Leeren</span>
+                    <span class="mobile_exclusive">❌</span>
+                </button>
             </div>
         </div>
     </section>

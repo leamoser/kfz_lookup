@@ -1,3 +1,4 @@
+const MAIN = document.querySelector('main');
 const SEARCH = document.querySelector('#search');
 const CLEAR = document.querySelector('#clear');
 const TABLE = document.querySelector('#table');
@@ -20,8 +21,8 @@ let filtered = [];
 let ids = [];
 
 const renderList = () => {
-    console.log('render list')
     TABLE.innerHTML = '';
+    if (!filtered || filtered.length === 0) return;
     filtered.forEach((item) => {
         const row = document.createElement('tr');
         const kennzeichen = document.createElement('td');
@@ -49,6 +50,10 @@ const renderMap = () => {
         }
     })
 }
+const renderOverscroll = () => {
+    const height = LIST.clientHeight;
+    MAIN.style.marginBottom = `${height}px`;
+}
 
 SEARCH.addEventListener('input', () => {
     if (!data) return;
@@ -62,12 +67,14 @@ SEARCH.addEventListener('input', () => {
         ids = [...new Set(mapped)];
         LIST.classList.remove('hidden');
         renderList();
+        renderOverscroll();
         renderMap();
     } else {
         filtered = [];
         ids = [];
         LIST.classList.add('hidden');
         renderList();
+        renderOverscroll();
         renderMap();
     }
 });
@@ -83,12 +90,14 @@ EXACT.addEventListener('click', () => {
         ids = [...new Set(mapped)];
         LIST.classList.remove('hidden');
         renderList();
+        renderOverscroll();
         renderMap();
     } else {
         filtered = [];
         ids = [];
         LIST.classList.add('hidden');
         renderList();
+        renderOverscroll();
         renderMap();
     }
 })
@@ -99,5 +108,6 @@ CLEAR.addEventListener('click', () => {
     LIST.classList.add('hidden');
     SEARCH.focus();
     renderList();
+    renderOverscroll();
     renderMap();
 })

@@ -28,6 +28,10 @@ body {
 .hidden {
     display: none !important;
 }
+.mobile_exclusive {
+    display: none;
+}
+.desktop_exclusive {}
 
 /*----- base & desktop styles -----*/
 main {
@@ -173,6 +177,12 @@ main {
 @media (max-width: 640px) {
     :root {
         --he-list: 250px;
+    }
+    .mobile_exclusive {
+        display: block;
+    }
+    .desktop_exclusive {
+        display: none;
     }
     /*list*/
     #list {
