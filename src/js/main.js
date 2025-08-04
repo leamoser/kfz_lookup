@@ -38,6 +38,8 @@ const renderList = () => {
         DATA_TABLE.appendChild(row);
         DATA_COUNT.innerText = '0';
         DATA_COUNT.classList.remove('has_results');
+        BTN_CLEAR_SEARCH.disabled = true;
+        BTN_SEARCH_EXACT.disabled = true;
         return;
     };
     filtered.forEach((item) => {
@@ -78,6 +80,8 @@ const renderList = () => {
     })
     DATA_COUNT.innerText = filtered.length;
     DATA_COUNT.classList.add('has_results');
+    BTN_CLEAR_SEARCH.disabled = false;
+    BTN_SEARCH_EXACT.disabled = false;
 }
 const renderMap = () => {
     ITEMS_LANDKREISE.forEach((landkreis) => {
