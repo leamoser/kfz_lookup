@@ -23,7 +23,12 @@ let ids = [];
 
 const renderList = () => {
     TABLE.innerHTML = '';
-    if (!filtered || filtered.length === 0) return;
+    if (!filtered || filtered.length === 0) {
+        const row = document.createElement('tr');
+        row.innerHTML = '<td class="empty" colspan="4">Keine Ergebnisse gefunden</td>';
+        TABLE.appendChild(row);
+        return;
+    };
     filtered.forEach((item) => {
         const row = document.createElement('tr');
         row.dataset.id = item.id;

@@ -218,6 +218,10 @@ main {
                     padding-left: 16px;
                     color: var(--co-dark-200);
                 }
+                &.empty {
+                    font-weight: 400;
+                    color: var(--co-dark-200);
+                }
             }
         }
     }
