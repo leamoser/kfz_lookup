@@ -185,7 +185,7 @@ header {
 #item_map {
     display: flex;
     position: relative;
-    height: calc(100vh - calc(3 * var(--ga-around) + var(--he-intro)));
+    height: calc(100lvh - calc(3 * var(--ga-around) + var(--he-intro)));
     svg {
         margin: 0 auto;
         .land {
@@ -253,7 +253,7 @@ aside {
     color: var(--co-background);
     width: 100%;
     max-width: var(--wi-list);
-    height: 100vh;
+    height: 100dvh;
     transform: translateX(100%);
     transition: transform 200ms ease-in-out;
     &.visible {
@@ -358,10 +358,8 @@ aside {
     }
     /*in main ct*/
     main {
-        transition: filter 0.2s ease-in-out;
         &.listed {
             width: 100%;
-            filter: brightness(50%);
         }
     }
     header {
@@ -386,7 +384,11 @@ aside {
     aside {
         z-index: 10;
         width: calc(100% - 50px);
-        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        height: calc(100dvh - calc(var(--ga-around) * 2));
+        top: var(--ga-around);
+        border-top-left-radius: var(--br-list);
+        border-bottom-left-radius: var(--br-list);
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
     }
     #data_table {
         tr {
