@@ -230,7 +230,11 @@ main {
 /*----- mobile adaptations -----*/
 @media (max-width: 640px) {
     :root {
-        --he-list: 250px;
+        --ga-around: 18px;
+        --ga-table: 4px;
+        --br-list: 18px;
+        --he-list: 123px;
+        --he-intro: 78px;
     }
     .mobile_exclusive {
         display: block;
@@ -238,7 +242,19 @@ main {
     .desktop_exclusive {
         display: none;
     }
-    /*list*/
+    #intro {
+        gap: 8px;
+        h1 {
+            span {
+                font-size: 35px;
+            }
+        }
+        #searchbox {
+            #buttons {
+                gap: 3px;
+            }
+        }
+    }
     #list {
         #table {
             tr {
